@@ -1,0 +1,14 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+3,25,burn,is a,injury,What happens if you get burned?,You get hurt if you get burned.
+9,73,tall,is the antonym of,short,What is the opposite of tall?,Short is the opposite of tall.
+11,73,ice,is made of,water,What is ice made of?,Ice is made of water.
+2,81,day,has property,light,Is it light or dark during the day?,It is light during the day.
+7,61,far,is the antonym of,close,What is the opposite of far?,The opposite of far is close.
+7,18,promise,is a,speech_act,What is a promise?,A promise is something you say you're going to do.
+5,42,useful,is the antonym of,useless,What is the opposite of useful?,Useless is the opposite of useful.
+1,1,day,is part of,week,How many days are in a week?,There are 7 days in a week.
+4,19,child,is at location of,school,Where do children go to learn?,Children go to school to learn.
+14,125,cottage,is a,house,What is a cottage?,A cottage is a house.
+6,61,forest,is a,natural_growth_area,What grows in a forest?,Trees grow in a forest.
+12,156,wolf,is capable of,give_howl,What noise do wolves make?,Wolves howl.
+13,61,aid,is a,resource,What does aid mean?,Aid means help.

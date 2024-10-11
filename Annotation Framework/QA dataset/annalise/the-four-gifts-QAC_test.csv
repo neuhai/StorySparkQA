@@ -1,0 +1,18 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+11,157,dress,is the antonym of,suit,What do girls wear when boys wear a suit?,A dress.
+13,17,aunt,is a,sister_of_parent,What do you call your parent’s sister?,My aunt.
+9,8,fire,is at location of,fireplace,What is a fireplace used for?,To make a fire. To heat the house.
+8,167,watch,is used for,time,What do you wear on your wrist to tell the time?,A watch.
+10,100,carriage,is a,horse_drawn_vehicle,What is a bourse drawn vehicle?,A carriage.
+4,230,dream,has subevent,sleep,When do you dream?,When I sleep.
+12,98,name,is part of,every_person,What is something every person has?,A name.
+17,126,sell,causes,open_business,What happens when a business opens?,They sell items.
+15,110,hat,is at location of,head,Where do you wear a hat?,On my head.
+6,38,spring,has subevent,grow,What season do flowers grow in?,In the spring.
+2,100,bank,is used for,storing_money,Where do you store your money?,The bank.
+14,176,aunt,is the antonym of,uncle,What is the opposite of an aunt?,An uncle.
+16,111,chair,is at location of,office,What do you sit in in an office?,A chair.
+3,119,loaf,is at location of,bakery,Where can you buy a loaf of bread?,A bakery.
+1,82,rat,is at location of,laboratory,What animal is used in laboratories?,Rats.
+5,56,plot,is a,plan,What is another word for a plan ?,A plot.
+7,257,agree,is the antonym of,disagree,What is the opposite of agree.,Disagree.

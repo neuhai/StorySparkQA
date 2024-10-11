@@ -1,0 +1,25 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+20,89,good,is the antonym of,bad,What is the opposite of good?,Bad.
+3,60,dirty,causes,bathe,What do you do when you are dirty?,Bathe.
+6,138,scissors,is used for,cut,What actions can you do with scissors?,I can cut things.
+15,15,box,is used for,storing_in,What can you use to store your items in?,A box.
+13,93,hand,is the antonym of,foot,What is the opposite of a foot?,A hand.
+4,33,bird,desires,fly,How does a bird travel?,They fly.
+18,173,angry,has subevent,yelling,What does someone do when they are angry?,They yell.
+7,20,cut,is at location of,finger,Where do people commonly cut themselves with paper?,Their finger.
+9,4,rise,is the antonym of,descend,What is the opposite of rise?,Descend.
+10,26,wood,is used for,fence_in_property,What do you use to build a fence for your house?,Wood.
+14,104,give,is the antonym of,take,What is the opposite of give?,Take.
+23,10,fast,is the antonym of,slow,What is the opposite of slow?,Fast.
+11,52,white,is a,opposite_of_black,What color is the opposite of black?,The color white.
+16,76,present,is capable of,surprise_child,What do parents surprise their child with?,Presents.
+5,150,today,is the antonym of,yesterday,What is the day before today called?,Yesterday.
+19,138,tongue,is at location of,mouth,Where is your tongue?,In my mouth.
+1,22,pet,is at location of,house,Where do your pets live?,In my house.
+24,100,huge,is the antonym of,tiny,What is the opposite of huge?,Tiny.
+12,101,dream,is the antonym of,nightmare,What is the opposite of a dream?,A nightmare.
+25,122,pet,is used for,companionship,What can provide you companionship?,A pet.
+17,62,coin,is used for,flipping,What can you do with a coin?,Flip it.
+22,94,big,is the antonym of,little,What is the opposite of little?,Big.
+8,28,chirp,is a,sound,What sound does a bird make?,A chirp.
+2,150,tweet,has subevent,sound,What sound does a bird make?,Tweet.

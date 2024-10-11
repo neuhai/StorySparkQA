@@ -1,0 +1,11 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+8,34,crane,is a,wading_bird,What is a crane?,A crane is a bird.
+4,43,gardener,is capable of,plant_seeds,What does a gardener do?,A gardener takes care of plants.
+1,87,attempt,is a,activity,What does attempt mean?,Attempt means to try something.
+5,75,farewell,is a,departure,What does farewell mean?,Farewell means say goodbye.
+6,132,instrument,is used for,making_music,What are instruments used for?,Instruments are used for making music.
+7,38,jade,is a,precious_stone,What is jade?,Jade is a stone.
+10,14,walk,is the antonym of,run,What is the opposite of walk?,Run is the opposite of walk.
+2,6,money,is part of,money_supply,How do you earn money?,You work to earn money.
+3,148,vegetable,is a,grocery,Where can you buy vegetables?,You can buy vegetables at the grocery store.
+9,108,examine,has subevent,look,What does examine mean?,Examine means look at.

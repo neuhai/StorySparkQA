@@ -1,0 +1,23 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+15,5,lip,is at location of,mouth,Where on your face is your lips?,My mouth.
+1,73,dark,is the antonym of,light,What is the opposite of light.,The dark.
+19,188,laugh,causes,tickle,What do you do when someone tickles you?,I laugh.
+7,171,window,is used for,letting_light_in_building,What lets outside light into a room?,A window. 
+10,69,cloak,has subevent,cover,What item of clothing can you wear to cover your whole body?,A cloak.
+2,181,medicine,is capable of,slow_disease,What do you take when you are sick to slow disease?,Medicine. 
+16,170,beak,is a,nose,What is the nose of a bird called?,A beak.
+6,186,win,is the antonym of,lose,What is the opposite of lose?,To win.
+20,248,cruel,is a,opposite_of_kind,What is the opposite of cruel?,Kind.
+8,10,shoulder,is part of,body,What connects your arm to your body?,My shoulder.
+5,96,eye,is used for,blinking,What can your eyes do?,The can blink.
+17,1,open,is a,antonym_of_shut,What is the opposite of shut?,Open.
+3,35,bird,is capable of,build_nest,What can birds build?,They can build a nest.
+18,103,colour,is part of,every_object,What does every object have?,A color.
+13,126,gold,is the antonym of,silver,What is the opposite of silver?,Gold.
+4,129,knowledge,causes,learn_about_subject,What do you gain when you learn about a subject?,Knowledge.
+22,164,happy,causes,laugh,What emotion causes you to laugh?,Happiness.
+9,82,unknown,is the antonym of,famous,What is the opposite of famous?,Unknown.
+12,226,hate,is a,opposite_of_love,What is the opposite of hate?,Love.
+21,35,boat,is at location of,water,What do you ride on the water?,A boat.
+11,136,art,is at location of,museum,What do you look at in a museum?,Art.
+14,37,liquid,is the antonym of,solid,What is the opposite of a liquid?,A solid.

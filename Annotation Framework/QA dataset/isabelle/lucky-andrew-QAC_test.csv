@@ -1,0 +1,13 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+3,18,night,is the antonym of,day,What is the opposite of night?,The opposite of night is day.
+9,109,husband,is the antonym of,wife,What is the opposite of husband?,Wife is the opposite of husband.
+4,9,gather,is a,collection,What does gather mean?,Gather means collect things.
+5,63,fall,is a,season,What season comes after summer?,Fall comes after summer.
+10,224,glove,is used for,protecting_hand,What are gloves used for?,Gloves are used to protect your hands.
+7,40,wealthy,is the antonym of,poor,What is the opposite of wealthy?,Poor is the opposite of wealthy.
+7,33,grow,is the antonym of,shrink,What is the opposite of grow?,Shrink is the opposite of grow.
+8,36,sweat,has property,good_for_heart,When do you sweat?,You sweat when you get hot.
+11,50,fast,is the antonym of,slow,What is the opposite of fast?,Slow is the opposite of fast.
+6,204,hurry,is a,urgency,What does hurry mean?,Hurry means doing something quickly.
+2,48,storm,is used for,raining,What happens during a storm?,It rains during a storm.
+1,52,fisherman,is capable of,fish_for_trout,What do fishermen do?,Fishermen catch fish.

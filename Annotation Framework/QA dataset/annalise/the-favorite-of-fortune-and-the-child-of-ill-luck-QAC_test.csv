@@ -1,0 +1,8 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+2,79,money,is at location of,bank,Where can you find a lot of money?,At the bank.
+7,6,celebrate,has subevent,throw_party,What do you throw a party for?,To celebrate an event.
+4,22,fortune,is at location of,cookie,What do you find in a cookie?,A fortune.
+3,68,far,is the antonym of,close,What is the opposite of far?,Close.
+1,104,go,is the antonym of,come,What is the opposite of go?,Come.
+5,16,marry,is the antonym of,divorce,What is the opposite of marry?,A divorce.
+6,32,palace,is a,mansion,What is another word for a palace?,A mansion.

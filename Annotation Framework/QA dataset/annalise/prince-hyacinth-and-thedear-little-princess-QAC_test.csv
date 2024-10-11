@@ -1,0 +1,17 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+2,18,tail,is part of,dogs,What body part do dogs have the humans do not?,A tail.
+14,19,nose,is capable of,smell_things,What do you use to smell things?,My nose.
+10,317,eat,causes,cook_meal,What you do when you want to eat?,Cook a meal.
+9,87,hungry,causes,eat_food,What do you do when you are hungry?,I eat food.
+13,71,hunger,causes,buy_food,What do you buy when you are hungry?,You buy food.
+16,172,long,is the antonym of,short,What is the opposite of long?,Short.
+1,118,tail,is part of,dogs,What animal has a tail?,A dog.
+3,154,large,is the antonym of,small,What is the opposite of large?,Small.
+8,85,flash,is part of,camera,What do you use on a camera to make a picture brighter.,A flash.
+7,85,nose,is capable of,smell_things,What helps you smell things?,My nose.
+17,130,nose,is at location of,face,Where is your nose?,On my face. 
+12,168,ate,is a,past_tense_of_eat,What is the past tense of eat?,Ate. 
+11,291,spite,is at location of,jealous_person,What kind of person is spiteful?,A jealous person.
+15,55,nose,is capable of,smell_things,What is capable of smelling things?,A nose.
+6,150,tiny,is the antonym of,huge,What is the opposite of tiny?,Huge.
+4,78,grow,is the antonym of,shrink,What is the opposite of shrink?,Grow.

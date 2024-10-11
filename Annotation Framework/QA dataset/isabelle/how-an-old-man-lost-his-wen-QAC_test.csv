@@ -1,0 +1,29 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+11,50,dance,has subevent,turn_on_music,What do you turn on when you dance?,You turn on music when you dance.
+17,70,quietly,is the antonym of,loudly,What is the opposite of quietly?,Loudly is the opposite of quietly.
+10,63,skill,is a,ability,What is a skill?,A skill is something that you can do.
+16,86,smooth,is the antonym of,rough,What is the opposite of smooth?,The opposite of smooth is rough.
+26,72,pull,is the antonym of,push,What is the opposite of pull?,Push is the opposite of pull.
+6,21,tree,is part of,forest,Where do trees grow?,Trees grow in the forest.
+14,42,right,is the antonym of,left,What is the opposite of right?,left is the opposite of right.
+7,49,interested,causes,learn_about_world,What does it mean when you are interested in something?,It means you want to learn more.
+2,52,hollow,has subevent,empty,What does hollow mean?,Hollow means empty.
+27,23,dream,has subevent,sleep,When do you dream?,You dream when you are sleeping.
+25,38,different,is the antonym of,alike,What is the opposite of different?,The same is the opposite of different.
+4,37,astonishment,is a,feeling,What is astonishment mean?,Astonishment means surprise.
+19,35,left,is the antonym of,right,What is the opposite of left?,Right is the opposite of left.
+20,85,late,is the antonym of,early,What is the opposite of late?,Early is the opposite of late.
+20,11,neighbor,is at location of,neighborhood,Where do your neighbors live?,Your neighbors live in your neighborhood.
+18,72,daily,has context of,slang,What does daily mean?,Daily means every day.
+24,9,fan,is used for,cool_off,What do you use a fan for?,You use a fan to cool off.
+15,55,plum,is a,fruit,What is a plum?,A plum is a fruit.
+21,38,twilight,is part of,evening,When is twilight?,Twilight is in the evening.
+1,79,chop,has subevent,cut,What does chop mean?,Chop means cut.
+8,8,cup,is at location of,dishwasher,Where do you wash cups?,You wash them in the dishwasher.
+23,51,yesterday,is a,day_before_today,What does yesterday mean?,Yesterday means the day before today.
+13,56,skill,is a,ability,What is a skill?,A skill is something you can do well.
+9,20,art,is at location of,museum,Where can you go to see art?,You can go to a museum to see art.
+12,47,large,is the antonym of,small,What is the opposite of largest?,Smallest is the opposite of largest.
+22,33,chief,has context of,slang,What does chief mean?,Chief means leader.
+5,23,music,causes,dance,What is it called when people move around to music?,It's called dancing.
+3,162,jolly,is a,party,What does jolly mean?,Jolly means happy.

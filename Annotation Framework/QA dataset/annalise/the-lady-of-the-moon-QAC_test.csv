@@ -1,0 +1,4 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+4,85,rabbit,desires,lettuce,What do rabbits like to eat?,Lettuce. Carrots.
+1,39,herb,is used for,flavoring_food,What are herbs used for?,To flavor food.
+2,27,staff,is a,stick,What is another word for a staff?,A stick.

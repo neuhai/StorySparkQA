@@ -1,0 +1,42 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+8,7,answer,is the antonym of,question,What are you looking for when you ask a question?,An answer.
+16,6,hard,is the antonym of,soft,What is then opposite of hard?,Soft.
+26,135,dragon,is capable of,breathe_fire,What creatures can breathe fire?,Dragons.
+35,66,moon,is the antonym of,sun,What is the opposite of the moon?,The sun.
+11,70,happily,is the antonym of,sadly,What is the opposite of happily?,Sadly.
+40,91,write,has subevent,get_pen_and_paper,What do you do when you get a pen and paper.,You write.
+19,200,fact,is the antonym of,fiction,What is the opposite of fiction?,A fact.
+34,82,earth,is used for,live_on,What planet do we live on?,We live on earth.
+13,54,summer,is a,warmest_season,What is the warmest season?,Summer
+42,77,cloud,is at location of,sky,What is white in the sky?,The clouds.
+5,9,house,is made of,rooms,What is a house made up of?,Rooms.
+9,72,winter,has property,cold,What is the coldest season?,Winter.
+29,106,lady,is the antonym of,gentleman,What is the opposite of a gentleman?,A lady.
+21,37,silver,is used for,making_into_jewelry,What can you make with silver?,You can make silver into jewelry.
+10,6,ear,is at location of,head,Where are your ears?,On my head.
+32,25,shadow,is at location of,ground,Where is your shadow>,On the ground.
+3,103,beautiful,is the antonym of,ugly,What is the opposite of beautiful?,Ugly.
+33,42,sad,causes,comfort_friend,What do you do when your friend is sad?,I comfort my friend.
+38,67,wealth,is the antonym of,poverty,What is the opposite of wealth?,Poverty.
+18,52,bowl,is at location of,cupboard,Where do you keep bowls?,The cupboard.
+14,100,excellent,is the antonym of,terrible,What is the opposite of excellent?,Terrible.
+23,94,long,is the antonym of,short,What is the opposite of long?,Short.
+28,38,dragon,is a,mythical_beast,What is a dragon?,A mythical beast.
+27,30,holiday,causes,have_party,What do you do on a holiday?,Have a party.
+25,65,news,is at location of,television,Where do you watch the news?,The television.
+39,26,bright,is the antonym of,dark,What is the opposite of bright?,Dark.
+12,20,little,is the antonym of,lot,What is the opposite of having a lot?,Having a little.
+36,157,shower,is part of,shower_stall,Where do you shower?,In a shower stall.
+31,84,sleeve,is part of,shirt,What are the arms of a shirt called?,Sleeves. 
+24,61,gold,has property,yellow_in_color,What color is gold?,Yellow. 
+2,123,child,desires,learn,What do children want to do?,Learn.
+4,7,name,is used for,identify_or,How do you identify people?,With a name.
+1,130,inch,is part of,foot,How long is 12 inches?,A foot.
+37,33,cloud,is capable of,cover_sun,What covers the sun?,Clouds.
+30,92,sight,is a,sense,What sense do you use your eyes for?,Sight.
+41,96,cloud,is used for,rain,What creates rain?,The clouds.
+15,148,shell,is at location of,ocean,Where do you find shells?,The ocean.
+7,11,frost,is a,ice,What causes frost?,Ice.
+22,34,storm,is used for,raining,What is it called when it rains really hard?,A storm.
+17,67,temple,is used for,praying,What do you do in a temple?,Pray.
+20,139,handsome,is a,masculine_thing,What is the masculine version of pretty.,Handsome.

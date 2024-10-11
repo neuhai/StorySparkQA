@@ -1,0 +1,588 @@
+section_id,section_text,word_id,concept(sub),relation,obj,question,each_answer
+1,"A young man was out walking one day in Erin, leading a stout cart-horse
+by the bridle. He was thinking of his mother and how poor they were
+since his father, who was a fisherman, had been drowned at sea, and
+wondering what he should do to earn a living for both of them. Suddenly
+a hand was laid on his shoulder, and a voice said to him:
+
+'Will you sell me your horse, son of the fisherman?' and looking up he
+beheld a man standing in the road with a gun in his hand, a falcon on
+his shoulder, and a dog by his side.
+
+'What will you give me for my horse?' asked the youth. 'Will you give me
+your gun, and your dog, and your falcon?'",52,earn,has subevent,get,What does earn mean?,get.
+1,"A young man was out walking one day in Erin, leading a stout cart-horse
+by the bridle. He was thinking of his mother and how poor they were
+since his father, who was a fisherman, had been drowned at sea, and
+wondering what he should do to earn a living for both of them. Suddenly
+a hand was laid on his shoulder, and a voice said to him:
+
+'Will you sell me your horse, son of the fisherman?' and looking up he
+beheld a man standing in the road with a gun in his hand, a falcon on
+his shoulder, and a dog by his side.
+
+'What will you give me for my horse?' asked the youth. 'Will you give me
+your gun, and your dog, and your falcon?'",99,road,is used for,travelers,What is a road used for?,A road is used for traveling.
+2,"'I will give them,' answered the man, and he took the horse, and the
+youth took the gun and the dog and the falcon, and went home with them.
+But when his mother heard what he had done she was very angry, and beat
+him with a stick which she had in her hand.
+
+'That will teach you to sell my property,' said she, when her arm was
+quite tired, but Ian her son answered her nothing, and went off to his
+bed, for he was very sore.
+
+That night he rose softly, and left the house carrying the gun with him.
+'I will not stay here to be beaten,' thought he, and he walked and
+he walked and he walked, till it was day again, and he was hungry and
+looked about him to see if he could get anything to eat. Not very far
+off was a farm-house, so he went there, and knocked at the door, and the
+farmer and his wife begged him to come in, and share their breakfast.",55,stick,is at location of,forest,Where can you find a stick?,In the forest.
+2,"'I will give them,' answered the man, and he took the horse, and the
+youth took the gun and the dog and the falcon, and went home with them.
+But when his mother heard what he had done she was very angry, and beat
+him with a stick which she had in her hand.
+
+'That will teach you to sell my property,' said she, when her arm was
+quite tired, but Ian her son answered her nothing, and went off to his
+bed, for he was very sore.
+
+That night he rose softly, and left the house carrying the gun with him.
+'I will not stay here to be beaten,' thought he, and he walked and
+he walked and he walked, till it was day again, and he was hungry and
+looked about him to see if he could get anything to eat. Not very far
+off was a farm-house, so he went there, and knocked at the door, and the
+farmer and his wife begged him to come in, and share their breakfast.",70,property,is a,possession,What is property?,Property is something you own.
+3,"'Ah, you have a gun,' said the farmer as the young man placed it in a
+corner. 'That is well, for a deer comes every evening to eat my corn,
+and I cannot catch it. It is fortune that has sent you to me.'
+
+'I will gladly remain and shoot the deer for you,' replied the youth,
+and that night he hid himself and watched till the deer came to the
+cornfield; then he lifted his gun to his shoulder and was just going
+to pull the trigger, when, behold! instead of a deer, a woman with long
+black hair was standing there. At this sight his gun almost dropped from
+his hand in surprise, but as he looked, there was the deer eating the
+corn again. And thrice this happened, till the deer ran away over the
+moor, and the young man after her.",147,corn,is a,vegetable,What type of food is corn?,A vegetable.
+3,"'Ah, you have a gun,' said the farmer as the young man placed it in a
+corner. 'That is well, for a deer comes every evening to eat my corn,
+and I cannot catch it. It is fortune that has sent you to me.'
+
+'I will gladly remain and shoot the deer for you,' replied the youth,
+and that night he hid himself and watched till the deer came to the
+cornfield; then he lifted his gun to his shoulder and was just going
+to pull the trigger, when, behold! instead of a deer, a woman with long
+black hair was standing there. At this sight his gun almost dropped from
+his hand in surprise, but as he looked, there was the deer eating the
+corn again. And thrice this happened, till the deer ran away over the
+moor, and the young man after her.",34,corn,is at location of,field,What color is corn?,Corn is yellow.
+4,"On they went, on and on and one, till they reached a cottage which was
+thatched with heather. With a bound the deer sprang on the roof, and lay
+down where none could see her, but as she did so she called out, 'Go in,
+fisher's son, and eat and drink while you may.' So he entered and found
+food and wine on the table, but no man, for the house belonged to some
+robbers, who were still away at their wicked business.
+
+After Ian, the fisher's son, had eaten all he wanted, he hid himself
+behind a great cask, and very soon he heard a noise, as of men coming
+through the heather, and the small twigs snapping under their feet.
+From his dark corner he could see into the room, and he counted four and
+twenty of them, all big, cross-looking men.
+
+'Some one has been eating our dinner,' cried they, 'and there was hardly
+enough for ourselves.'",139,twig,has subevent,branch,What are small branches called?,Twigs.
+4,"On they went, on and on and one, till they reached a cottage which was
+thatched with heather. With a bound the deer sprang on the roof, and lay
+down where none could see her, but as she did so she called out, 'Go in,
+fisher's son, and eat and drink while you may.' So he entered and found
+food and wine on the table, but no man, for the house belonged to some
+robbers, who were still away at their wicked business.
+
+After Ian, the fisher's son, had eaten all he wanted, he hid himself
+behind a great cask, and very soon he heard a noise, as of men coming
+through the heather, and the small twigs snapping under their feet.
+From his dark corner he could see into the room, and he counted four and
+twenty of them, all big, cross-looking men.
+
+'Some one has been eating our dinner,' cried they, 'and there was hardly
+enough for ourselves.'",29,roof,is a,protective_covering,What is a roof used for?,A roof is used to protect a building.
+5,"'It is the man who is lying under the cask,' answered the leader. 'Go
+and kill him, and then come and eat your food and sleep, for we must be
+off betimes in the morning.'
+
+So four of them killed the fisher's son and left him, and then went to
+bed.
+
+By sunrise they were all out of the house, for they had far to go. And
+when they had disappeared the deer came off the roof, to where the dead
+man lay, and she shook her head over him, and wax fell from her ear, and
+he jumped up as well as ever.",88,roof,is used for,keeping_rain_off,What keeps rain out of your house?,The roof.
+5,"'It is the man who is lying under the cask,' answered the leader. 'Go
+and kill him, and then come and eat your food and sleep, for we must be
+off betimes in the morning.'
+
+So four of them killed the fisher's son and left him, and then went to
+bed.
+
+By sunrise they were all out of the house, for they had far to go. And
+when they had disappeared the deer came off the roof, to where the dead
+man lay, and she shook her head over him, and wax fell from her ear, and
+he jumped up as well as ever.",59,bed,is at location of,house,Where is your bed?,You bed is in your bedroom.
+6,"'Trust me and eat as you did before, and no harm shall happen to you,'
+said she. So Ian ate and drank, and fell sound asleep under the cask.
+In the evening the robbers arrived very tired, and crosser than they
+had been yesterday, for their luck had turned and they had brought back
+scarcely anything.
+
+'Someone has eaten our dinner again,' cried they.
+
+'It is the man under the barrel,' answered the captain. 'Let four of you
+go and kill him, but first slay the other four who pretended to kill him
+last night and didn't because he is still alive.'",118,alive,is capable of,grow,What can plants that are alive do?,Grow.
+6,"'Trust me and eat as you did before, and no harm shall happen to you,'
+said she. So Ian ate and drank, and fell sound asleep under the cask.
+In the evening the robbers arrived very tired, and crosser than they
+had been yesterday, for their luck had turned and they had brought back
+scarcely anything.
+
+'Someone has eaten our dinner again,' cried they.
+
+'It is the man under the barrel,' answered the captain. 'Let four of you
+go and kill him, but first slay the other four who pretended to kill him
+last night and didn't because he is still alive.'",87,captain,is a,leader,What is a captain?,A captain is a leader.
+7,"Then Ian was killed a second time, and after the rest of the robbers had
+eaten, they lay down and slept till morning.
+
+No sooner were their faces touched with the sun's rays than they were up
+and off. Then the deer entered and dropped the healing wax on the dead
+man, and he was as well as ever. By this time he did not mind what
+befell him, so sure was he that the deer would take care of him, and
+in the evening that which had happened before happened again--the four
+robbers were put to death and the fisher's son also, but because there
+was no food left for them to eat, they were nearly mad with rage, and
+began to quarrel. From quarrelling they went on to fighting, and fought
+so hard that by and bye they were all stretched dead on the floor.
+
+Then the deer entered, and the fisher's son was restored to life, and
+bidding him follow her, she ran on to a little white cottage where dwelt
+an old woman and her son, who was thin and dark.",5,second,is part of,minute,What is 60 seconds equal to?,A minute.
+7,"Then Ian was killed a second time, and after the rest of the robbers had
+eaten, they lay down and slept till morning.
+
+No sooner were their faces touched with the sun's rays than they were up
+and off. Then the deer entered and dropped the healing wax on the dead
+man, and he was as well as ever. By this time he did not mind what
+befell him, so sure was he that the deer would take care of him, and
+in the evening that which had happened before happened again--the four
+robbers were put to death and the fisher's son also, but because there
+was no food left for them to eat, they were nearly mad with rage, and
+began to quarrel. From quarrelling they went on to fighting, and fought
+so hard that by and bye they were all stretched dead on the floor.
+
+Then the deer entered, and the fisher's son was restored to life, and
+bidding him follow her, she ran on to a little white cottage where dwelt
+an old woman and her son, who was thin and dark.",205,thin,is the antonym of,thick,What is the opposite of thin?,Thick is the opposite of thin.
+8,"'Here I must leave you,' said the deer, 'but to-morrow meet me at
+midday in the church that is yonder.' And jumping across the stream, she
+vanished into a wood.
+
+Next day he set out for the church, but the old woman of the cottage had
+gone before him, and had stuck an enchanted stick called 'the spike of
+hurt' in a crack of the door, so that he would brush against it as he
+stepped across the threshold. Suddenly he felt so sleepy that he could
+not stand up, and throwing himself on the ground he sank into a deep
+slumber, not knowing that the dark lad was watching him. Nothing could
+waken him, not even the sound of sweetest music, nor the touch of a lady
+who bent over him. A sad look came on her face, as she saw it was no
+use, and at last she gave it up, and lifting his arm, wrote her name
+across the side--'the daughter of the king of the town under the
+waves.'
+
+'I will come to-morrow,' she whispered, though he could not hear her,
+and she went sorrowfully away.",95,sleepy,causes,sleep,What do you do when you are sleepy.,I go to sleep.
+8,"'Here I must leave you,' said the deer, 'but to-morrow meet me at
+midday in the church that is yonder.' And jumping across the stream, she
+vanished into a wood.
+
+Next day he set out for the church, but the old woman of the cottage had
+gone before him, and had stuck an enchanted stick called 'the spike of
+hurt' in a crack of the door, so that he would brush against it as he
+stepped across the threshold. Suddenly he felt so sleepy that he could
+not stand up, and throwing himself on the ground he sank into a deep
+slumber, not knowing that the dark lad was watching him. Nothing could
+waken him, not even the sound of sweetest music, nor the touch of a lady
+who bent over him. A sad look came on her face, as she saw it was no
+use, and at last she gave it up, and lifting his arm, wrote her name
+across the side--'the daughter of the king of the town under the
+waves.'
+
+'I will come to-morrow,' she whispered, though he could not hear her,
+and she went sorrowfully away.",113,deep,is the antonym of,shallow,What is the opposite of deep?,Shallow is the opposite of deep.
+9,"Then he awoke, and the dark lad told him what had befallen him, and he
+was very grieved. But the dark lad did not tell him of the name that was
+written underneath his arm.
+
+On the following morning the fisher's son again went to the church,
+determined that he would not go to sleep, whatever happened. But in his
+hurry to enter he touched with his hand the spike of hurt, and sank down
+where he stood, wrapped in slumber. A second time the air was filled
+with music, and the lady came in, stepping softly, but though she laid
+his head on her knee, and combed his hair with a golden comb, his eyes
+opened not. Then she burst into tears, and placing a beautifully wrought
+box in his pocket she went her way.
+
+The next day the same thing befell the fisher's son, and this time
+the lady wept more bitterly than before, for she said it was the last
+chance, and she would never be allowed to come any more, for home she
+must go.",132,open,is the antonym of,closed,What is the opposite of opened?,Closed.
+9,"Then he awoke, and the dark lad told him what had befallen him, and he
+was very grieved. But the dark lad did not tell him of the name that was
+written underneath his arm.
+
+On the following morning the fisher's son again went to the church,
+determined that he would not go to sleep, whatever happened. But in his
+hurry to enter he touched with his hand the spike of hurt, and sank down
+where he stood, wrapped in slumber. A second time the air was filled
+with music, and the lady came in, stepping softly, but though she laid
+his head on her knee, and combed his hair with a golden comb, his eyes
+opened not. Then she burst into tears, and placing a beautifully wrought
+box in his pocket she went her way.
+
+The next day the same thing befell the fisher's son, and this time
+the lady wept more bitterly than before, for she said it was the last
+chance, and she would never be allowed to come any more, for home she
+must go.",23,dark,is the antonym of,light,What is the opposite of dark?,Light is the opposite of dark.
+10,"As soon as the lady had departed the fisher's son awoke, and the dark
+lad told him of her visit, and how he would never see her as long as he
+lived. At this the fisher's son felt the cold creeping up to his heart,
+yet he knew the fault had not been his that sleep had overtaken him.
+
+'I will search the whole world through till I find her,' cried he, and
+the dark lad laughed as he heard him. But the fisher's son took no heed,
+and off he went, following the sun day after day, till his shoes were in
+holes and his feet were sore from the journey. Nought did he see but
+the birds that made their nests in the trees, not so much as a goat or
+a rabbit. On and on and on he went, till suddenly he came upon a little
+house, with a woman standing outside it.",139,nest,is a,shelter_for_birds,What is a shelter for birds called?,A nest.
+10,"As soon as the lady had departed the fisher's son awoke, and the dark
+lad told him of her visit, and how he would never see her as long as he
+lived. At this the fisher's son felt the cold creeping up to his heart,
+yet he knew the fault had not been his that sleep had overtaken him.
+
+'I will search the whole world through till I find her,' cried he, and
+the dark lad laughed as he heard him. But the fisher's son took no heed,
+and off he went, following the sun day after day, till his shoes were in
+holes and his feet were sore from the journey. Nought did he see but
+the birds that made their nests in the trees, not so much as a goat or
+a rabbit. On and on and on he went, till suddenly he came upon a little
+house, with a woman standing outside it.",6,depart,has subevent,leave,What does depart mean?,Depart means leave.
+11,"'All hail, fisher's son!' said she. 'I know what you are seeking; enter
+in and rest and eat, and to-morrow I will give you what help I can, and
+send you on your way.'
+
+Gladly did Ian the fisher's son accept her offer, and all that day he
+rested, and the woman gave him ointment to put on his feet, which healed
+his sores. At daybreak he got up, ready to be gone, and the woman bade
+him farewell, saying:
+
+'I have a sister who dwells on the road which you must travel. It is a
+long road, and it would take you a year and a day to reach it, but put
+on these old brown shoes with holes all over them, and you will be there
+before you know it. Then shake them off, and turn their toes to the
+known, and their heels to the unknown, and they will come home of
+themselves.'",141,shoe,is at location of,closet,Where do you store your shoes?,In the closet.
+11,"'All hail, fisher's son!' said she. 'I know what you are seeking; enter
+in and rest and eat, and to-morrow I will give you what help I can, and
+send you on your way.'
+
+Gladly did Ian the fisher's son accept her offer, and all that day he
+rested, and the woman gave him ointment to put on his feet, which healed
+his sores. At daybreak he got up, ready to be gone, and the woman bade
+him farewell, saying:
+
+'I have a sister who dwells on the road which you must travel. It is a
+long road, and it would take you a year and a day to reach it, but put
+on these old brown shoes with holes all over them, and you will be there
+before you know it. Then shake them off, and turn their toes to the
+known, and their heels to the unknown, and they will come home of
+themselves.'",22,rest,has subevent,sleep,Where do you rest at night?,You rest in your bed at night.
+11,"'All hail, fisher's son!' said she. 'I know what you are seeking; enter
+in and rest and eat, and to-morrow I will give you what help I can, and
+send you on your way.'
+
+Gladly did Ian the fisher's son accept her offer, and all that day he
+rested, and the woman gave him ointment to put on his feet, which healed
+his sores. At daybreak he got up, ready to be gone, and the woman bade
+him farewell, saying:
+
+'I have a sister who dwells on the road which you must travel. It is a
+long road, and it would take you a year and a day to reach it, but put
+on these old brown shoes with holes all over them, and you will be there
+before you know it. Then shake them off, and turn their toes to the
+known, and their heels to the unknown, and they will come home of
+themselves.'",76,heal,has subevent,better,What does heal mean?,Heal means get better.
+12,"The fisher's son did as the woman told him, and everything happened just
+as she had said. But at parting the second sister said to him, as she
+gave him another pair of shoes:
+
+'Go to my third sister, for she has a son who is keeper of the birds of
+the air, and sends them to sleep when night comes. He is very wise, and
+perhaps he can help you.'
+
+Then the young man thanked her, and went to the third sister.",37,shoe,is used for,protecting_foot,What protects your foot?,A shoe.
+12,"The fisher's son did as the woman told him, and everything happened just
+as she had said. But at parting the second sister said to him, as she
+gave him another pair of shoes:
+
+'Go to my third sister, for she has a son who is keeper of the birds of
+the air, and sends them to sleep when night comes. He is very wise, and
+perhaps he can help you.'
+
+Then the young man thanked her, and went to the third sister.",55,bird,is capable of,build_nest,What do birds build?,Birds build nests.
+13,"The third sister was very kind, but had no counsel to give him, so he
+ate and drank and waited till her son came home, after he had sent all
+the birds to sleep. He thought a long while after his mother had told
+him the young man's story, and at last he said that he was hungry, and
+the cow must be killed, as he wanted some supper. So the cow was killed
+and the meat cooked, and a bag made of its red skin.
+
+'Now get into the bag,' bade the son, and the young man got in and took
+his gun with him, but the dog and the falcon he left outside. The keeper
+of the birds drew the string at the top of the bag, and left it to
+finish his supper, when in flew an eagle through the open door, and
+picked the bag up in her claws and carried it through the air to an
+island. There was nothing to eat on the island, and the fisher's son
+thought he would die of food, when he remembered the box that the lady
+had put in his pocket. He opened the lid, and three tiny little birds
+flew out, and flapping their wings they asked,
+
+'Good master, is there anything we can do for thee?'",86,cooked,is the antonym of,raw,What is the opposite of raw?,Cooked.
+13,"The third sister was very kind, but had no counsel to give him, so he
+ate and drank and waited till her son came home, after he had sent all
+the birds to sleep. He thought a long while after his mother had told
+him the young man's story, and at last he said that he was hungry, and
+the cow must be killed, as he wanted some supper. So the cow was killed
+and the meat cooked, and a bag made of its red skin.
+
+'Now get into the bag,' bade the son, and the young man got in and took
+his gun with him, but the dog and the falcon he left outside. The keeper
+of the birds drew the string at the top of the bag, and left it to
+finish his supper, when in flew an eagle through the open door, and
+picked the bag up in her claws and carried it through the air to an
+island. There was nothing to eat on the island, and the fisher's son
+thought he would die of food, when he remembered the box that the lady
+had put in his pocket. He opened the lid, and three tiny little birds
+flew out, and flapping their wings they asked,
+
+'Good master, is there anything we can do for thee?'",220,lid,is a,top,What is a lid?,A lid is the top of a container.
+14,"'Bear me to the kingdom of the king under the waves,' he answered, and
+one little bird flew on to his head, and the others perched on each of
+his shoulders, and he shut his eyes, and in a moment there he was in
+the country under the sea. Then the birds flew away, and the young man
+looked about him, his heart beating fast at the thought that here dwelt
+the lady whom he had sought all the world over.
+
+He walked on through the streets, and presently he reached the house of
+a weaver who was standing at his door, resting from his work.
+
+'You are a stranger here, that is plain,' said the weaver, 'but come in,
+and I will give you food and drink.' And the young man was glad, for he
+knew not where to go, and they sat and talked till it grew late.",109,stand,is part of,stadium,What do you do at a stadium?,You stand.
+14,"'Bear me to the kingdom of the king under the waves,' he answered, and
+one little bird flew on to his head, and the others perched on each of
+his shoulders, and he shut his eyes, and in a moment there he was in
+the country under the sea. Then the birds flew away, and the young man
+looked about him, his heart beating fast at the thought that here dwelt
+the lady whom he had sought all the world over.
+
+He walked on through the streets, and presently he reached the house of
+a weaver who was standing at his door, resting from his work.
+
+'You are a stranger here, that is plain,' said the weaver, 'but come in,
+and I will give you food and drink.' And the young man was glad, for he
+knew not where to go, and they sat and talked till it grew late.",96,street,is used for,driving_on,What do you do on the street?,You drive on the street.
+15,"'Stay with me, I pray, for I love company and am lonely,' observed the
+weaver at last, and he pointed to a bed in a corner, where the fisher's
+son threw himself, and slept till dawn.
+
+'There is to be a horse-race in the town to-day,' remarked the weaver,
+'and the winner is to have the king's daughter to wife.' The young
+man trembled with excitement at the news, and his voice shook as he
+answered:
+
+'That will be a prize indeed, I should like to see the race.'
+
+'Oh, that is quite easy--anyone can go,' replied the weaver. 'I would
+take you myself, but I have promised to weave this cloth for the king.'",113,easy,is the antonym of,hard,What is the opposite of easy?,Hard.
+15,"'Stay with me, I pray, for I love company and am lonely,' observed the
+weaver at last, and he pointed to a bed in a corner, where the fisher's
+son threw himself, and slept till dawn.
+
+'There is to be a horse-race in the town to-day,' remarked the weaver,
+'and the winner is to have the king's daughter to wife.' The young
+man trembled with excitement at the news, and his voice shook as he
+answered:
+
+'That will be a prize indeed, I should like to see the race.'
+
+'Oh, that is quite easy--anyone can go,' replied the weaver. 'I would
+take you myself, but I have promised to weave this cloth for the king.'",96,prize,is a,gift,What is a prize?,A prize is something you win.
+16,"'That is a pity,' returned the young man politely, but in his heart he
+rejoiced, for he wished to be alone.
+
+Leaving the house, he entered a grove of trees which stood behind, and
+took the box from his pocket. He raised the lid, and out flew the three
+little birds.
+
+'Good master, what shall we do for thee?' asked they, and he answered,
+'Bring me the finest horse that ever was seen, and the grandest dress,
+and glass shoes.'
+
+'They are here, master,' said the birds, and so they were, and never had
+the young man seen anything so splendid.",95,glass,has property,clear,What color is glass?,Clear.
+16,"'That is a pity,' returned the young man politely, but in his heart he
+rejoiced, for he wished to be alone.
+
+Leaving the house, he entered a grove of trees which stood behind, and
+took the box from his pocket. He raised the lid, and out flew the three
+little birds.
+
+'Good master, what shall we do for thee?' asked they, and he answered,
+'Bring me the finest horse that ever was seen, and the grandest dress,
+and glass shoes.'
+
+'They are here, master,' said the birds, and so they were, and never had
+the young man seen anything so splendid.",95,glass,has property,very_fragile,Is glass easy or hard to break?,Glass is easy to break.
+17,"Mounting the horse he rode into the ground where the horses were
+assembling for the great race, and took his place among them. Many
+good beasts were there which had won many races, but the horse of the
+fisher's son left them all behind, and he was first at the winning post.
+The king's daughter waited for him in vain to claim his prize, for
+he went back to the wood, and got off his horse, and put on his old
+clothes, and bade the box place some gold in his pockets. After that
+he went back to the weaver's house, and told him that the gold had been
+given him by the man who had won the race, and that the weaver might
+have it for his kindness to him.
+
+Now as nobody had appeared to demand the hand of the princess, the king
+ordered another race to be run, and the fisher's son rode into the field
+still more splendidly dressed than he was before, and easily distanced
+everybody else. But again he left the prize unclaimed, and so it
+happened on the third day, when it seemed as if all the people in
+the kingdom were gathered to see the race, for they were filled with
+curiosity to know who the winner could be.",102,pocket,is capable of,store_coins,Where can you store coins?,In my pocket.
+17,"Mounting the horse he rode into the ground where the horses were
+assembling for the great race, and took his place among them. Many
+good beasts were there which had won many races, but the horse of the
+fisher's son left them all behind, and he was first at the winning post.
+The king's daughter waited for him in vain to claim his prize, for
+he went back to the wood, and got off his horse, and put on his old
+clothes, and bade the box place some gold in his pockets. After that
+he went back to the weaver's house, and told him that the gold had been
+given him by the man who had won the race, and that the weaver might
+have it for his kindness to him.
+
+Now as nobody had appeared to demand the hand of the princess, the king
+ordered another race to be run, and the fisher's son rode into the field
+still more splendidly dressed than he was before, and easily distanced
+everybody else. But again he left the prize unclaimed, and so it
+happened on the third day, when it seemed as if all the people in
+the kingdom were gathered to see the race, for they were filled with
+curiosity to know who the winner could be.",91,clothes,is at location of,store,Where can you buy clothes?,You buy clothes from the store.
+18,"'If he will not come of his own free will, he must be brought,' said the
+king, and the messengers who had seen the face of the victor were sent
+to seek him in every street of the town. This took many days, and when
+at last they found the young man in the weaver's cottage, he was so
+dirty and ugly and had such a strange appearance, that they declared he
+could not be the winner they had been searching for, but a wicked robber
+who had murdered ever so many people, but had always managed to escape.
+
+'Yes, it must be the robber,' said the king, when the fisher's son was
+led into his presence; 'build a gallows at once and hang him in the
+sight of all my subjects, that they may behold him suffer the punishment
+of his crimes.'",45,take,is the antonym of,bring,What is the opposite of bring?,Take.
+18,"'If he will not come of his own free will, he must be brought,' said the
+king, and the messengers who had seen the face of the victor were sent
+to seek him in every street of the town. This took many days, and when
+at last they found the young man in the weaver's cottage, he was so
+dirty and ugly and had such a strange appearance, that they declared he
+could not be the winner they had been searching for, but a wicked robber
+who had murdered ever so many people, but had always managed to escape.
+
+'Yes, it must be the robber,' said the king, when the fisher's son was
+led into his presence; 'build a gallows at once and hang him in the
+sight of all my subjects, that they may behold him suffer the punishment
+of his crimes.'",158,punishment,is part of,guilty_people_must,When does someone get punished?,Someone gets punished when they've done something bad.
+19,"So the gallows was built upon a high platform, and the fisher's son
+mounted the steps up to it, and turned at the top to make the speech
+that was expected from every doomed man, innocent or guilt. As he spoke
+he happened to raise his arm, and the king's daughter, who was there at
+her father's side, saw the name which she had written under it. With
+a shriek she sprang from her seat, and the eyes of the spectators were
+turned towards her.
+
+'Stop! stop!' she cried, hardly knowing what she said. 'If that man
+is hanged there is not a soul in the kingdom but shall die also.' And
+running up to where the fisher's son was standing, she took him by the
+hand, saying,
+
+'Father, this is no robber or murderer, but the victor in the three
+races, and he loosed the spells that were laid upon me.'",85,seat,is at location of,theater,Where do you sit at a theater?,In a seat.
+19,"So the gallows was built upon a high platform, and the fisher's son
+mounted the steps up to it, and turned at the top to make the speech
+that was expected from every doomed man, innocent or guilt. As he spoke
+he happened to raise his arm, and the king's daughter, who was there at
+her father's side, saw the name which she had written under it. With
+a shriek she sprang from her seat, and the eyes of the spectators were
+turned towards her.
+
+'Stop! stop!' she cried, hardly knowing what she said. 'If that man
+is hanged there is not a soul in the kingdom but shall die also.' And
+running up to where the fisher's son was standing, she took him by the
+hand, saying,
+
+'Father, this is no robber or murderer, but the victor in the three
+races, and he loosed the spells that were laid upon me.'",85,seat,causes,sit,What do you do with a seat?,You sit in a seat.
+20,"Then, without waiting for a reply, she conducted him into the palace,
+and he bathed in a marble bath, and all the dirt that the fairies had
+put upon him disappeared like magic, and when he had dressed himself in
+the fine garments the princess had sent to him, he looked a match for
+any king's daughter in Erin. He went down into the great hall where she
+was awaiting him, and they had much to tell each other but little
+time to tell it in, for the king her father, and the princes who were
+visiting him, and all the people of the kingdom were still in their
+places expecting her return.
+
+'How did you find me out?' she whispered as they went down the passage.",92,tell,is the antonym of,ask,What is the opposite of telling?,Asking.
+20,"Then, without waiting for a reply, she conducted him into the palace,
+and he bathed in a marble bath, and all the dirt that the fairies had
+put upon him disappeared like magic, and when he had dressed himself in
+the fine garments the princess had sent to him, he looked a match for
+any king's daughter in Erin. He went down into the great hall where she
+was awaiting him, and they had much to tell each other but little
+time to tell it in, for the king her father, and the princes who were
+visiting him, and all the people of the kingdom were still in their
+places expecting her return.
+
+'How did you find me out?' she whispered as they went down the passage.",26,dirt,is at location of,ground,Where does dirt come from?,Dirt comes from the ground.
+21,"'The birds in the box told me,' answered he, but he could say no more,
+as they stepped out into the open space that was crowded with people.
+There the princes stopped.
+
+'O kings!' she said, turning towards them, 'if one of you were killed
+to-day, the rest would fly; but this man put his trust in me, and had
+his head cut off three times. Because he has done this, I will marry him
+rather than one of you, who have come hither to wed me, for many kings
+here sought to free me from the spells, but none could do it save Ian
+the fisher's son.'",61,fly,is a,insect,How do insects travel?,They fly.
+21,"'The birds in the box told me,' answered he, but he could say no more,
+as they stepped out into the open space that was crowded with people.
+There the princes stopped.
+
+'O kings!' she said, turning towards them, 'if one of you were killed
+to-day, the rest would fly; but this man put his trust in me, and had
+his head cut off three times. Because he has done this, I will marry him
+rather than one of you, who have come hither to wed me, for many kings
+here sought to free me from the spells, but none could do it save Ian
+the fisher's son.'",25,open,is the antonym of,closed,What is the opposite of open?,The opposite of open is closed.

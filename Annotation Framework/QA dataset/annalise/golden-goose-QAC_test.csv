@@ -1,0 +1,11 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+10,44,eat,has subevent,prepare_food,What do you do after you make food?,I eat it.
+8,15,answer,is the antonym of,question,What is the opposite of a question?,An answer.
+9,36,fresh,is the antonym of,stale,What is the opposite of stale?,Fresh.
+6,102,young,is the antonym of,aged,What do young people have the ability to do?,To age.
+4,25,feather,is used for,tickle,What can you use a feather to do?,Tickle someone.
+5,126,night,is the antonym of,day,What is the opposite of night?,Day.
+3,57,sour,is a,taste,What does sour describe?,A taste.
+11,126,year,is part of,decade,How long is a decade?,10 years.
+7,167,spot,is a,pattern,What pattern has a bunch of circles?,Spots.
+2,101,sour,is a,taste,How does a lemon taste?,Sour.

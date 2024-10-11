@@ -1,0 +1,17 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+12,175,wolf,is at location of,forest,Where does a wolf live?,A forest. 
+7,1,game,is at location of,toy_store,Where can you find games?,The toy store. The arcade.
+13,117,gallop,is a,horse_gait,How does a horse walk?,They gallop.
+4,106,voice,is used for,singing,When can you use your voice to do when there is music playing?,Sing.
+15,85,friend,is at location of,at_school,Where do you make friends?,At school.
+14,30,aloud,is the antonym of,in_whisper,What is the opposite of speaking aloud?,Speaking in a whisper.
+3,128,daughter,is the antonym of,son,What is the opposite of a daughter?,A son.
+2,106,poor,is the antonym of,rich,What is the opposite of poor?,Rich.
+9,32,laugh,is the antonym of,cry,What is the opposite of crying?,Laughing.
+6,9,suspicion,causes,discover_truth,What causes you to discover a truth?,Suspicion.
+10,258,red,is a,color,What color is fire?,Red.
+5,261,wood,is at location of,boat,What do you build a boat with?,Wood.
+16,126,ear,is at location of,head,Where is your ear?,On my head.
+8,240,red,is a,color,What color is meat?,red.
+11,60,spoil,has subevent,decay,What happens after food spoils?,It decays.
+1,45,fox,is a,animal,What is a fox?,An animal.

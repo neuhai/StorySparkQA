@@ -1,0 +1,198 @@
+section_id,section_text,word_id,concept(sub),relation,obj,question,each_answer
+1,"ONCE upon a time there was a sinister old couple, who lived out under the open sky. All that they had were three sons, an old cook-pot, an old frying-pan, and an old cat. Then the man died, and after a time his wife died, too. Now their estate was to be divided. So the oldest took the old cook-pot, and the second took the old frying-pan, and Ebe Ashpeter had no choice. He had to take the old cat, and they did not ask him whether he wanted to or not.",17,sky,is capable of,rain_water,Where does rain water come from?,The sky.
+1,"ONCE upon a time there was a sinister old couple, who lived out under the open sky. All that they had were three sons, an old cook-pot, an old frying-pan, and an old cat. Then the man died, and after a time his wife died, too. Now their estate was to be divided. So the oldest took the old cook-pot, and the second took the old frying-pan, and Ebe Ashpeter had no choice. He had to take the old cat, and they did not ask him whether he wanted to or not.",17,sky,has property,blue_on_clear_day,What color is the sky?,The sky is blue.
+2,"""Brother Peter can scrape out the cook-pot after he has loaned it out,"" said Ebe. ""Brother Paul gets a crust of bread when he lends out his frying-pan; but what am I to do with this wretched cat?"" And he was angry and envious. Yet he scratched the cat and stroked it, and this pleased the cat so that she began to purr, and raised her tail in the air.
+
+""Wait, wait, I'll help you yet,"" said the cat, ""wait, wait, I'll help you yet!""",72,purr,is a,sound,What animal makes the sound of purring?,A cat.
+2,"""Brother Peter can scrape out the cook-pot after he has loaned it out,"" said Ebe. ""Brother Paul gets a crust of bread when he lends out his frying-pan; but what am I to do with this wretched cat?"" And he was angry and envious. Yet he scratched the cat and stroked it, and this pleased the cat so that she began to purr, and raised her tail in the air.
+
+""Wait, wait, I'll help you yet,"" said the cat, ""wait, wait, I'll help you yet!""",26,bread,is at location of,oven,Where do you bake bread?,You bake bread in the oven.
+3,"There was nothing to bite or break in the hut. Brother Peter and Brother Paul had each of them gone off in a different direction. So Ebe set out, too, with the cat in the lead, himself following; but after a time he turned and went home again, to see whether the floor had been swept, and the cat tripped on alone. After she had gone her way, tipp, tapp, tipp, tapp, for a while, she came to a great rock, and there she met an enormous herd of reindeer. The cat crept softly around the herd, and then with one leap sprang between the horns of the finest buck.",105,reindeer,is a,pack_animal,What pack of animals carry santa's sleigh?,Reindeers.
+3,"There was nothing to bite or break in the hut. Brother Peter and Brother Paul had each of them gone off in a different direction. So Ebe set out, too, with the cat in the lead, himself following; but after a time he turned and went home again, to see whether the floor had been swept, and the cat tripped on alone. After she had gone her way, tipp, tapp, tipp, tapp, for a while, she came to a great rock, and there she met an enormous herd of reindeer. The cat crept softly around the herd, and then with one leap sprang between the horns of the finest buck.",59,floor,is at location of,house,What do you walk on in your house?,On the floor.
+3,"There was nothing to bite or break in the hut. Brother Peter and Brother Paul had each of them gone off in a different direction. So Ebe set out, too, with the cat in the lead, himself following; but after a time he turned and went home again, to see whether the floor had been swept, and the cat tripped on alone. After she had gone her way, tipp, tapp, tipp, tapp, for a while, she came to a great rock, and there she met an enormous herd of reindeer. The cat crept softly around the herd, and then with one leap sprang between the horns of the finest buck.",119,leap,is a,jump,What is a leap?,A leap is a jump.
+4,"""If you do not go where I want you to, I'll scratch out your eyes, and drive you over rock and precipice!"" said she. So the buck did not dare do anything save what the cat wished, and off they went over stick and stone, from cliff to cliff, close by Ebe, who was just polishing the door-sill of his house, and with one bound right into the castle.
+
+""I am to deliver a kind greeting from Ebe, and ask whether my lord king might care to have this buck reindeer to drive,"" said the cat. Yes, he could make good use of such a young, handsome animal, some time, when he had occasion to drive out to visit a neighboring king.
+
+""This Ebe must be a proud and powerful lord,"" said the king, ""if he can make me such presents.""
+
+""Yes, he is the greatest lord in all your land and kingdom,"" said the cat, but no matter how many questions the king asked, he learned nothing more.",151,proud,is the antonym of,ashamed,What is the opposite of proud?,Ashamed.
+4,"""If you do not go where I want you to, I'll scratch out your eyes, and drive you over rock and precipice!"" said she. So the buck did not dare do anything save what the cat wished, and off they went over stick and stone, from cliff to cliff, close by Ebe, who was just polishing the door-sill of his house, and with one bound right into the castle.
+
+""I am to deliver a kind greeting from Ebe, and ask whether my lord king might care to have this buck reindeer to drive,"" said the cat. Yes, he could make good use of such a young, handsome animal, some time, when he had occasion to drive out to visit a neighboring king.
+
+""This Ebe must be a proud and powerful lord,"" said the king, ""if he can make me such presents.""
+
+""Yes, he is the greatest lord in all your land and kingdom,"" said the cat, but no matter how many questions the king asked, he learned nothing more.",105,reindeer,is a,deer,What do reindeer have on their heads?,Reindeer have antlers on their heads.
+5,"""Tell him that I am much obliged,"" said the king, and he sent him a whole cart-load of handsome presents. But Ebe looked past them and paid no attention to them.
+
+""Brother Peter can scrape out his cook-pot when he has loaned it out, and Brother Paul gets a crust of bread when he lends out his frying-pan; but what am I to do with this wretched cat!"" said he, and felt angry and envious; but still he scratched the cat, and stroked her, and this pleased her so much that she began to purr, and raised her tail in the air.
+
+""Wait, wait, I will help you yet,"" said the cat, ""wait, wait, I will help you yet!""",76,cat,desires,milk_to_drink,What animal likes to drink milk?,A cat.
+5,"""Tell him that I am much obliged,"" said the king, and he sent him a whole cart-load of handsome presents. But Ebe looked past them and paid no attention to them.
+
+""Brother Peter can scrape out his cook-pot when he has loaned it out, and Brother Paul gets a crust of bread when he lends out his frying-pan; but what am I to do with this wretched cat!"" said he, and felt angry and envious; but still he scratched the cat, and stroked her, and this pleased her so much that she began to purr, and raised her tail in the air.
+
+""Wait, wait, I will help you yet,"" said the cat, ""wait, wait, I will help you yet!""",76,cat,desires,milk_to_drink,What do cats like to drink?,Cats like to drink milk.
+6,"The next day they both set out again, the cat in the lead, and Ebe following. After a while he turned back to see whether the folding-table at home had been scoured. And the cat tripped on alone. After she had gone her way, tipp, tapp, tipp, tapp, for a while, she came to a dense forest slope. There she found an enormous herd of elk. The cat crept softly up, and suddenly there she sat between the horns of one of the stateliest of the bull elks.
+
+""If you do not go where I want you to, I will scratch out your eyes, and drive you over rock and precipice!"" said the cat. The elk did not dare do anything save what the cat wished, and so off they went, like lightning, over stick and stone, from cliff to cliff, right past Ebe, who stood before the house scouring the shutters, and with one bound into the king's castle.",92,horn,is part of,bull,What animal has horns?,A bull.
+6,"The next day they both set out again, the cat in the lead, and Ebe following. After a while he turned back to see whether the folding-table at home had been scoured. And the cat tripped on alone. After she had gone her way, tipp, tapp, tipp, tapp, for a while, she came to a dense forest slope. There she found an enormous herd of elk. The cat crept softly up, and suddenly there she sat between the horns of one of the stateliest of the bull elks.
+
+""If you do not go where I want you to, I will scratch out your eyes, and drive you over rock and precipice!"" said the cat. The elk did not dare do anything save what the cat wished, and so off they went, like lightning, over stick and stone, from cliff to cliff, right past Ebe, who stood before the house scouring the shutters, and with one bound into the king's castle.",75,herd,is a,group_of_animals,What is a herd?,A herd is a group of animals.
+7,"""I am to deliver a kind greeting from Ebe, and ask whether my lord king might not care to have this bull elk for courier service."" It was quite clear that should the king want a swift messenger, some time, he could not find a swifter in all his kingdom.
+
+""This Ebe must be a most distinguished lord, since he finds such presents for me,"" said the king.
+
+""Yes, indeed, one might call him a distinguished lord,"" said the cat, ""his wealth is without end or limit."" But no matter how many other questions the king asked, he received no more explicit information.
+
+""Tell him that I am much obliged, and to do me the honor to call when he is passing here some time,"" said the king, and sent him a robe as handsome as the one he himself was wearing, and three cartloads of handsome presents. But Ebe did not even want to put on the royal robe, and hardly looked at the other presents.",69,find,is the antonym of,lose,What is the opposite of find?,Lose.
+7,"""I am to deliver a kind greeting from Ebe, and ask whether my lord king might not care to have this bull elk for courier service."" It was quite clear that should the king want a swift messenger, some time, he could not find a swifter in all his kingdom.
+
+""This Ebe must be a most distinguished lord, since he finds such presents for me,"" said the king.
+
+""Yes, indeed, one might call him a distinguished lord,"" said the cat, ""his wealth is without end or limit."" But no matter how many other questions the king asked, he received no more explicit information.
+
+""Tell him that I am much obliged, and to do me the honor to call when he is passing here some time,"" said the king, and sent him a robe as handsome as the one he himself was wearing, and three cartloads of handsome presents. But Ebe did not even want to put on the royal robe, and hardly looked at the other presents.",103,end,is the antonym of,beginning,What is the opposite of end?,Beginning is the opposite of end.
+8,"""Brother Peter can scrape out his cook-pot when he has loaned it out, Brother Paul gets a crust of bread when he lends out his frying-pan; but of what use is this wretched cat to me!"" he said, in spite of all. Yet he stroked the cat, and pressed her to his cheek, and scratched her, and this pleased the cat so very much that she purred more than on the other occasions, and stuck her tail up into the air as straight as a rod.
+
+""Wait, wait, I will help you yet,"" said the cat, ""wait, wait, I will help you yet!""",21,bread,is a,structural_element_in_sandwich,What is an important element of a sandwich?,Bread.
+8,"""Brother Peter can scrape out his cook-pot when he has loaned it out, Brother Paul gets a crust of bread when he lends out his frying-pan; but of what use is this wretched cat to me!"" he said, in spite of all. Yet he stroked the cat, and pressed her to his cheek, and scratched her, and this pleased the cat so very much that she purred more than on the other occasions, and stuck her tail up into the air as straight as a rod.
+
+""Wait, wait, I will help you yet,"" said the cat, ""wait, wait, I will help you yet!""",21,bread,is created by,baker,What person makes bread?,A baker makes bread.
+9,"On the third day they set out again, the cat in the lead, and Ebe following. After a time it occurred to him to go back and let the mice out of the house, so that they would not be altogether starved in the old hut; and the cat tripped on alone. After she had gone her way, tipp, tapp, tipp, tapp, for a while, she came to a dense pine forest, and there she met a father bear, a mother bear and a baby bear. The cat crept softly up to them, and all at once she was hanging by her claws to the father bear's head.",118,claw,is part of,paw,What are claws apart of?,A paw.
+9,"On the third day they set out again, the cat in the lead, and Ebe following. After a time it occurred to him to go back and let the mice out of the house, so that they would not be altogether starved in the old hut; and the cat tripped on alone. After she had gone her way, tipp, tapp, tipp, tapp, for a while, she came to a dense pine forest, and there she met a father bear, a mother bear and a baby bear. The cat crept softly up to them, and all at once she was hanging by her claws to the father bear's head.",91,bear,is a,carnivore,Where do bears live?,Bears live in the woods.
+10,"""If you do not go where I want you to, I will scratch out your eyes, and drive you over rock and precipice!"" said the cat, and spit and arched her back. Then the father bear did not dare do anything save what the cat wished, and now they dashed past Ebe, who had just carried all the young mice over the threshold, like a storm, over stick and stone, from cliff to cliff, so that the earth trembled and shook. The king was just standing in the hallway, and was not a little surprised to see such guests arriving.",102,hallway,is used for,moving_between_rooms,What do you use a hallway for?,To move between rooms.
+10,"""If you do not go where I want you to, I will scratch out your eyes, and drive you over rock and precipice!"" said the cat, and spit and arched her back. Then the father bear did not dare do anything save what the cat wished, and now they dashed past Ebe, who had just carried all the young mice over the threshold, like a storm, over stick and stone, from cliff to cliff, so that the earth trembled and shook. The king was just standing in the hallway, and was not a little surprised to see such guests arriving.",113,guest,is a,visitor,What is a guest?,A guest is someone that comes to visit.
+11,"""I am to deliver a kind greeting from Ebe, and ask whether my lord king might not care to have this bear for a general or royal counselor,"" said the cat. The king was more than pleased to secure such a creature for his nearest adviser, who could doubt it.
+
+""Tell him that I am much obliged, but that I do not at all know how to show my appreciation,"" said the king.
+
+""Well, he would like to marry your youngest daughter!"" said the cat.
+
+""Yes, but that is asking a good deal,"" said the king. ""He really ought to pay me a visit.""
+
+""Ebe does not enter such plain houses,"" said the cat.
+
+""Has he a handsomer castle than this?"" asked the king.
+
+""Handsomer? Why, your castle seems like the shabbiest hut in comparison with his!"" was the cat's reply.",34,cat,desires,milk_to_drink,What animal likes to drink milk?,Cats.
+11,"""I am to deliver a kind greeting from Ebe, and ask whether my lord king might not care to have this bear for a general or royal counselor,"" said the cat. The king was more than pleased to secure such a creature for his nearest adviser, who could doubt it.
+
+""Tell him that I am much obliged, but that I do not at all know how to show my appreciation,"" said the king.
+
+""Well, he would like to marry your youngest daughter!"" said the cat.
+
+""Yes, but that is asking a good deal,"" said the king. ""He really ought to pay me a visit.""
+
+""Ebe does not enter such plain houses,"" said the cat.
+
+""Has he a handsomer castle than this?"" asked the king.
+
+""Handsomer? Why, your castle seems like the shabbiest hut in comparison with his!"" was the cat's reply.",78,appreciation,causes,thank,What do you say to show your appreciation?,You say thank you to show your appreciation.
+12,"""You dare come into my presence, and tell me that there is some one living in my kingdom who is more handsomely housed than I, the king!"" shouted the king, beside himself with rage. He came near wringing the cat's neck.
+
+""You might wait until you see it,"" said the cat. And the king said yes, he would wait. ""But if you have told me a falsehood, you shall die, and though you had seven lives,"" said he.
+
+In the morning the king and the whole court set out to travel to Ebe Ashpeter's castle. The cat was in the little hut, and called for Ebe, thinking it would be best if both of them got underway an hour earlier. After they had gone a while, they met some folk who were herding sheep; and the sheep were bleating and grazing over the whole plain. They were as large as full-grown calves, and their wool was so long that it dragged along the ground after them. ""To whom do the sheep belong?"" asked the cat. ""To Helge-Hal in the Blue Hill,"" said the shepherds.",39,rage,has property,hard_to_control,What emotion is hard to control?,Rage.
+12,"""You dare come into my presence, and tell me that there is some one living in my kingdom who is more handsomely housed than I, the king!"" shouted the king, beside himself with rage. He came near wringing the cat's neck.
+
+""You might wait until you see it,"" said the cat. And the king said yes, he would wait. ""But if you have told me a falsehood, you shall die, and though you had seven lives,"" said he.
+
+In the morning the king and the whole court set out to travel to Ebe Ashpeter's castle. The cat was in the little hut, and called for Ebe, thinking it would be best if both of them got underway an hour earlier. After they had gone a while, they met some folk who were herding sheep; and the sheep were bleating and grazing over the whole plain. They were as large as full-grown calves, and their wool was so long that it dragged along the ground after them. ""To whom do the sheep belong?"" asked the cat. ""To Helge-Hal in the Blue Hill,"" said the shepherds.",184,wool,has property,knit_into_fabric,What can you do with wool?,You can make fabric with wool.
+13,"""The court is coming past in a moment,"" said the cat, ""and if then you do not at once say that they belong to Ebe, I will scratch out your eyes, and drive you over rock and precipice!"" said the cat, and spat and arched her back, and showed her teeth. Then the shepherds were so frightened that they at once promised to do as the cat had ordered.
+
+""But to whom do all these sheep belong?"" asked the king, when he came by with the court somewhat later. ""They are every bit as handsome as my own!""
+
+""They belong to Ebe,"" said the shepherds.",113,handsome,is a,masculine_thing,What is the masculine version of pretty?,Handsome.
+13,"""The court is coming past in a moment,"" said the cat, ""and if then you do not at once say that they belong to Ebe, I will scratch out your eyes, and drive you over rock and precipice!"" said the cat, and spat and arched her back, and showed her teeth. Then the shepherds were so frightened that they at once promised to do as the cat had ordered.
+
+""But to whom do all these sheep belong?"" asked the king, when he came by with the court somewhat later. ""They are every bit as handsome as my own!""
+
+""They belong to Ebe,"" said the shepherds.",61,teeth,has property,for_chewing,What do you use your teeth for?,You use your teeth for chewing.
+14,"Then the cat and Ebe wandered on for a while, and came to a dense forest slope. There they met folk who were tending goats. The goats skipped and leaped about everywhere, and gave such fine milk that better could no where be found.
+
+""To whom do the goats belong?"" asked the cat.
+
+""To Helge-Hal in the Blue Hill,"" said the herdsmen. Then the cat again went through her ferocious preparations, and the herdsmen were so frightened that they did not dare oppose her wishes.
+
+""Now who in the world can be the owner of so many goats?"" asked the king. ""I myself have none finer!""
+
+""They belong to Ebe,"" said the herdsmen.",96,oppose,is the antonym of,support,What is the opposite of oppose?,Support.
+14,"Then the cat and Ebe wandered on for a while, and came to a dense forest slope. There they met folk who were tending goats. The goats skipped and leaped about everywhere, and gave such fine milk that better could no where be found.
+
+""To whom do the goats belong?"" asked the cat.
+
+""To Helge-Hal in the Blue Hill,"" said the herdsmen. Then the cat again went through her ferocious preparations, and the herdsmen were so frightened that they did not dare oppose her wishes.
+
+""Now who in the world can be the owner of so many goats?"" asked the king. ""I myself have none finer!""
+
+""They belong to Ebe,"" said the herdsmen.",40,milk,has property,white,What color is milk?,Milk is white.
+15,"Then they wandered on for a while, and met folk who were tending cows: wherever one looked the cows lowed and glistened, and each yielded milk enough for three. When the cat heard that these herdsmen were also in the service of Helge-Hal of the Blue Hill, she spat once more, and arched her back, and then all the herdsmen were ready that moment to say what she wished.
+
+""But in heaven's name, to whom do all these beautiful cattle belong?"" asked the king. ""There are no such cattle in my whole kingdom!""
+
+""They belong to Lord Ebe,"" said the herdsmen.",103,cattle,is at location of,farm,Where can you find cattle?,At a farm.
+15,"Then they wandered on for a while, and met folk who were tending cows: wherever one looked the cows lowed and glistened, and each yielded milk enough for three. When the cat heard that these herdsmen were also in the service of Helge-Hal of the Blue Hill, she spat once more, and arched her back, and then all the herdsmen were ready that moment to say what she wished.
+
+""But in heaven's name, to whom do all these beautiful cattle belong?"" asked the king. ""There are no such cattle in my whole kingdom!""
+
+""They belong to Lord Ebe,"" said the herdsmen.",14,cow,is at location of,barnyard,Where do cows live?,Cows live in barns.
+16,"Then they wandered on for a long, long time. At last they came to a great plain, and there they met horse-herders; and horses whinnied and disported themselves over the whole plain, and their coats were so fine that they glistened as though gilded, and each horse was worth a whole castle.
+
+""For whom do you herd these horses?"" asked the cat.
+
+""For Helge-Hal in the Blue Hill,"" the herders replied.
+
+""Well, the court will come by here in a little while,"" said the cat, ""and if you do not say you are herding them for Ebe, I will scratch out your eyes, and drive you over rock and precipice!"" said the cat, and she spat, and showed her teeth and claws, and grew so angry her hair stood up all along her back. Then the herders were terribly frightened, and did not dare do anything but what the cat wished.",146,teeth,has property,for_chewing,What do you use your teeth to do?,Chew food.
+16,"Then they wandered on for a long, long time. At last they came to a great plain, and there they met horse-herders; and horses whinnied and disported themselves over the whole plain, and their coats were so fine that they glistened as though gilded, and each horse was worth a whole castle.
+
+""For whom do you herd these horses?"" asked the cat.
+
+""For Helge-Hal in the Blue Hill,"" the herders replied.
+
+""Well, the court will come by here in a little while,"" said the cat, ""and if you do not say you are herding them for Ebe, I will scratch out your eyes, and drive you over rock and precipice!"" said the cat, and she spat, and showed her teeth and claws, and grew so angry her hair stood up all along her back. Then the herders were terribly frightened, and did not dare do anything but what the cat wished.",57,castle,is a,large_richly_decorated_building,Is a castle a big or small building?,A castle is a big building.
+17,"""But in the name of heaven, to whom do all these horses belong?"" asked the king, when he came by with his court.
+
+""They belong to Ebe,"" said the herders.
+
+""I never have seen or heard anything like it in all my life!"" cried the king. ""This Ebe is such a distinguished lord that it is past my understanding!""",44,see,has subevent,open_eyes,What happens when you open your eyes?,I can see.
+17,"""But in the name of heaven, to whom do all these horses belong?"" asked the king, when he came by with his court.
+
+""They belong to Ebe,"" said the herders.
+
+""I never have seen or heard anything like it in all my life!"" cried the king. ""This Ebe is such a distinguished lord that it is past my understanding!""",19,king,is the antonym of,queen,Who is a king married to?,A king is married to the queen.
+18,"The cat and Ebe had long since gone on their way, and had wandered far and ever farther over hill and rock. In the evening, at dusk, they came to a royal castle that glittered and shimmered as though it were of the purest silver and gold-which it was. Yet it was gloomy and depressing, and lonely and barren there, and nowhere was there a sign of life.",74,life,is the antonym of,death,What is the opposite of life?,Death.
+18,"The cat and Ebe had long since gone on their way, and had wandered far and ever farther over hill and rock. In the evening, at dusk, they came to a royal castle that glittered and shimmered as though it were of the purest silver and gold-which it was. Yet it was gloomy and depressing, and lonely and barren there, and nowhere was there a sign of life.",62,lonely,causes,have_friends_over,What should you do when you are lonely?,You should spend time with friends when you're lonely.
+19,"Here they went in, and the cat stood with a cake of rye meal just below the door. Suddenly there came a thundering and a thumping so that the earth trembled, and the whole castle shook, and that was the troll who was coming home. And suddenly all was quiet again, and before they knew it, Helge-Hal in the Blue Hill had thrust his three great horrible heads in at the door.",7,cat,is used for,catch_mice,What animal catches mice?,A cat.
+19,"Here they went in, and the cat stood with a cake of rye meal just below the door. Suddenly there came a thundering and a thumping so that the earth trembled, and the whole castle shook, and that was the troll who was coming home. And suddenly all was quiet again, and before they knew it, Helge-Hal in the Blue Hill had thrust his three great horrible heads in at the door.",11,cake,is at location of,bakery,Where can you find a cake?,You can find cake at a bakery.
+20,"""Let me in! Let me in!"" he cried, so that every one shivered. ""Wait, wait a bit while I tell you what the rye had to go through before he was made into this cake,"" said the cat, and spoke to him in the sweetest way. ""First he was threshed, and then he was beaten, and then he was pounded, and then he was thumped, and then he was thrown from one wall to another, and then he was sifted through a sieve....""",89,wall,is at location of,room,What has 4 walls?,A room.
+20,"""Let me in! Let me in!"" he cried, so that every one shivered. ""Wait, wait a bit while I tell you what the rye had to go through before he was made into this cake,"" said the cat, and spoke to him in the sweetest way. ""First he was threshed, and then he was beaten, and then he was pounded, and then he was thumped, and then he was thrown from one wall to another, and then he was sifted through a sieve....""",17,shiver,has subevent,move_involuntarily,When do you shiver?,You shiver when you are cold or scared.
+21,"""Let me in! Let me in, you chatterbox!"" cried the troll, and he was so furious that the sparks flew from him.
+
+""Wait a bit, wait a bit. I will tell you what the rye had to go through before he was made into this cake!"" said the cat, and he spoke to him still more sweetly.",24,spark,is capable of,result_in_fire,What creates sparks?,A fire.
+21,"""Let me in! Let me in, you chatterbox!"" cried the troll, and he was so furious that the sparks flew from him.
+
+""Wait a bit, wait a bit. I will tell you what the rye had to go through before he was made into this cake!"" said the cat, and he spoke to him still more sweetly.",24,spark,causes,fire,Where do sparks come from?,Sparks come from fire.
+22,"""First he was threshed, and then he was beaten, and then he was pounded, and then he was thumped, and then he was thrown from one wall to another, and then he was sifted through a sieve, and shaken here and there, and then he was put on the drying-board, and then in the stove, until it grew so hot that he puffed up more and more, and wanted to get out, but could not,"" said the cat, and took her time.",31,wall,is at location of,house,What can you hang photos on in your house?,The wall. 
+22,"""First he was threshed, and then he was beaten, and then he was pounded, and then he was thumped, and then he was thrown from one wall to another, and then he was sifted through a sieve, and shaken here and there, and then he was put on the drying-board, and then in the stove, until it grew so hot that he puffed up more and more, and wanted to get out, but could not,"" said the cat, and took her time.",91,cat,is capable of,hunt_mice,What animal do cats like to catch?,Cats like to catch mice.
+23,"""Get out of the way and let me in!"" cried the troll once more, and nearly burst with rage; but the cat acted as though she did not hear him, and talked down the blue from the sky, and went up and down the while, and whenever the troll tried to come in, she met him beneath the door with the cake.
+
+""O, but do take a look at the shining maiden coming up there behind the mountain!"" said the cat, after she had talked at length about the sufferings of the rye. And Helge-Hal in the Blue Hill turned his three heads around in order to see the beautiful maiden, too. Then the sun rose, and the troll stiffened into stone. Now Ebe obtained all the riches that the troll had possessed, the sheep and goats, the cows and all the spirited horses, and the handsome golden castle, and some big bags of money besides.",176,bag,is at location of,supermarket,What do you use to carry items at the supermarket?,A bag
+23,"""Get out of the way and let me in!"" cried the troll once more, and nearly burst with rage; but the cat acted as though she did not hear him, and talked down the blue from the sky, and went up and down the while, and whenever the troll tried to come in, she met him beneath the door with the cake.
+
+""O, but do take a look at the shining maiden coming up there behind the mountain!"" said the cat, after she had talked at length about the sufferings of the rye. And Helge-Hal in the Blue Hill turned his three heads around in order to see the beautiful maiden, too. Then the sun rose, and the troll stiffened into stone. Now Ebe obtained all the riches that the troll had possessed, the sheep and goats, the cows and all the spirited horses, and the handsome golden castle, and some big bags of money besides.",89,mountain,is a,natural_elevation,Is a mountain tall or short?,A mountain is tall.
+24,"""Here come the king and all his court,"" said the cat. ""Just go out before the door and receive them!"" So Ebe got up and went to meet them.
+
+""You are indeed a very distinguished lord!"" said the king to him. ""So far as I am concerned you may have the youngest princess!""",21,door,is capable of,open,What can you do with a door?,Open it.
+24,"""Here come the king and all his court,"" said the cat. ""Just go out before the door and receive them!"" So Ebe got up and went to meet them.
+
+""You are indeed a very distinguished lord!"" said the king to him. ""So far as I am concerned you may have the youngest princess!""",2,come,is the antonym of,leave,What is the opposite of come?,Leave is the opposite of come.
+25,"Then they started brewing and baking on a large scale in the greatest haste, and everything was made ready for the wedding. On the first day of the feast the cat came and begged the bridegroom to cut off her head. This he did not at all want to do; but the cat spat and showed her teeth, and then Ebe did not dare disobey her. But when the head fell to the ground, the cat turned into a most handsome prince. He married the second princess, and as the wedding procession was on its way to church, they met a third prince who was looking for a wife, and he took the oldest princess. Then they all three celebrated their weddings so that the story went the rounds in twelve kingdoms.
+
+""Spin, span, spun,
+Now our tale is done!""",88,prince,is a,son_of_king,Who is a prince a son of?,He is the son of a king.
+25,"Then they started brewing and baking on a large scale in the greatest haste, and everything was made ready for the wedding. On the first day of the feast the cat came and begged the bridegroom to cut off her head. This he did not at all want to do; but the cat spat and showed her teeth, and then Ebe did not dare disobey her. But when the head fell to the ground, the cat turned into a most handsome prince. He married the second princess, and as the wedding procession was on its way to church, they met a third prince who was looking for a wife, and he took the oldest princess. Then they all three celebrated their weddings so that the story went the rounds in twelve kingdoms.
+
+""Spin, span, spun,
+Now our tale is done!""",99,wedding,is a,party,What happens at a wedding?,A couple gets married at a wedding.

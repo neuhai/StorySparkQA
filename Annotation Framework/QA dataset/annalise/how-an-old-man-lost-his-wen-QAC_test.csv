@@ -1,0 +1,26 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+10,37,dance,has subevent,listen_to_music,What actions do you do when you listen to music?,Dance.
+1,50,early,is the antonym of,late,What is the opposite of early?,Late.
+23,39,speak,is the antonym of,be_silent,What is the opposite of being silent?,Speaking.
+12,7,dance,has context of,dancing,What do you listen to when you dance?,I listen to music.
+26,39,right,is the antonym of,left,What is the opposite of left?,Right.
+8,27,bore,is the antonym of,interest,What is the opposite of interested?,Bored.
+9,58,dangerous,is the antonym of,safe,What is the opposite of dangerous?,Safe.
+15,55,plum,is a,fruit,What kind of food is a plum?,A fruit.
+22,14,hour,is a,clock_time,What are the big numbers on a clock?,Hours.
+17,26,late,causes,run,What do you do when you are late?,You run.
+18,30,afternoon,is a,time_of_day,What time of the day is 1pm?,The afternoon.
+16,86,smooth,is the antonym of,rough,What is the opposite of smooth?,Rough.
+5,23,music,causes,play_piano,What does playing a piano create?,Music.
+2,16,sky,is used for,flying_in,Where do birds fly?,In the sky.
+14,64,man,is a,person,What is a man?,A person.
+20,91,sunset,is the antonym of,sunrise,What is the opposite of a sunset?,A sunrise.
+19,35,left,is the antonym of,right,What is the opposite of left?,Right.
+13,84,old,is the antonym of,young,What is the opposite of old?,Young.
+3,89,sun,is capable of,dry_laundry,How can you dry your laundry outside?,With the sun.
+27,26,nightmare,is a,bad_dream,What is a nightmare? ,A bad dream. 
+21,22,tree,is at location of,state_park,What is in a park?,Trees. 
+25,43,yesterday,is a,day_before_today,What is the day before today called?,Yesterday.
+4,116,hollow,has subevent,empty,What is another word for hollow?,Empty.
+24,9,fan,is used for,cool_off,What do you use to cool off?,A fan.
+7,5,laugh,is the antonym of,cry,What is the opposite of laughing?,Crying.

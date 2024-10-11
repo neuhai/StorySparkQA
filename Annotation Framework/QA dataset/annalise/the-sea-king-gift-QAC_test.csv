@@ -1,0 +1,21 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+3,149,milk,is a,beverage,What beverage do you drink with cookies?,Milk.
+10,46,deep,is the antonym of,shallow,What is the opposite of shallow?,Deep.
+17,206,butter,is capable of,spread_on_bread,What do you spread butter onto?,I spread it on bread.
+19,52,wave,is part of,ocean,What does the ocean create?,Waves.
+6,142,heart,is used for,love,What is your heart used for?,Love.
+9,137,pearl,is at location of,oyster,What jewel do you find inside of an oyster?,A pearl.
+20,84,beard,is a,facial_hair,What is facial hair on the chin called?,A beard.
+18,17,cow,is capable of,jump_over_moon,What animal can “jump over the moon”?,A cow.
+4,96,ocean,is used for,swim_in,What body of water can you swim in?,An ocean.
+13,135,milk,has property,white,What color is milk?,White.
+5,159,sailor,is capable of,board_ship,What does a sailor do?,Board a ship.
+14,56,seaweed,is at location of,ocean,Where do you find seaweed?,The ocean.
+7,79,fish,is capable of,live_underwater,Where do fish live?,They live underwater.
+2,52,bush,is used for,hide_in,What can you do with a bush?,Hide in it.
+12,224,red,is a,color,What color is the inside of a watermelon?,Red.
+21,184,sleep,has subevent,dream,When do you dream?,When I sleep.
+1,257,butter,is capable of,spread_on_bread,What do you do with butter?,Spread it on bread.
+16,73,seaweed,is at location of,beach,What is something green you find on the beach?,Seaweed. 
+15,71,salmon,is a,fish,What fish is orange?,Salmon.
+8,18,stormy,is the antonym of,calm,What is the opposite of stormy?,Calm.

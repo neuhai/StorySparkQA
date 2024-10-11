@@ -1,0 +1,3 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+2,137,seat,is part of,car,Where do you sit in a car?,In a seat.
+1,52,little,is the antonym of,big,What is the opposite of little?,Big. 

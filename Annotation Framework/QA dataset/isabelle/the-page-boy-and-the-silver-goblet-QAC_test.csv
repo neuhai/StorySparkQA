@@ -1,0 +1,10 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+6,228,ruby,has property,red,What color is a ruby?,A ruby is red.
+9,70,wet,is the antonym of,dry,What is the opposite of wet?,Dry is the opposite of wet.
+8,7,voice,has context of,linguistics,What do you use your voice for?,You use your voice to talk.
+8,27,stone,is a,another_word_for_rock,What is another word for stone?,Rock is another word for stone.
+7,26,candle,is used for,light_room,What is a candle used for?,A candle is used to create light.
+3,91,fast,is the antonym of,slow,What is the opposite of fast?,Slow is the opposite of fast.
+5,17,shout,has subevent,talk,What does shout mean?,Shout means talk loudly.
+1,35,butterfly,is created by,cocoon,What is a baby butterfly called?,A baby butterfly is a caterpillar.
+4,165,cupboard,is a,storage_space,What are cupboards used for?,Cupboards are used for storing things.

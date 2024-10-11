@@ -1,0 +1,97 @@
+section_id,section_text,word_id,concept(sub),relation,obj,question,each_answer
+1,"Once upon a time there were two neighbors: one of them rich and the
+other poor. They owned a great meadow in common, which they were
+supposed to mow together and then divide the hay.",19,own,causes,buy_house,What happens when you buy a house?,You own it.
+1,"Once upon a time there were two neighbors: one of them rich and the
+other poor. They owned a great meadow in common, which they were
+supposed to mow together and then divide the hay.",7,neighbor,is a,person_who_lives_near,What is a neighbor?,A neighbor is someone who lives close to you.
+2,"But the rich neighbor wanted the meadow for himself alone, and told
+the poor one that he would drive him out of house and home if he did
+not come to an agreement with him that whichever one of them mowed the
+largest stretch of the meadowland in a single day, should receive the
+entire meadow.",57,meadow,is a,field_of_grass_families,What is a meadow?,A field of grass.
+2,"But the rich neighbor wanted the meadow for himself alone, and told
+the poor one that he would drive him out of house and home if he did
+not come to an agreement with him that whichever one of them mowed the
+largest stretch of the meadowland in a single day, should receive the
+entire meadow.",57,meadow,is a,field_of_grass_families,What is a meadow?,A meadow is a field.
+3,"Now the rich neighbor got together as many mowers as ever he could;
+but the poor one could not hire a single man. At last he despaired
+altogether and wept, because he did not know how he could manage to
+get so much as a bit of hay for the cow.",50,hay,is at location of,barn,Where can you find a lot of hay?,At a barn. 
+3,"Now the rich neighbor got together as many mowers as ever he could;
+but the poor one could not hire a single man. At last he despaired
+altogether and wept, because he did not know how he could manage to
+get so much as a bit of hay for the cow.",50,hay,is used for,feed_cattle,What do cows do with hay?,Cows eat hay.
+4,"Then it was that a large man stepped up to him and said: ""Do not
+grieve so. I can tell you what you ought to do. When the mowing
+begins, just call out 'Old Hopgiant!' three times in succession, and
+you'll not be at a loss, as you shall see for yourself."" And with that
+he disappeared.",54,loss,is the antonym of,gain,What is the opposite of gain?,Loss.
+4,"Then it was that a large man stepped up to him and said: ""Do not
+grieve so. I can tell you what you ought to do. When the mowing
+begins, just call out 'Old Hopgiant!' three times in succession, and
+you'll not be at a loss, as you shall see for yourself."" And with that
+he disappeared.",68,disappear,is the antonym of,appear,What is the opposite of disappear?,Appear is the opposite of disappear.
+5,"Then the poor man's heart grew less heavy, and he gave over worrying.
+So one fine day his rich neighbor came along with no fewer than twenty
+farmhands, and they mowed down one swath after another. But the poor
+neighbor did not even take the trouble to begin when he saw how the
+others took hold, and that he himself would not be able to do anything
+alone.",5,heart,is a,pump_for_blood,What organ pumps blood?,The heart.
+5,"Then the poor man's heart grew less heavy, and he gave over worrying.
+So one fine day his rich neighbor came along with no fewer than twenty
+farmhands, and they mowed down one swath after another. But the poor
+neighbor did not even take the trouble to begin when he saw how the
+others took hold, and that he himself would not be able to do anything
+alone.",8,heavy,is the antonym of,light,What is the opposite of heavy?,Light is the opposite of heavy.
+6,"Then the big man occurred to him, and he called out: ""Old Hopgiant!""
+But no one came, and the mowers all laughed at him and mocked him,
+thinking he had gone out of his mind. Then he called again: ""Old
+Hopgiant!"" And, just as before, there was no hopgiant to be seen. And
+the mowers could scarcely swing their scythes; for they were laughing
+fit to split.",3,man,is the antonym of,female,What is the opposite of a man.,A woman.
+6,"Then the big man occurred to him, and he called out: ""Old Hopgiant!""
+But no one came, and the mowers all laughed at him and mocked him,
+thinking he had gone out of his mind. Then he called again: ""Old
+Hopgiant!"" And, just as before, there was no hopgiant to be seen. And
+the mowers could scarcely swing their scythes; for they were laughing
+fit to split.",27,laugh,has subevent,recognize_funny,When do people laugh?,People laugh when something is funny.
+7,"And then he cried for the third time: ""Old Hopgiant!"" And there
+appeared a fellow of truly horrible size, with a scythe as large as a
+ship's mast.",22,size,is a,how_big_or_small,What does size measure?,How big or small something is. 
+7,"And then he cried for the third time: ""Old Hopgiant!"" And there
+appeared a fellow of truly horrible size, with a scythe as large as a
+ship's mast.",16,appear,is the antonym of,disappear,What is the opposite of appear?,Disappear is the opposite of appear.
+8,"And now the merriment of the rich peasant's mowers came to an end. For
+when the giant began to mow and fling about his scythe, they were
+frightened at the strength he put into his work. And before they knew
+it he had mown half the meadow.",21,mow,has subevent,cut,What do you do when you need to cut your lawn?,You mow it.
+8,"And now the merriment of the rich peasant's mowers came to an end. For
+when the giant began to mow and fling about his scythe, they were
+frightened at the strength he put into his work. And before they knew
+it he had mown half the meadow.",30,frighten,causes,fear,What does frightened mean?,Frightened means scared.
+9,"Then the rich neighbor fell into a rage, rushed up and gave the giant
+a good kick. But that did not help him, for his foot stuck to the
+giant, while the latter no more felt the kick than if it had been a
+flea-bite, and kept right on working.",3,neighbor,is at location of,house_next_door,Where does your neighbor live?,In the house next to mine. In my neighborhood.
+9,"Then the rich neighbor fell into a rage, rushed up and gave the giant
+a good kick. But that did not help him, for his foot stuck to the
+giant, while the latter no more felt the kick than if it had been a
+flea-bite, and kept right on working.",17,kick,has subevent,hit,What is it called when you hit someone with your foot?,A kick.
+9,"Then the rich neighbor fell into a rage, rushed up and gave the giant
+a good kick. But that did not help him, for his foot stuck to the
+giant, while the latter no more felt the kick than if it had been a
+flea-bite, and kept right on working.",7,rage,is a,anger,What does rage mean?,Rage means anger.
+10,"Then the rich neighbor thought of a scheme to get free, and gave the
+giant a kick with his other foot; but this foot also stuck fast, and
+there he hung like a tick. Old Hopgiant mowed the whole meadow, and
+then flew up into the air, and the rich man had to go along hanging to
+him like a hawser. And thus the poor neighbor was left sole master of
+the place.",72,neighbor,is at location of,house_next_door,Who lives in the house next door to yours?,My neighbor.
+10,"Then the rich neighbor thought of a scheme to get free, and gave the
+giant a kick with his other foot; but this foot also stuck fast, and
+there he hung like a tick. Old Hopgiant mowed the whole meadow, and
+then flew up into the air, and the rich man had to go along hanging to
+him like a hawser. And thus the poor neighbor was left sole master of
+the place.",7,scheme,has subevent,plan,What is a scheme?,A scheme is a plan.

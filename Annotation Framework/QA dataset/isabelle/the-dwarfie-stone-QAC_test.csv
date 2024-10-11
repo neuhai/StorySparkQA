@@ -1,0 +1,24 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+20,77,brother,is the antonym of,sister,What is the opposite of brother?,The opposite of brother is sister.
+18,52,lose,is the antonym of,win,What is the opposite of lose?,Win is the opposite of lose.
+7,64,unkind,is the antonym of,kind,What is the opposite of unkind?,Kind is the opposite of unkind.
+9,247,sky,has property,blue_on_clear_day,What color is the sky?,The sky is blue.
+9,74,danger,is the antonym of,safety,What is the opposite of danger?,Safety is the opposite of danger.
+3,67,medicine,is used for,healthy,What does medicine do?,Medicine makes people better.
+21,74,end,is the antonym of,beginning,What is the opposite of end?,Beginning is the opposite of end.
+10,239,lonely,causes,have_friends_over,What can someone do to stop feeling lonely?,They can spend time with friends.
+15,77,cup,is at location of,dishwasher,Where do you wash cups?,You wash cups in the dishwasher.
+17,80,rainbow,is part of,sky,Where can you see a rainbow?,You can see a rainbow in the sky.
+17,136,sew,has subevent,get_needle_and_thread,What do you need in order to sew?,You need a needle and thread to sew.
+16,170,beak,is part of,bird,What kinds of animals have beaks?,Birds have beaks.
+4,149,summer,is the antonym of,winter,What is the opposite of summer?,Winter is the opposite of summer.
+8,170,evil,has property,very_very_bad,What does evil mean?,Evil means very very bad.
+1,78,medicine,is used for,healthy,What is medicine used for?,Medicine is used to make people feel better.
+5,165,suit,is a,article_of_clothing,What is a suit?,A suit is a piece of clothing.
+14,140,night,is a,time_during,What do you do at night?,You sleep at night.
+12,64,repeat,is a,periodic_event,What does repeat mean?,Repeat means happen again.
+22,71,unknown,is the antonym of,known,What does unknown mean?,Unknown means not known.
+19,5,purchase,has subevent,money,What does purchase mean?,Purchase means buy.
+2,106,desire,is a,feeling,What does desire mean?,Desire means want.
+11,138,clever,is the antonym of,dull,What does clever mean?,Clever means smart.
+13,36,valley,has property,low,Is a valley high or low?,A valley is low.

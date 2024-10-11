@@ -1,0 +1,52 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+14,94,water,is capable of,freeze,What happens when water gets cold?,"When water gets cold, it freezes."
+37,37,hook,is used for,catch_fish,What is a hook used for?,A hook is used to catch fish.
+29,91,poor,is the antonym of,rich,What is the opposite of poor?,The opposite of poor is rich.
+20,36,cup,is used for,drinking,What are cups used for?,Cups are used for drinking.
+46,25,glad,has property,same_as_happy,What does glad mean?,Glad means happy.
+53,65,sea,has property,full_of_water,What is a sea made of?,A sea is made of water.
+33,2,fish,is at location of,water,Where do fish live?,Fish live in water.
+1,39,happy,is the antonym of,sad,What is the opposite of happy?,Sad is the opposite of happy.
+25,108,sweet,is the antonym of,bitter,What is the opposite of sweet?,Bitter is the opposite of sweet.
+2,78,valley,has property,low,Is a valley high or low?,A valley is low.
+21,48,cup,is used for,drinking,What do you use a cup for?,You use a cup for drinking.
+54,21,evil,has property,bad,What does evil mean?,Evil means bad.
+8,52,wish,is a,desire,What is a wish?,A wish is something you want.
+27,56,polite,is the antonym of,rude,What is the opposite of polite?,Rude is the opposite of polite.
+32,10,octopus,is at location of,ocean,Where does an octopus live?,An octopus lives in the ocean.
+22,5,cup,is used for,drinking,What do you use a cup for?,You use a cup for drinking.
+13,42,find,is the antonym of,lose,What is the opposite of find?,Lose is the opposite of find.
+45,90,flood,has subevent,fill,What is a flood?,A flood is when an area is filled with too much water.
+15,125,coral,is at location of,sea,Where does coral live?,Coral lives in the ocean.
+7,84,fail,is the antonym of,succeed,What is the opposite of fail?,Succeed is the opposite of fail.
+7,58,lose,has subevent,look_for,What do you do when you lose something?,You look for it.
+10,21,pardon,is a,forgiving,What does pardon mean?,Pardon means forgiveness.
+31,22,brother,is the antonym of,sister,What is the opposite of brother?,Sister is the opposite of brother.
+50,23,heart,is part of,human_body,Where is your heart found?,Your heart is in your chest.
+48,4,crocodile,desires,in_river,Where do crocodiles live?,Crocodiles live near water.
+43,13,lose,has subevent,look_for,What do you do when you lose an object?,You look for it.
+51,71,water,has property,liquid,Is water solid or liquid?,Water is liquid.
+34,14,strange,causes,make_people_laugh,What does strange mean?,Strange means weird.
+30,172,harp,is a,instrument,What is a harp?,A harp is an instrument.
+11,143,stick,is at location of,forest,Where do sticks come from?,Sticks come from trees.
+35,242,hook,is used for,catch_fish,What is a hook used for?,A hook is used for catching fish.
+49,89,return,is a,group_action,What does return mean?,Return means come back.
+36,156,wash,has subevent,cleanse,Why do you wash something?,You wash something to make it clean.
+40,112,voice,has context of,linguistics,What do you use your voice for?,You use your voice to talk.
+42,26,grateful,causes,thank,What do you say when you are grateful?,You say thank you when you are grateful.
+9,73,piece,is part of,whole,What do you have when you put all the pieces of something together?,You have a whole.
+17,37,bucket,is used for,carrying_liquids,What are buckets used for?,Buckets are used for carrying things.
+3,55,mountain,is used for,climbing,How can you get to the top of a mountain?,You can get to the top of a mountain by climbing it.
+26,5,sister,is the antonym of,brother,What is the opposite of sister?,Brother is the opposite of sister.
+18,53,shade,is a,protective_covering,What is shade?,Shade is an area where sunlight is blocked
+16,7,enter,is the antonym of,exit,What is the opposite of enter?,Exit is the opposite of enter.
+4,24,dream,is part of,sleeping,When do you have dreams?,You have dreams while you are sleeping.
+47,8,basket,is used for,carrying,What is a basket used for?,A basket is used for carrying things.
+41,73,grow,is the antonym of,shrink,What is the opposite of grow?,Shrink is the opposite of grow.
+39,37,fin,is part of,fish,What kind of animals have fins?,Fish have fins.
+52,72,farm,is used for,raising_crops,What are farms used for?,Farms are used for growing crops.
+23,62,tongue,is at location of,mouth,Where is your tongue?,Your tongue is in your mouth.
+44,88,guest,is a,visitor,What is a guest?,A guest is a visitor.
+24,237,lose,has subevent,look_for,What should you do when something is lost?,You should look for it.
+19,42,thirst,causes,drink,What should you do when you're thirsty?,You should drink when you're thirsty.
+38,3,desire,is a,feeling,What does desire mean?,Desire means want.

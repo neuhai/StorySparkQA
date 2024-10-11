@@ -1,0 +1,24 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+24,88,prince,is a,son_of_king,Who is a prince a son of?,He is the son of a king.
+10,34,cat,desires,milk_to_drink,What animal likes to drink milk?,Cats.
+17,74,life,is the antonym of,death,What is the opposite of life?,Death.
+18,7,cat,is used for,catch_mice,What animal catches mice?,A cat.
+11,39,rage,has property,hard_to_control,What emotion is hard to control?,Rage.
+2,105,reindeer,is a,pack_animal,What pack of animals carry santa’s sleigh?,Reindeers/
+12,113,handsome,is a,masculine_thing,What is the masculine version of pretty?,Handsome.
+19,89,wall,is at location of,room,What has 4 walls?,A room.
+14,103,cattle,is at location of,farm,Where can you find cattle?,At a farm.
+1,72,purr,is a,sound,What animal makes the sound “purr”?,A cat.
+7,21,bread,is a,structural_element_in_sandwich,What is an important element of a sandwich?,Bread.
+6,69,find,is the antonym of,lose,What is the opposite of find?,Lose.
+23,21,door,is capable of,open,What can you do with a door?,Open it.
+4,76,cat,desires,milk_to_drink,What animal likes to drink milk?,A cat.
+21,31,wall,is at location of,house,What can you hang photos on in your house?,The wall. 
+8,118,claw,is part of,paw,What are claws apart of?,A paw.
+13,96,oppose,is the antonym of,support,What is the opposite of oppose?,Support.
+20,24,spark,is capable of,result_in_fire,What creates sparks?,A fire.
+16,44,see,has subevent,open_eyes,What happens when you open your eyes?,I can see.
+3,151,proud,is the antonym of,ashamed,What is the opposite of proud?,Ashamed.
+15,146,teeth,has property,for_chewing,What do you use your teeth to do?,Chew food.
+22,176,bag,is at location of,supermarket,What do you use to carry items at the supermarket?,A bag
+5,92,horn,is part of,bull,What animal has horns?,A bull.

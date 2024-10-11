@@ -1,0 +1,18 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+4,48,resemble,has subevent,match,What does resemble mean?,It means to match or to look like.
+16,70,prison,is used for,punishment,What are prisons used for? ,To punish people for crimes.
+5,11,great,is the antonym of,insignificant,What is the opposite of great? ,Unimportant is the opposite of great.
+9,110,cavern,is a,cave,What is a cavern?,A cavern is a cave.
+15,55,nose,is a,smell,What can you use your nose for?,You can use your nose for smelling.
+3,146,history,has context of,history,What is history?,History is things that happened in the past.
+6,150,tiny,is the antonym of,huge,What is the opposite of tiny?,Big is the opposite of tiny.
+10,296,pleasure,causes,have_fun,What does pleasure mean?,Pleasure means fun.
+12,140,maid,is capable of,clean_house,What does a maid do?,A maid cleans.
+17,94,mind,is used for,thinking,What do you use your mind for?,You use your mind for thinking.
+2,200,blind,is a,people,What does it mean when someone is blind?,It means that they can't see.
+14,270,ordinary,is the antonym of,unusual,What does ordinary mean?,Ordinary means normal.
+11,210,polite,is the antonym of,rude,What is the opposite of polite?,Rude is the opposite of polite.
+7,73,old,is the antonym of,current,What is the opposite of something that is old?,New is the opposite of old.
+1,11,difficult,is the antonym of,easy,What is the opposite of difficult?,Easy is the opposite of difficult.
+13,6,believe,has subevent,believe,What does believe mean?,Believe means thinking something is true.
+8,87,lightning,is a,atmospheric_electricity,When does lightning happen?,Lightning happens during storms.

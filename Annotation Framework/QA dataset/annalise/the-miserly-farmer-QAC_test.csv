@@ -1,0 +1,4 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+1,4,farmer,is capable of,farm_land,Who is capable of farming land?,A farmer.
+2,62,market,has subevent,shop,Where do you go to shop for food?,The market.
+3,109,farmer,is capable of,farm_land,What can farmers do?,Farm land.

@@ -1,0 +1,4 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+19,47,garment,is a,clothing,123,123
+19,51,sent,is a,estonian_monetary_unit,123,123
+19,122,expect,has subevent,expect,123,123

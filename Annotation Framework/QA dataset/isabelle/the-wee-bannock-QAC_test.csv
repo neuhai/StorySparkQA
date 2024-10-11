@@ -1,0 +1,17 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+4,14,tailor,is capable of,make_dress,What does a tailor do?,A tailor makes clothes.
+15,90,teeth,has property,for_chewing,What do you use your teeth for?,You use your teeth for chewing.
+1,81,kitten,is a,cat,What are kittens?,Kittens are baby cats.
+1,116,breakfast,is a,first_meal_of_day,What is breakfast?,Breakfast is the first meal of the day.
+12,81,pan,is used for,cooking,What is a pan used for?,A pan is used for cooking.
+8,30,busy,has subevent,work,What does busy mean?,Busy means you have a lot to do.
+7,67,meal,is a,result_of_cooking,How do you make a meal?,You cook food.
+11,44,rope,is used for,tying_things,What is a rope used for?,A rope is used for tying things.
+5,75,grip,is a,synonomous_with_to_hold,What does grip mean?,Grip means hold.
+13,66,bonnet,is a,hat,What is a bonnet?,A bonnet is a hat.
+3,97,coward,is a,person,What is a coward?,A coward is someone who gets scared easily.
+14,53,coat,is used for,keeping_warm_in_winter,During what season do you wear a coat?,You wear a coat in winter.
+2,193,fire,is capable of,burn_things,What happens when something touches fire?,When something touches fire it burns.
+9,71,hammer,is at location of,tool_box,Where is a hammer kept?,A hammer is kept in a tool box.
+6,141,jar,is used for,hold,What is a jar used for?,A jar is used for storing things.
+10,24,good,is the antonym of,bad,What is the opposite of good?,Bad is the opposite of good.

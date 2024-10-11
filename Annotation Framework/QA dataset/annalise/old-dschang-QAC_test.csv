@@ -1,0 +1,11 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+10,2,year,is a,month,What is another way to say 12 months?,A year.
+2,96,yellow,is a,color,What color is the sun?,Yellow.
+7,37,blue,is a,color,What color is water?,Blue.
+3,81,loudly,is the antonym of,quietly,What is the opposite of loudly?,Quietly.
+5,18,daughter,is a,child,What is a female child called?,A daughter.
+9,136,red,is a,color,What color is a tomato?,Red.
+1,52,burn,causes,start_flame_or_fire,What causes a burn?,A fire.
+8,2,cloud,is at location of,sky,Where are clouds?,The sky. 
+6,58,green,is a,color,What color is seaweed?,Green.
+4,87,visit,is a,meeting,What is another word for a visit?,A meeting.

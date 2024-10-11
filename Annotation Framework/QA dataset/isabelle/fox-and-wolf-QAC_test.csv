@@ -1,0 +1,13 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+3,92,eye,is capable of,sense_light,What do you use your eyes for?,You use your eyes to see. 
+10,175,bucket,is used for,carrying_liquids,What is a bucket used for?,A bucket is used for carrying things.
+6,19,moon,is at location of,space,Where is the moon found?,The moon is found in space.
+6,54,bacon,is made of,pig,Where does bacon come from?,Bacon comes from pigs.
+4,17,bread,is at location of,oven,What do you use to bake bread?,You use the oven to bake bread.
+7,176,leap,is a,jump,What does leap mean?,Leap means jump.
+1,102,hairy,is the antonym of,bald,What is the opposite of hairy?,Bald is the opposite of hairy.
+9,32,cheese,is at location of,refrigerator,Where do you keep cheese?,You keep cheese in the fridge.
+8,134,wheel,is part of,bicycle,What do you ride that has two wheels?,A bicycle is what you ride that has two wheels.
+11,164,heavy,is the antonym of,light,What is the opposite of heavy?,Light is the opposite of heavy.
+2,107,road,is used for,travelers,What are roads used for?,Roads are used for traveling.
+5,195,cheese,is made of,milk,What is cheese made of?,Cheese is made of milk.

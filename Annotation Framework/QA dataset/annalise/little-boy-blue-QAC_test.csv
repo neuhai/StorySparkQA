@@ -1,0 +1,21 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+3,52,child,is at location of,school,Where do children spend a lot of time learning?,A school.
+6,213,corn,is a,vegetable,What food group is corn apart of?,Vegetables.
+9,108,doctor,is capable of,help_sick_person,Who is capable of helping a sick person?,A doctor.
+1,28,melt,is the antonym of,freeze,What is the opposite of melt?,To freeze.
+11,143,bed,is used for,lie_down,Where do you lie down in your house?,A bed.
+2,2,proud,is the antonym of,ashamed,What is the opposite of ashamed?,Proud.
+15,33,bell,is at location of,church,Where do you hear bells?,At church.
+18,100,broken,has context of,bone_or_body_part,What is something bad that can happen to your bones?,They can become broken.
+5,11,broke,causes,go_to_store,What do you do after you break something?,Go to the store to get a new one.
+19,7,river,is at location of,bridge,What is a bridge built over?,A river.
+7,18,improve,is the antonym of,worsen,What is the opposite of improve?,Worsen.
+10,33,away,is the antonym of,here,What is the opposite of away?,Here.
+8,92,white,is a,colour,What color are clouds?,White.
+16,139,grin,is a,smile,What is a grin?,A smile.
+14,15,long,is the antonym of,short,What is the opposite of long?,Short.
+12,50,work,has subevent,check_email,When do you check emails?,At work. 
+4,201,sheep,is a,farm_animals,Where do sheep live?,On a farm.
+20,92,sheep,is used for,shearing,What animal can you sheer?,A sheep.
+13,130,porch,is part of,house,What is a porch apart of?,A house.
+17,148,lie,has subevent,feel_guilty,What does telling a lie make you feel?,Guilty.

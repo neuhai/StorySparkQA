@@ -1,0 +1,10 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+2,108,winter,has property,cold,What season is very cold?,Winter.
+9,5,flower,is at location of,vase,Where do you keep flowers in the house?,A vase.
+8,20,child,is at location of,school,Where do children go during the day?,To school.
+5,175,snow,is at location of,mountains,Where is there a lot of snow?,On mountains.
+10,14,nail,is at location of,finger,Where are your nails?,On your fingers.
+3,136,garden,is at location of,back_yard,Where is a garden located?,In a backyard.
+6,96,playground,is at location of,school,Where do kids play while at school?,On the playground.
+1,132,wall,is used for,holding_up_roof,What does a wall do?,Hold up the roof.
+7,34,neck,is used for,supporting_head,What body part supports your head?,My neck.

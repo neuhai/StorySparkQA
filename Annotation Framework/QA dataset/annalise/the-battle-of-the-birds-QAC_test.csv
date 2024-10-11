@@ -1,0 +1,16 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+7,282,asleep,is the antonym of,awake,What is the opposite of asleep?,Awake.
+16,9,marry,has subevent,propose_marriage,What happens after someone proposes to another person?,They get married.
+9,79,knee,is part of,leg,What allows your leg to bend?,My knee.
+3,247,cry,is the antonym of,laugh,What is the opposite of laughing?,Crying.
+14,118,neck,is used for,supporting_head,What supports your head on your body?,My neck.
+12,197,crow,is a,bird,What type of animal is a crow?,A bird.
+13,3,trick,has context of,card_game,What can a magician do with a card game?,Perform tricks.
+2,84,green,is a,color,What color are leaves?,Green.
+15,22,son,is a,child,What is a male child called?,A son.
+10,61,green,is a,color,What color means go?,Green.
+18,248,wife,is the antonym of,husband,What is the opposite of a wife?,A husband.
+4,133,cook,is at location of,restaurant,Where does a cook work?,At a restaurant.
+8,190,red,is a,color,What color are roses?,Red.
+6,217,ocean,is used for,swim_in,What can you do in the ocean?,Swim in it.
+17,158,shoemaker,is capable of,shoe_man,What does a shoemaker make?,Shoes.

@@ -1,0 +1,8 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+6,70,cap,is a,headdress,What is a cap?,A cap is a hat.
+2,126,money,is at location of,bank,Where do people keep their money?,People keep their money at the bank.
+7,54,merry,is the antonym of,unhappy,What does merry mean?,Merry means happy.
+3,178,pair,is a,small_group,How many are in a pair?,There are 2 in a pair.
+5,103,doctor,is capable of,help_sick_person,What do doctors do?,Doctors help sick people.
+4,8,sail,is a,boat_or_ship_part,What do you need in order to sail?,You need a boat in order to sail.
+1,69,daughter,is the antonym of,son,What is the opposite of daughter?,Son is the opposite of daughter.

@@ -1,0 +1,20 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+10,141,shoe,is at location of,closet,Where do you store your shoes?,In the closet.
+8,132,open,is the antonym of,closed,What is the opposite of opened?,Closed.
+6,5,second,is part of,minute,What is 60 seconds equal to?,A minute.
+14,113,easy,is the antonym of,hard,What is the opposite of easy?,Hard.
+3,139,twig,has subevent,branch,What are small branches called?,Twigs.
+7,95,sleepy,causes,sleep,What do you do when you are sleepy.,I go to sleep.
+12,86,cooked,is the antonym of,raw,What is the opposite of raw?,Cooked.
+20,61,fly,is a,insect,How do insects travel?,They fly.
+1,55,stick,is at location of,forest,Where can you find a stick?,In the forest.
+16,102,pocket,is capable of,store_coins,Where can you store coins?,In my pocket.
+11,37,shoe,is used for,protecting_foot,What protects your foot?,A shoe.
+13,109,stand,is part of,stadium,What do you do at a stadium?,You stand.
+2,147,corn,is a,vegetable,What type of food is corn?,A vegetable.
+4,88,roof,is used for,keeping_rain_off,What keeps rain out of your house?,The roof.
+18,85,seat,is at location of,theater,Where do you sit at a theater?,In a seat.
+5,118,alive,is capable of,grow,What can plants that are alive do?,Grow.
+15,95,glass,has property,clear,What color is glass?,Clear.
+17,45,take,is the antonym of,bring,What is the opposite of bring?,Take.
+9,139,nest,is a,shelter_for_birds,What is a shelter for birds called?,A nest.

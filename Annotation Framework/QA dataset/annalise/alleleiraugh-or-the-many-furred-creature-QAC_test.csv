@@ -1,0 +1,10 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+8,43,kitchen,is used for,cooking_food,Where do you cook food?,In the kitchen.
+6,22,good,is capable of,battle_evil,What kind of people can find evil?,Good people.
+1,71,queen,is used for,ruling_country,What can a queen do?,She can rule a country.
+3,1,sun,is used for,heat,What in the sky makes heat?,The sun.
+7,49,boot,is a,shoe,What shoe do you wear in the rain?,A boot.
+4,84,fur,is used for,keeping_animal_warm,What keeps an animal warm?,Fur.
+9,139,black,is a,color,What color is the dark?,Black.
+5,125,soup,is a,food,What food do you eat when you are sick?,I eat soup. 
+10,117,hair,is at location of,head,Where is your hair?,On my head. 

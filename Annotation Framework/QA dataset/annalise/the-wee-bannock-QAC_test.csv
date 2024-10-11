@@ -1,0 +1,16 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+9,91,heavy,is the antonym of,light,What is the opposite of heavy?,Light.
+3,114,divide,is the antonym of,multiply,What is the opposite of multiply?,Divide. 
+7,113,cheese,is at location of,refrigerator,Where do you keep cheese?,The refrigerator.
+6,133,cream,is a,dairy_product,What kind of product is cream?,A dairy product.
+11,30,pot,is used for,make_soup,What do you use to make soup?,A pot.
+8,9,eat,causes,cook_meal,What do you do after you cook a meal?,I eat it.
+10,112,hit,has context of,baseball,In what sport do you hit a ball with a bat?,Baseball.
+4,58,fire,is capable of,burn_things,What burns things?,Fire.
+1,81,kitten,is a,cat,What is a baby cat called?,A kitten.
+5,35,foot,is at location of,shoe,What do you put in a shoe?,My foot. 
+14,49,quick,is the antonym of,slow,What is the opposite of quick?,Slow. 
+15,75,welcome,has subevent,greet,What do you say to greet someone?,Welcome.
+13,17,fast,is the antonym of,slow,What is the opposite of fast?,Slow.
+12,97,spoon,is used for,eating_cereal,What do you use to eat cereal?,A spoon.
+2,193,fire,is capable of,heat_house,What helps to heat a house?,Fire.

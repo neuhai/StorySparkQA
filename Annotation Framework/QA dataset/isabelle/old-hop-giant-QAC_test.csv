@@ -1,0 +1,9 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+2,50,hay,is used for,feed_cattle,What do cows do with hay?,Cows eat hay.
+9,7,scheme,has subevent,plan,What is a scheme?,A scheme is a plan.
+1,57,meadow,is a,field_of_grass_families,What is a meadow?,A meadow is a field.
+3,68,disappear,is the antonym of,appear,What is the opposite of disappear?,Appear is the opposite of disappear.
+6,16,appear,is the antonym of,disappear,What is the opposite of appear?,Disappear is the opposite of appear.
+4,8,heavy,is the antonym of,light,What is the opposite of heavy?,Light is the opposite of heavy.
+7,30,frighten,causes,fear,What does frightened mean?,Frightened means scared.
+5,27,laugh,has subevent,recognize_funny,When do people laugh?,People laugh when something is funny.

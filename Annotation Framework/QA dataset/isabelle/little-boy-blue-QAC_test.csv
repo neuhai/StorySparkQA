@@ -1,0 +1,20 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+18,37,duty,is a,work,What is a duty?,Duty is work or a job
+8,71,ear,is part of,auditory_system,What do you use your ears for?,You use your ears to hear.
+15,130,corn,is at location of,field,Where does corn grow?,Corn grows in fields.
+6,191,sheep,is capable of,graze,What do sheep eat?,Sheep eat grass.
+7,67,attempt,is a,activity,What does attempt mean?,Attempt means try.
+7,18,improve,is the antonym of,worsen,What is the opposite of improve?,The opposite of improve is get worse.
+5,36,foot,is at location of,shoe,What do you wear to protect your feet?,You wear shoes to protect your feet.
+20,107,farm,is used for,raising_crops,What is a farm used for?,A farm is used for growing crops.
+13,69,cricket,is a,orthopterous_insect,What is a cricket?,A cricket is a bug.
+19,109,basket,is used for,carrying,What is a basket used for?,A basket is used for carrying things.
+10,47,pull,is the antonym of,push,What is the opposite of pull?,Push is the opposite of pull.
+1,72,money,is at location of,bank,Where do people keep their money?,People keep their money at the bank.
+14,90,hot,is the antonym of,cold,What is the opposite of hot?,Cold is the opposite of hot.
+16,139,grin,is a,smile,What is a grin?,A grin is a smile.
+12,104,quietly,is the antonym of,loudly,What is the opposite of quietly?,Loudly is the opposite of quietly.
+4,77,corn,is a,vegetable,What is corn?,Corn is a vegetable.
+17,23,baby,is capable of,cry,What do babies do when they want something?,Babies cry when they want something.
+2,79,match,is a,duplicate,What does it mean when 2 things match?,It means they are similar.
+3,104,earn,has subevent,get,What does it mean to earn something?,Earn means to get something by working.

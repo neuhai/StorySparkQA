@@ -1,0 +1,4 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+2,175,roof,is a,top_of_building,Where is a roof found?,A roof is found on top of a building.
+3,119,enemy,is the antonym of,friend,What is the opposite of enemy?,Friend is the opposite of enemy.
+1,30,chest,is used for,storing_things_in,What is a chest used for?,A chest is used for storing things.

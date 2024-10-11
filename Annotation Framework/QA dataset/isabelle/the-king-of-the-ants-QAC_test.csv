@@ -1,0 +1,7 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+1,116,road,is used for,travelers,What is the road used for?,The road is used for traveling.
+6,9,book,is made of,paper,What are books made of?,Books are made of paper.
+5,22,odor,is a,sensory_information,What is an odor?,An odor is a smell.
+4,8,scarlet,is a,red,What color is scarlet?,Scarlet is red.
+3,6,helmet,is a,headgear,What is a helmet used for?,A helmet is used to protect your head.
+2,27,bright,is the antonym of,dark,What is the opposite of bright?,Dark is the opposite of bright.

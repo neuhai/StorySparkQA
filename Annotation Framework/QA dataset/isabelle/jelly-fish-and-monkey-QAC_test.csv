@@ -1,0 +1,20 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+3,114,doctor,is capable of,help_sick_person,What is a doctor's job?,A doctor's job is to help sick people.
+12,1,monkey,desires,eat_banana,What do monkeys like to eat?,Monkeys like to eat bananas.
+6,64,tortoise,is a,turtle,What is a tortoise?,A tortoise is a turtle.
+6,136,island,is a,small_body_of_land,What is an island?,An island is land surrounded by water.
+16,59,confess,has subevent,admit,What does confess mean?,Confess means admit.
+13,12,liver,is part of,body,Where is your liver found?,Your liver is in your body.
+15,157,false,is the antonym of,true,What is the opposite of false?,True is the opposite of false.
+4,132,monkey,is at location of,african_jungle,Where do monkeys live?,Monkeys live in the jungle.
+7,15,strength,is the antonym of,weakness,What is the opposite of strength?,The opposite of strength is weakness.
+7,291,destination,is a,goal,What is a destination?,A destination is the place you are trying to get to.
+1,152,bride,is at location of,wedding,Where do a bride and groom get married?,They get married at a wedding.
+9,75,branch,is at location of,trunk,What part of a tree are the branches connected to?,The branches are connected to the trunk.
+11,39,wonder,has subevent,question,What do you do when you wonder about something?,You ask a question.
+18,114,shell,is at location of,ocean,Where can you find lots of shells?,You can find lots of shells at the beach.
+17,68,wrath,is a,fury,What does wrath mean?,Wrath means anger.
+2,19,glitter,is a,gleam,What does glitter mean?,Glitter means sparkle.
+8,108,monkey,is at location of,african_jungle,Where do monkeys live?,Monkeys live in the jungle.
+14,172,shore,is at location of,beach,Where can you go to see the shore?,You can go to the beach to see the shore.
+10,217,safe,is used for,keeping_things_safe,What is the opposite of safe?,Dangerous is the opposite of safe.

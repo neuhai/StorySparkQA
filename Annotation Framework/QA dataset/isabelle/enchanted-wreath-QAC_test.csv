@@ -1,0 +1,24 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+8,116,evil,is a,opposite_of_good,What is the opposite of evil?,The opposite of evil is good.
+21,129,paw,is a,animal_foot,What is a paw?,A paw is an animal's foot.
+16,58,bird,is at location of,forest,Where do birds live?,Birds live in the forest.
+5,20,wing,is used for,flying,What are wings used for?,Wings are used for flying.
+23,118,ship,is capable of,travel_over_water,Where do ships travel?,Ships travel over water.
+23,40,dirty,causes,bathe,What do you do when you're dirty?,You take a bath when you're dirty.
+17,136,sand,is at location of,desert,Where can you find lots of sand?,You can find lots of sand in deserts and beaches.
+15,21,early,is the antonym of,late,What is the opposite of early?,Late is the opposite of early.
+11,47,gift,causes,give_gift,What do you do with a gift?,You give it to someone.
+13,25,skill,is a,ability,What is a skill?,A skill is something you can do well.
+14,16,mirror,is used for,see_yourself,What can you use a mirror for?,You can use a mirror to see yourself.
+20,37,shadow,is the antonym of,light,What is the opposite of shadow?,Light is the opposite of shadow.
+6,87,midnight,is part of,night,When is midnight?,Midnight is at night.
+9,41,sob,is a,crying,What does sobbing mean?,Sobbing means crying.
+1,113,fetch,has subevent,bring,What does fetch mean?,Fetch means get something.
+22,133,room,is used for,sleep,What do you do in your bedroom?,You sleep in your bedroom.
+12,93,invent,has subevent,create_by_mental_act,What does invent mean?,Invent means create.
+3,105,dove,is a,bird,What is a dove?,A dove is a bird.
+7,187,coin,is a,cash,What are coins used for?,Coins are used for buying things.
+2,25,axe,causes,chop_firewood,What is an axe used for?,An axe is used for chopping wood.
+10,30,sing,has subevent,clear_throat,What do you use to sing?,You use your voice to sing.
+18,179,dirty,causes,bathe,What is the opposite of dirty?,Clean is the opposite of dirty.
+4,20,wet,is the antonym of,dry,What is the opposite of wet?,Dry is the opposite of wet.

@@ -1,0 +1,3 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+1,5,ring,is at location of,finger,Where do you wear a ring?,On my finger.
+2,10,mouse,is at location of,hole_in_wall,Where do mice live inside a house?,Inside a hole in the wall.

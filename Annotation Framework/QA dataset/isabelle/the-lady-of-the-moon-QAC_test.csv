@@ -1,0 +1,5 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+1,39,herb,is a,vascular_plant,What is an herb?,An herb is a plant.
+2,41,bridge,is used for,cross_water,What is a bridge used for?,A bridge is used for crossing water.
+3,86,pond,is a,body_of_water,Which is bigger: a lake or a pond?,A lake is bigger than a pond.
+4,135,flute,is used for,make_music,What is a flute used for?,A flute is used for making music.

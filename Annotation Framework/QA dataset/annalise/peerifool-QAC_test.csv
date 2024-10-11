@@ -1,0 +1,21 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+16,18,spin,has subevent,get_dizzy,How do you feel when you spin in circles?,I feel dizzy.
+22,23,morning,is the antonym of,night,What is the opposite of the morning?,The night.
+11,152,sister,is the antonym of,brother,What is the opposite of a brother?,A sister
+9,118,cow,is used for,milking,What do cows make?,Milk.
+5,40,rainbow,is capable of,follows_rain,What do you see in the sky after there is rain?,A rainbow.
+3,201,boil,is the antonym of,freeze,What is the opposite of boil?,Freeze.
+15,36,door,is capable of,open,What actions can you do with a door?,Open it.
+2,161,weak,causes,rest,What do you need to do when you feel weak?,Rest.
+21,171,cabbage,is at location of,grocery_store,Where do you buy cabbage?,The grocery store.
+17,15,see,has subevent,open_eyes,How do you see?,When I open my eyes.
+13,31,wool,is a,hair_of_sheep,What is the hair of a sheep called?,Wool.
+18,79,laugh,has subevent,recognize_funny,What do you do when something is funny?,I laugh.
+1,142,knife,is capable of,cut_apple,What do you cut an apple with?,A knife.
+10,62,hungry,causes,cook_dinner,What do you do when you’re hungry?,Cook food. 
+7,27,card,is used for,christmas,What holiday do you give someone a card?,Christmas. 
+4,161,open,is the antonym of,closed,What is the opposite of open?,Close. 
+8,81,comb,is a,tool,What tool do you use to brush your hair?,A comb.
+6,80,table,is at location of,resturant,Where do you sit at at a restaurant?,A table.
+20,119,back,is the antonym of,front,What is the opposite of back?,Front.
+14,146,foot,is the antonym of,hand,What is the opposite of a foot?,A hand.

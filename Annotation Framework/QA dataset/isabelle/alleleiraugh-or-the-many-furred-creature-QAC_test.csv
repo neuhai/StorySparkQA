@@ -1,0 +1,15 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+3,280,kitchen,is used for,cooking_food,What is a kitchen used for?,A kitchen is used for cooking food.
+3,88,tree,is part of,forest,Where are trees found?,Trees are found in the forest.
+2,110,star,is at location of,space,Where are stars found?,Stars are found in space.
+2,149,fur,is used for,keeping_animal_warm,What do animals use fur for?,Animals use fur to stay warm.
+6,10,soup,is at location of,container,What do you eat soup in?,You eat soup in a bowl.
+6,76,cook,is capable of,brown_ground_beef,What do cooks do?,Cooks make food.
+4,91,soot,is a,blackness,What color is soot?,Soot is black.
+4,6,feast,has subevent,eat,What do you do at a feast?,You eat at a feast.
+7,80,ring,is at location of,finger,Where do you wear a ring?,You wear a ring on your finger.
+7,108,feast,has subevent,eat,What do you do at a feast?,You eat at a feast.
+8,251,star,is at location of,space,Where are stars located?,The stars are located in space.
+10,144,ash,is a,wood,What do ashes come from?,Ashes come from fire.
+9,124,fur,is used for,keeping_animal_warm,What is fur used for?,Fur is used for keeping animals warm.
+5,49,sweep,has subevent,clean,What do you use to sweep?,You use a broom to sweep.

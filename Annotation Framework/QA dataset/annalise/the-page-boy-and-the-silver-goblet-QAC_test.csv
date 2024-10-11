@@ -1,0 +1,9 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+7,62,star,is at location of,space,Where are stars found?,In space.
+8,21,door,is capable of,open,What actions can you do with a door?,Open it.
+6,11,angry,causes,cool_off,What do people need to do when they are angry?,Cool off.
+9,10,shore,has property,next_to_sea,What is a shore next to?,A sea. An ocean.
+3,20,door,is used for,separating_rooms,What separates rooms?,A door.
+4,11,candle,is used for,light_room,What can a candle do?,Light a room.
+2,114,darkness,is the antonym of,lightness,What is the opposite of darkness?,Lightness.
+5,47,pour,causes,run,What do you do when you are outside and it starts pouring?,I run.

@@ -1,0 +1,6 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+5,40,see,has subevent,open_eyes,What can you do when you open your eyes?,I can see.
+1,52,sun,is capable of,shine_bright,What shines very bright in the sky during the day?,The sun.
+4,34,miss,is the antonym of,hit,What is the opposite of miss?,Hit.
+3,22,town,is used for,live,What can you do in a town?,Live in it.
+2,132,sky,is used for,flying_in,Where do planes fly?,In the sky.

@@ -1,0 +1,17 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+10,59,animal,is at location of,zoo,What's a place where you can go to see animals?,You can go to the zoo to see animals.
+7,131,absent,is capable of,mean_missing,What does absent mean?,Absent means missing.
+9,182,limb,is a,part,What are your limbs?,Your limbs are your arms and legs.
+13,117,gallop,is a,horse_gait,What's an animal you can ride that gallops?,A horse is an animal you can ride that gallops.
+14,267,flee,has subevent,run,What does fled mean?,Fled means ran away.
+15,145,farewell,is a,departure,What does farewell mean?,Farewell means goodbye.
+11,24,lodge,has subevent,house,What is a lodge?,A lodge is a house.
+3,252,stroll,has subevent,walk,What does stroll mean?,Stroll means walk.
+4,174,center,is the antonym of,periphery,What is the center?,The center is the middle of something.
+2,257,save,is a,prevention,What does it mean to save someone?,It means keeping them safe from danger.
+16,98,carol,is a,song,What is a carol?,A carol is a song.
+1,31,genius,has property,smart,What is a genius?,A genius is someone who is very smart.
+12,253,whisper,is a,quieter_than_shout,What does whisper mean?,Whisper means talk quietly.
+8,91,escape,is a,avoidance,What does escape mean?,Escape means break free from.
+5,219,daily,has context of,slang,What does daily mean?,Daily means every day.
+6,146,wing,is used for,birds,What kind of animals have wings?,Birds have wings.

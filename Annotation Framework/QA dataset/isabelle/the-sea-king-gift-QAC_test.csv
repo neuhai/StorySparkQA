@@ -1,0 +1,25 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+1,42,sail,has subevent,travel,Why do people sail?,People sail to travel.
+6,2,herring,is a,saltwater_fish,What is a herring?,A herring is a type of fish.
+15,157,cow,is at location of,barnyard,Where do cows live?,Cows live in barns.
+4,57,student,is at location of,university,Where do students go to learn?,Students go to school to learn.
+11,47,storm,is used for,raining,What happens during a storm?,It rains during a storm.
+2,15,swim,is the antonym of,sink,What is the opposite of swim?,The opposite of swim is sink.
+9,187,gold,has property,yellow_in_color,What color is gold?,Gold is yellow.
+20,54,fiddle,is a,stringed_musical_instrument,What is a fiddle?,A fiddle is an instrument.
+20,283,net,has subevent,catch,What are nets used for?,Nets are used for catching things.
+21,68,maid,is capable of,clean_house,What do maids do?,Maids clean.
+21,152,rescue,has subevent,save,What does rescue mean?,Rescue means save.
+3,44,butter,is a,dairy_product,What is butter made of?,Butter is made of milk.
+3,85,paint,has subevent,get_paintbrush_and_paint,What do you need in order to paint?,You need paints and a paintbrush to paint.
+19,1,load,has subevent,fill,What does loaded mean?,Loaded means filled.
+18,44,rock,has property,heavy,Is a rock heavy or light?,A rock is heavy.
+14,56,seaweed,is at location of,ocean,Where does seaweed grow?,Seaweed grows in the ocean.
+7,68,evening,is part of,night,What time of day comes after evening?,Night comes after evening.
+8,83,garlic,is a,ingredient,What is garlic used for?,Garlic is used for cooking.
+17,101,soil,is used for,grow_crops,What is soil used for?,Soil is used for growing crops.
+16,73,seaweed,is a,plant,What is seaweed?,Seaweed is a plant.
+13,73,spinach,is a,vegetable,What is spinach?,Spinach is a vegetable.
+12,167,slumber,is a,dormancy,What is slumber?,Slumber is sleep.
+5,236,book,is at location of,shelf,Where can you borrow books from?,You can borrow books from the library.
+10,52,cow,is at location of,barnyard,Where do cows live?,Cows live on a farm.

@@ -1,0 +1,23 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+5,20,wing,is used for,flying,What are wings used for?,To fly.
+2,89,axe,causes,chop_firewood,What do you use an axe for?,To chop wood.
+10,142,tiny,is the antonym of,huge,What is the opposite of huge?,Tiny.
+11,157,feast,has subevent,eat,What do you do at a feast?,I eat a lot.
+13,20,witch,is a,elderly_person,What is an evil elderly person called?,A witch.
+21,50,window,is part of,bus,What is there a lot of on the walls of a bus?,Windows.
+20,123,mind,is used for,thinking,What do you use tot think?,My mind.
+1,119,work,causes,work,What do you do when you go to work?,I work.
+8,92,mother,is a,parent,What is a mother?,A parent.
+7,173,dove,is a,bird,What kind of animal is a dove?,A bird.
+4,49,dinner,is a,meal,What meal do you eat at night?,Dinner.
+22,108,stepmother,is the antonym of,stepfather,What is the opposite of a stepmother?,A stepfather.
+12,36,stepmother,is a,stepparent,What is a female stepparent called?,A stepmother.
+14,21,new,is the antonym of,old,What is the opposite of old?,New.
+23,40,dirty,causes,bathe,What do you do when you are dirty?,I bathe.
+17,203,eye,is at location of,faces,Where are your eyes?,On my face. 
+19,199,arm,is the antonym of,leg,What is the opposite of a leg?,An arm.
+18,7,false,is the antonym of,true,What is the opposite of false?,True.
+3,110,handle,is part of,door,Where do you find a handle?,On a door.
+16,192,girl,is a,child,What is a female child called?,A girl.
+9,29,beat,has subevent,win,What is it called when you beat someone in a game?,Winning.
+15,182,velvet,has property,soft,How does velvet feel?,Soft.

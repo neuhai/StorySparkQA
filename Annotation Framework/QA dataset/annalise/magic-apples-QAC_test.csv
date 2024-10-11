@@ -1,0 +1,8 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+7,42,good,is the antonym of,bad,What is the opposite of bad?,Good.
+1,55,city,is a,larger_than_town,What is larger than a town?, A city.
+3,19,apple,is at location of,apple_tree,Where do you get apples from?,An apple tree.
+5,115,country,is used for,assemble_states,What is a group of states called?,A country.
+6,9,red,is a,color,What color is an apple?,Red.
+2,138,table,is at location of,conference,What do you do at a big table at work?,Have a conference.
+4,127,apple,has property,red,What color is an apple?,Red.

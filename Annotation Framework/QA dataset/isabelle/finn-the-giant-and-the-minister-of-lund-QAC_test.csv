@@ -1,0 +1,6 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+5,15,rage,is a,anger,What does rage mean?,Rage means anger.
+1,55,moon,is at location of,space,Where is the moon located?,The moon is in space.
+2,132,sky,has property,cloudy,What happens in the sky before it rains?,It gets cloudy before it rains.
+4,5,stone,is a,building_material,What can builders use stones for?,Builders can use stones for building things.
+3,36,roof,is a,top_of_building,Where is a roof?,A roof is on the top of a building.

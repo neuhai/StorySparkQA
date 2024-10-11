@@ -1,0 +1,2 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+1,105,scream,has subevent,make_noise,Is a scream loud or quiet?,A scream is loud.

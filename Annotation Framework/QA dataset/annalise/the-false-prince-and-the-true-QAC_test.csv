@@ -1,0 +1,13 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+2,78,king,is at location of,castle,Where does a king live?,A castle.
+9,68,line,is at location of,bus_stop,What do you stand in at a bus stop?,You stand in a line.
+12,144,smile,is a,facial_expression,What facial expression do you make when you are happy?,I smile.
+7,206,false,is the antonym of,true,What is the opposite of true?,False.
+4,9,come,is the antonym of,leave,What is then opposite of come?,Leave.
+8,49,cushion,is part of,sofa,Where are cushions found?,A sofa.
+1,125,white,is a,colour,What color is snow?,White.
+5,62,low,is the antonym of,high,What is the opposite of low?,High.
+3,224,street,is used for,driving_on,What do you drive on?,The street.
+10,89,torch,has subevent,burn,What do you do with a torch?,You burn it.
+6,265,old,is the antonym of,young,What is the opposite of old?,Young. 
+11,302,swear,has subevent,declare,What does swear mean?,To declare.

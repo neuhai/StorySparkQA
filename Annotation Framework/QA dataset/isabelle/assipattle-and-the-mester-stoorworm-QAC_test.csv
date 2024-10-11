@@ -1,0 +1,34 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+28,132,gill,is a,respiratory_organ,What are gills used for?,Gills are used for breathing.
+4,25,meeting,is a,gathering,What is a meeting?,A meeting is when people get together.
+34,103,feast,has subevent,eat,What does it mean when you feast?,Feast means eating a lot of food.
+31,21,joy,is a,pleasant_emotion,What does joy mean?,Joy means happy.
+31,55,lad,is a,people,What does lad mean?,Lad means boy.
+7,66,depart,has subevent,leave,What does depart mean?,Depart means leave.
+3,98,snout,is a,nose,What is a snout?,A snout is a nose.
+10,22,barn,is used for,keeping_animals,Who lives in barns?,Animals live in barns.
+18,252,guard,has subevent,act,What does a guard do?,A guard protects things.
+17,123,iron,is a,metal,What is iron?,Iron is a metal.
+20,123,impatiently,is the antonym of,patiently,What is the opposite of impatiently?,Patiently is the opposite of impatiently.
+26,40,boat,is used for,travel,What is a boat used for?,A boat is used to travel.
+5,237,mystery,causes,give_clue,What do you need in order to solve a mystery?,You need clues to solve a mystery.
+5,32,behave,has subevent,act,What does behave mean?,Behave means act.
+9,43,heavy,is the antonym of,light,What is the opposite of heavy?,Light is the opposite of heavy.
+11,81,laugh,has subevent,recognize_funny,What makes you laugh?,Something that is funny makes you laugh.
+12,81,remedy,is a,solving_problem,What is a remedy used for?,A remedy is used to fix something.
+27,189,crowd,is a,group_of_people,What is a crowd?,A crowd is a group of people.
+6,38,end,is the antonym of,beginning,What is the opposite of end?,Beginning is the opposite of end.
+19,105,talk,is the antonym of,silent,What is the opposite of talking?,Being quiet is the opposite of talking.
+22,102,saddle,is used for,riding_horses,What is a saddle used for?,a saddle is used for riding horses.
+22,96,lightning,has property,hot,Is lightning hot or cold?,Lightning is hot.
+15,85,sword,has property,sharp,Is a sword sharp or dull?,A sword is sharp.
+25,113,single,is a,human_adult,What does single mean?,Single means one.
+32,52,thunder,has subevent,storm,When does thunder happen?,Thunder happens during a storm.
+33,75,teach,has subevent,communicate,Who teaches you things in school?,Your teacher teaches you things.
+13,6,terrible,is the antonym of,excellent,What does terrible mean?,Terrible means bad.
+2,199,eye,is part of,visual_system,What do you use your eyes for?,You use your eyes for seeing things.
+14,264,shrink,is the antonym of,expand,What is the opposite of shrink?,Grow is the opposite of shrink.
+24,60,slim,has context of,slang,What does slim mean?,Slim means thin.
+8,133,eye,is part of,visual_system,What do you use your eyes for?,You use your eyes for seeing.
+23,81,thief,is a,criminal,What does a thief do?,A thief steals things.
+21,111,wind,causes,fly_kite,What keeps a kite up in the sky?,The wind keeps a kite up in the sky.

@@ -1,0 +1,18 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+9,54,grow,is the antonym of,shrink,What is the opposite of grow?,Shrink is the opposite of grow.
+17,28,duty,is a,work,What is a duty?,A duty is a job.
+4,69,pleasure,causes,have_fun,What does pleasure mean?,Pleasure means fun.
+16,150,bread,is at location of,oven,Where do you bake bread?,You bake bread in the oven.
+14,122,dream,has subevent,sleep,When do you have dreams?,You have dreams while you sleep.
+15,104,high,is the antonym of,low,What is the opposite of high?,Low is the opposite of high.
+2,10,gift,is used for,birthday_surprise,When do you give someone a gift?,You give someone a gift on their birthday.
+6,117,apartment,is a,place_to_live_in,What is an apartment?,An apartment is a place to live.
+8,96,guard,has subevent,act,What do you do when you guard something?,You keep it safe.
+10,50,middle,is a,point,What comes after the middle of something?,The end comes after the middle of something.
+12,153,animal,is at location of,zoo,What place can you go to see animals?,You can go to the zoo to see animals.
+5,21,child,is capable of,share_toy,What do children like to play with?,Children like to play with toys.
+13,36,snore,has subevent,sleep,When do people snore?,People snore while they are sleeping.
+7,85,awake,has subevent,open_eyes,What do you do when you wake up?,You open your eyes when you wake up.
+7,119,accident,is a,mistake,What is an accident?,An accident is a mistake.
+11,132,princess,is a,royalty,Who is the father of a princess?,The king is the father of a princess.
+3,44,tremble,has subevent,shake,What does tremble mean?,Tremble means shake.

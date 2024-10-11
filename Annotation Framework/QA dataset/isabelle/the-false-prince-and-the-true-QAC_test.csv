@@ -1,0 +1,12 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+10,172,smile,is a,sign_of_friendliness,What do people feel when they smile?,People feel happy when they smile.
+3,214,crow,is a,bird,What is a crow?,A crow is a bird.
+2,199,companion,is a,friend,What is a companion?,A companion is a friend.
+6,62,ball,is capable of,roll,How does a ball move?,A ball rolls.
+1,174,injury,is at location of,hospital,Where do you go if you get very hurt?,You go to the hospital if you get very hurt.
+9,91,door,is used for,separating_rooms,What is a door used for?,A door is used to enter a room.
+8,120,frown,is the antonym of,smile,What is the opposite of frown?,Smile is the opposite of frown.
+4,99,exhaust,has subevent,tire,What does exhausted mean?,Exhausted means tired.
+7,120,ball,has property,circular,What shape is a ball?,A ball is a circle.
+11,86,nurse,is capable of,care_for_patient,What does a nurse do?,A nurse takes care of people.
+5,258,baby,is a,very_young_child,What do babies drink?,Babies drink milk.

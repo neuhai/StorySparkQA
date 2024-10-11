@@ -1,0 +1,4 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+1,134,seed,is capable of,become_plant,What do seeds become after they grow?,"After they grow, seeds become plants."
+2,142,blossom,is a,flower,What does it mean when something blossoms?,It means that flowers grow.
+3,120,fast,is the antonym of,slow,What is the opposite of slow?,Fast is the opposite of slow.

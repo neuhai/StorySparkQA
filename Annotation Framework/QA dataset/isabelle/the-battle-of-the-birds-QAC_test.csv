@@ -1,0 +1,21 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+6,182,apple,is at location of,apple_tree,Where do apples come from?,Apples come from apple trees.
+10,77,king,is used for,leading_country,What is a king's job?,A king's job is to rule a kingdom.
+16,153,purse,is capable of,hold_money,What is a purse used for?,A purse is used for holding money.
+16,208,thirsty,causes,drink_water,What do you do when you're thirsty?,You drink water when you're thirsty.
+5,105,big,is the antonym of,small,What is the opposite of big?,The opposite of big is small.
+11,118,mare,is part of,horse,What is a mare?,A mare is a female horse.
+12,65,thick,is the antonym of,thin,What is the opposite of thick?,Thin is the opposite of thick.
+2,178,reward,causes,eat_cookie,What is a reward?,A reward is a prize.
+7,282,asleep,is the antonym of,awake,What is the opposite of asleep?,Awake is the opposite of asleep.
+13,80,tool,is used for,building_things,What do you use tools for?,You use tools to build things
+4,187,tremble,has subevent,shake,What does tremble mean?,Tremble means shake.
+4,285,dog,desires,bone,What do dogs like to chew on?,Dogs like to chew on bones.
+18,176,grain,is a,smallness,Is a grain big or small?,A grain is small.
+14,110,greet,has subevent,react,What does greet mean?,Greet means say hello.
+9,79,knee,is part of,leg,What part of the body are your knees part of?,You knees are part of your legs.
+1,149,night,has property,black,What color is the sky at night?,The sky is black at night.
+8,120,nest,is a,shelter_for_birds,What kind of animals live in nests?,Birds live in nests.
+17,148,purse,is capable of,hold_money,What is a purse used for?,A purse is used for carrying things.
+3,201,silence,is a,sound_property,What does it mean when it is silent?,It means there is no sound.
+15,233,reflection,is at location of,mirror,Where can you see your reflection?,You can see your reflection in a mirror.

@@ -1,0 +1,43 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+2,17,bamboo,is a,plant,What is bamboo?,Bamboo is a plant.
+20,114,branch,is at location of,trunk,What part of the tree are branches attached to?,The branches are attached to the trunk.
+20,36,box,is used for,storing_in,What are boxes used for?,Boxes are used for storing things.
+11,41,earth,has property,spherical,What shape is the earth?,The earth is round.
+33,83,write,has subevent,get_pen_and_paper,What do you use to write?,You use a pencil and paper to write.
+37,33,cloud,is at location of,sky,Where can you find clouds?,You can find clouds in the sky.
+16,1,old,is the antonym of,young,What is the opposite of old?,The opposite of old is young.
+30,86,obey,is the antonym of,rebel,What is the opposite of obeying?,Not doing what you're supposed to is the opposite of obey.
+41,29,letter,is at location of,post_office,Where can you send letters?,You can send letters at the post office.
+10,6,ear,is a,sense_organ,What do you use your ears for?,You use your ears for listening.
+5,109,day,is the antonym of,night,What is the opposite of day?,Night is the opposite of day.
+27,145,sailor,is capable of,captain_ship,What do sailors do?,Sailors work on ships.
+23,89,damp,is a,wetness,What does damp mean?,Damp means wet.
+4,41,bright,is the antonym of,dim,What is the opposite of bright?,Dim is the opposite of bright.
+40,58,robe,is a,garment,What is a robe?,A robe is a piece of clothing.
+40,60,wing,is used for,flying,What are wings used for?,Wings are used for flying.
+6,48,obstacle,is a,hindrance,What is an obstacle?,An obstacle makes something harder to do.
+18,77,home,is at location of,neighborhood,What is an area with many homes?,A neighborhood is an area with homes.
+25,36,harm,has subevent,injure,What does harm mean?,Harm means hurt.
+13,39,month,is part of,year,How many months are in a year?,There are 12 months in a year.
+31,84,sleeve,is part of,shirt,What are your sleeves part of?,Your sleeves are part of your shirt.
+42,64,smoke,is created by,fire,Where does smoke come from?,Smoke comes from fire.
+36,194,pine,is a,evergreen_tree,What is a pine?,A pine is a type of tree.
+12,111,brave,is the antonym of,cowardly,What is the opposite of brave?,The opposite of brave is scared.
+22,153,peak,is at location of,top_of_mountain,What is the peak of a mountain?,The top of the mountain is the peak.
+32,25,shadow,is the antonym of,light,What is the opposite of shadow?,Light is the opposite of shadow.
+35,9,messenger,is a,traveler,What do messengers do?,Messengers bring messages.
+7,9,snow,is used for,build_snowman,What can you build with snow?,You can build a snowman with snow.
+19,200,fact,is a,piece_of_information,What is a fact?,A fact is information that is true.
+3,98,hair,is at location of,head,Where does your hair grow?,Your hair grows on your head.
+9,105,consider,has subevent,think_about,What does consider mean?,Consider means think about.
+15,156,shell,is part of,turtle,What kind of animal is green with a big shell?,A turtle is green with a big shell.
+21,39,grow,has context of,farming,Who grows crops?,Farmers grow crops.
+24,66,twig,is a,small_tree_branch,Which is smaller: a twig or a branch?,A twig is smaller.
+34,181,true,is the antonym of,false,What is the opposite of true?,False is the opposite of true.
+1,105,green,is a,color,What color comes after green in the rainbow?,Blue comes after green.
+8,18,best,is the antonym of,worst,What is the opposite of best?,Worst is the opposite of best.
+17,17,quest,is a,search,What is a quest?,A quest is a mission.
+39,56,sorrow,is a,sadness,What does sorrow mean?,Sorrow means saddness.
+14,100,excellent,is the antonym of,terrible,What does excellent mean?,Excellent means good.
+26,156,seek,has subevent,travel,What does seek mean?,Seek means look for.
+38,101,wrong,is the antonym of,correct,What is the opposite of wrong?,Right is the opposite of wrong.

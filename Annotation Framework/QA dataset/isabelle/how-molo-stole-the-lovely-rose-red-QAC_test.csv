@@ -1,0 +1,11 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+10,49,hawk,is a,bird,What is a hawk?,A hawk is a type of bird.
+7,13,jade,has property,green,What color is jade?,Jade is green.
+3,69,round,is a,shape,What shape is round?,A circle is round.
+9,32,wagon,is used for,carry_children,What are wagons used for?,Wagons are used for carrying people.
+5,81,lamp,is used for,illuminating_area,What is a lamp used for?,A lamp is used to create light.
+1,114,peach,is a,fruit,What is a peach?,A peach is a fruit.
+8,91,discover,has subevent,learn,What does discover mean?,Discover means find out. 
+4,55,tiger,is a,carnivore,What do tigers like to eat?,Tigers like to eat meat.
+6,27,curtain,is used for,cover_window,What is a curtain used for?,A curtain is used for covering a window.
+2,21,rooster,is a,male_chicken,What is a rooster?,A rooster is a male chicken.

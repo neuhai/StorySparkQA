@@ -1,0 +1,7 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+3,11,emperor,is a,monarch,What does an emperor do?,An emperor rules an empire.
+1,105,hungry,causes,eat_food,What do you need to do when you're hungry?,You need to eat food when you're hungry.
+5,28,long,is the antonym of,short,What is the opposite of long?,Short is the opposite of long.
+7,47,sick,is at location of,hospital,Where do you go when you are very sick?,You go to the hospital when you are very sick.
+4,20,seek,is a,movement,What does seek mean?,Seek means look for.
+6,41,happiness,is a,bliss,What face do you make when you're happy?,You smile when you're happy.

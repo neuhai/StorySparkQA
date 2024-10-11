@@ -1,0 +1,9 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+3,167,buy,has subevent,have_money,What do you need in order to buy something?,You need money to buy something.
+2,33,weak,is the antonym of,strong,What is the opposite of weak?,Strong is the opposite of weak.
+5,12,merchant,is used for,selling_things,What does a merchant do?,A merchant sells things.
+4,13,storm,is used for,raining,What happens during a storm?,It rains during a storm.
+4,162,mouse,is at location of,pantry,What do mice like to eat?,Mice like to eat cheese.
+1,82,pond,is a,body_of_water,What is a pond?,A pond is a body of water.
+8,36,money,is capable of,buy_food,What can you do with money?,You can buy things with money.
+6,113,mouse,is at location of,pantry,What do mice like to eat?,Mice like to eat cheese.

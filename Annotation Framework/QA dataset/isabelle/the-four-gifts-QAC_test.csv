@@ -1,0 +1,19 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+14,233,pearl,is at location of,oyster,Where are pearls found?,Pearls are found in oysters.
+9,8,fire,is capable of,burn_things,What can fire do when it touches something?,Fire can burn things.
+9,146,necklace,is a,jewelry_for_neck,Where do you wear a necklace?,A necklace is worn around your neck.
+13,77,sunset,is the antonym of,sunrise,What is the opposite of sunset?,The opposite of sunset is sunrise.
+2,134,little,is the antonym of,big,What is the opposite of little?,Big is the opposite of little.
+15,170,violent,is the antonym of,peaceful,What is the opposite of violent?,Peaceful is the opposite of violent.
+8,36,village,is a,city,What is a village?,A village is a town.
+4,287,wash,has subevent,cleanse,Why do you wash something?,You wash something to clean it.
+12,89,frighten,causes,fear,What does frightened mean?,Frightened means scared.
+12,189,pig,has property,rolling_in_mud,What do pigs like to roll in?,Pigs like to roll in mud.
+7,188,despise,is the antonym of,admire,What is the opposite of despise?,The opposite of despise is liking someone.
+3,126,dinner,is a,final_meal_of_day,What is dinner?,Dinner is the last meal of the day.
+11,49,smile,is a,facial_expression,When do you smile?,You smile when you're happy.
+11,129,aid,is a,resource,What does aid mean?,Aid means help.
+5,192,listen,has subevent,stop_talking,What should you do while you're listening?,You should be quiet and look at the person talking.
+16,155,observe,has subevent,watch,What does observe mean?,Observe means watch.
+6,60,glance,is a,look,What does glance mean?,Glance means look.
+1,236,shock,is a,distress,What does shocked mean?,Shocked means surprised.

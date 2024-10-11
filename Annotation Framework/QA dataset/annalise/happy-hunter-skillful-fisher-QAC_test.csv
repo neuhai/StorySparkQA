@@ -1,0 +1,52 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+21,34,thirst,causes,drink,What do you do when you feel thirsty?,Drink.
+27,22,fish,is at location of,water,Where do fish live?,In the water. In the lake. In the ocean.
+42,122,day,is part of,week,What is the same as 7 days?,A week.
+22,43,cup,is used for,drinking,What actions can you do with a cup?,I can drink from it.
+16,121,huge,is the antonym of,tiny,What is the opposite of huge?,Tiny. Small.
+37,59,end,is the antonym of,beginning,What is the opposite of ending?,Beginning.
+13,101,sea,is used for,sailing_boats_in,Where can you sail a boat?,The sea.
+24,57,hook,is used for,catch_fish,What do you use a hook for while fishing?,To catch the fish.
+54,71,peace,is the antonym of,war,What is the opposite of war?,Peace.
+52,76,dry,is the antonym of,wet,What is the opposite of dry?,Wet.
+8,70,mistake,is used for,learning,What is a takeaway from making mistakes?,You learn from them.
+36,111,friend,is capable of,talk,Who do you talk with at school?,My friends.
+29,66,thank,has subevent,show_appreciation,What do you do to show appreciation to someone?,I thank them.
+5,136,fisher,is at location of,boat,Where do fishers fish from?,A boat.
+23,7,grandson,is the antonym of,granddaughter,What is the opposite of a grandson?,A granddaughter.
+4,54,bad,is the antonym of,good,What is the opposite of good?,Bad.
+53,65,sea,has property,full_of_water,What is the sea full of?,It is full of water.
+7,172,badly,is the antonym of,well,What is the opposite of doing badly?,Doing well.
+28,112,forever,is a,long_time,How long is forever?,A long time.
+31,60,lose,has subevent,look_for,What do you do when you lose something?,I look for it.
+30,154,play,has subevent,have_fun,What do you do to have fun?,Play.
+32,82,grandson,is the antonym of,granddaughter,What is the opposite of grandson?,Granddaughter.
+6,38,even,is the antonym of,odd,What is the opposite of even?,Odd.
+14,181,basket,is capable of,carry_laundry,What can you carry laundry in?,A basket.
+40,103,come,is the antonym of,leave,What is the opposite of come?,Leave.
+12,46,unhappy,is the antonym of,happy,What is the opposite of unhappy?,Happy.
+9,98,forgiveness,is at location of,confession,What do you ask for after a confession?,Forgiveness.
+18,98,upwards,is the antonym of,downward,What is the opposite of upwards?,Downwards.
+35,54,red,is a,color,What color means stop?,Red.
+25,167,sister,is the antonym of,brother,What is the opposite of a sister?,A brother.
+43,152,strong,causes,eat_healthily,What do you do to get stronger?,Eat healthily.
+50,136,true,is the antonym of,false,What is the opposite of true?,False.
+46,74,kind,is the antonym of,unkind,What is the opposite of kind?,Unkind.
+10,16,brother,is the antonym of,sister,What is the opposite of a brother?,A sister.
+17,37,bucket,is at location of,janitors_closet,Where does a janitor keep a bucket?,A janitors closet.
+33,76,yesterday,is the antonym of,tomorrow,What is the opposite of yesterday?,Tomorrow.
+1,39,happy,is the antonym of,sad,What is the opposite of happy?,Sad.
+15,180,saw,is a,tool_for_cutting_wood,What tool do you use to cut wood?,A saw.
+51,76,brother,is a,male_sibling,What is a male sibling called?,A brother.
+47,103,crocodile,desires,in_river,Where do crocodiles live?,In a river.
+3,5,silence,is at location of,library,Where do you have to be silent?,In the library.
+45,90,flood,causes,disaster,What does a flood cause?,Disaster. 
+2,125,try,is a,another_name_for_effort,What is another name for effort?,To try. 
+44,93,valuable,is the antonym of,worthless,What is the opposite of valuable?,Worthless.
+48,36,mouth,is used for,talking,What do you use to talk?,My mouth.
+38,128,know,causes,find_information,What do you do when you want to know something?,You find information.
+26,36,room,is at location of,school,What does a school have a lot of?,Rooms.
+41,98,anxiety,causes,sleep_loss,What can anxiety cause?,Sleep loss.
+19,49,bucket,is used for,carrying_liquids,What is a bucket used for?,Carrying liquids.
+49,65,powerful,is the antonym of,powerless,What is the opposite of powerful?,Powerless.
+34,42,innocence,is the antonym of,guilt,What is the opposite of innocence?,Guilt.

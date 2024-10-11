@@ -1,0 +1,13 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+3,72,garden,is used for,growing_flowers,What grows in a garden?,Flowers grow in a garden.
+7,88,axe,is capable of,divide_wood_logs,What can you do with an axe?,You can cut down trees with an axe.
+7,43,child,is at location of,school,Where do children go to learn?,Children go to school to learn.
+6,36,melt,is the antonym of,freeze,What is the opposite of melt?,Freeze is the opposite of melt.
+8,49,school,is used for,learning,Why do children go to school?,Children go to school to learn.
+1,131,high,is the antonym of,low,What is the opposite of high?,Low is the opposite of high.
+10,14,nail,is at location of,finger,Where are your nails?,Your nails are at the ends of your fingers.
+10,63,child,is capable of,share_toy,What do children like to play with?,Children like to play with toys.
+2,100,garden,is used for,growing_flowers,What grows in gardens?,Flowers grow in gardens.
+5,162,cry,has subevent,wipe_tears_from_face,How do you feel when you cry?,You feel sad when you cry.
+9,109,fruit,is a,better_snack_than_candy,Which is healthier: fruit or candy?,Fruit is healthier than candy.
+4,98,musician,is a,person_who_plays_music,What is a musician?,A musician is someone who plays music.

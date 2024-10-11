@@ -1,0 +1,16 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+16,95,bag,is at location of,supermarket,What do you put food in at the supermarket? ,A bag.
+14,46,coat,is used for,keeping_warm_in_winter,What do you wear to stay warm in the winter?,A coat.
+6,116,egg,is created by,chicken,Who are eggs created by?,Chickens.
+1,71,lantern,is at location of,house,Where are lanterns located?,In a house.
+5,17,grow,is the antonym of,shrink,What is the opposite of grow?,Shrink
+2,117,friendly,is the antonym of,unfriendly,What is the opposite of friendly?,Unfriendly.
+11,105,umbrella,is used for,protection_from_rain,What do you use to protect you from the rain?,An umbrella.
+12,107,gate,is at location of,fence,Where is a gate located?,In a fence.
+4,9,food,causes,eat_in_restaurant,What do you eat in a restaurant?,Food.
+9,88,egg,is created by,chicken,What can a chicken create?,Eggs.
+13,51,umbrella,is used for,keeping_dry,What do you use to keep dry?,An umbrella.
+7,112,bread,is at location of,oven,What do you cook bread in?,The oven.
+15,80,ink,is part of,pen,What is ink apart of?,A pen.
+10,31,lucky,is the antonym of,unlucky,What is the opposite of unlucky?,Lucky.
+8,99,lamp,is used for,illuminating_area,What do you use to illuminate an area?,A lamp.

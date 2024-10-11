@@ -1,0 +1,25 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+20,62,punishment,is at location of,jail,Where do criminals go to be punished?,criminals go to jail to be punished.
+10,246,ill,causes,go_to_doctor,Who do you go see when you're ill?,You go see the doctor when you're ill.
+24,139,frog,is at location of,pond,Where do frogs like to live?,Frogs like to live in ponds. 
+5,92,sandal,is a,shoe,What are sandals?,Sandals are shoes.
+2,23,wash,has subevent,cleanse,Why do you wash things?,You wash things to make them clean.
+13,86,forget,is the antonym of,remembering,What is the opposite of forget?,Remember is the opposite of forget.
+16,51,voice,has context of,linguistics,What do you use your voice for?,You use your voice to talk.
+16,74,box,is used for,storing_in,What is a box used for?,A box is used for storing things.
+17,70,mat,is a,flat_floor_covering,Where do mats go?,Mats go on the floor.
+7,50,cruel,is a,opposite_of_kind,What is the opposite of cruel?,Kind is the opposite of cruel.
+4,90,clothes,is at location of,store,Where do you buy clothes?,You buy clothes at the store.
+9,19,breakfast,is a,first_meal_of_day,What is breakfast?,Breakfast is the first meal of the day.
+3,9,truthful,is the antonym of,lying,What is the opposite of truthful?,Lying is the opposite of truthful.
+11,75,cushion,is a,pillow,What is a cushion?,A cushion is a pillow.
+15,113,pet,is at location of,house,Where do pets live?,Pets live in houses.
+25,46,lesson,is part of,education,What is a lesson?,Something that you learn.
+8,44,rough,is a,sensation,What's the opposite of rough?,Smooth is the opposite of rough.
+12,33,kindness,causes,love_another,What does kindness mean?,Kindness means being nice to others.
+1,49,cage,is capable of,control_wild_animal,What is a cage used for?,A cage is used for holding animals.
+6,92,pet,is at location of,house,Where do pets live?,Pets live in houses.
+21,92,bird,is capable of,build_nest,Where do birds live?,Birds live in nests.
+22,95,box,is used for,storing_in,What is a box used for?,A box is used for storing things.
+18,133,large,is the antonym of,small,What is the opposite of large?,Small is the opposite of large.
+14,36,home,is at location of,neighborhood,What is an area with many houses called?,An area with many houses is a neighborhood.

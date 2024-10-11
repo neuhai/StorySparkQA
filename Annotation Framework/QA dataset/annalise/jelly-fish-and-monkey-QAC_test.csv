@@ -1,0 +1,19 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+13,2,doctor,is capable of,help_sick_person,Who do you see when you are sick?,A doctor.
+17,9,jelly,is at location of,refridgerator,Where do you store jelly.,The refrigerator.
+9,12,monkey,desires,eat_banana,What food do monkeys like to eat?,Bananas.
+5,22,monkey,has property,hanging_off_tree,What do monkeys do on trees?,They hang off the trees.
+6,105,jelly,is at location of,jar,What do you keep jelly in?,A jar.
+7,157,curiosity,causes,learn,What happens when you are curious about something?,You learn about it.
+4,196,monkey,is at location of,african_jungle,Where can you find monkeys?,In the jungle.
+12,82,doctor,is used for,diagnosing_peoples_problems,Who can diagnose peoples problems?,A doctor.r.
+2,202,green,is a,color,What color is grass?,Green.
+8,273,beauty,is the antonym of,ugly,What is the opposite of beauty?,Ugly.
+10,110,swim,has subevent,get_into_water,What do you do when you get into water?,I swim.
+18,100,story,is part of,book,What does a book contain?,A story.
+16,70,swim,has subevent,get_into_water,What do you do when you get in the water?,Swim.
+15,78,false,is the antonym of,true,What is the opposite of false?,True.
+1,45,floor,is the antonym of,ceiling,What is the opposite of a floor?,A ceiling.
+11,97,important,is the antonym of,unimportant,What is the opposite of important?,Unimportant. 
+3,9,bride,is at location of,wedding,Where do you find a bride?,A wedding.
+14,136,best,is the antonym of,worst,What is the opposite of best?,Worst.

@@ -1,0 +1,21 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+4,28,hut,is a,shelter,What are huts used for?,Huts are used for shelter.
+4,16,straight,is the antonym of,curved,What is the opposite of straight?,The opposite of straight is curved.
+5,72,sleep,has subevent,wake_up,What happens when you're done sleeping?,You wake up when you're done sleeping.
+11,74,whisper,is a,quieter_than_shout,What does whisper mean?,Whisper means speak quietly.
+12,70,fish,is capable of,live_underwater,Where do fish live?,Fish live underwater.
+13,77,cloak,is a,overgarment,What is a cloak like?,A cloak is like a cape.
+15,39,summer,is a,warmest_season,What is the weather like in summer?,Summer is hot.
+15,42,winter,has property,cold,What is the weather like in winter?,Winter is cold. 
+7,25,enter,is the antonym of,exit,What is the opposite of enter?,Exit is the opposite of enter.
+7,97,meadow,is a,field_of_grass_families,What is a meadow?,A meadow is a field of grass.
+3,96,exhaustion,is a,fatigue,What does exhaustion mean?,Exhaustion means being very tired.
+3,20,bell,is used for,ring,What noise does a bell make?,A bell rings.
+14,110,rage,is a,anger,What does rage mean?,Rage means angry.
+14,35,foal,is part of,horse,What is a foal?,A foal is a baby horse.
+2,34,wish,is a,desire,What is a wish?,A wish is something you want.
+8,70,pocket,is capable of,store_coins,What are your pockets used for?,Your pockets are used for storing things.
+6,94,throne,is a,special_kind_of_chair,What is a throne?,A throne is a special chair.
+1,106,return,is a,group_action,What does return mean?,Return means go back.
+9,224,rose,has property,red,What color is a rose?,A rose is red.
+10,35,reward,has subevent,act,When do you get a reward?,You get a reward when you've done something good.

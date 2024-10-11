@@ -1,0 +1,13 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+12,142,book,is created by,writer,Who creates books?,Writers create books.
+1,137,price,is a,monetary_value,What is a price?,A price is how much money something is worth.
+9,95,delight,is a,pleasure,What does delight mean?,Delight means feeling happy.
+3,74,beaver,is at location of,beaver_pond,Where does a beaver live?,A beaver lives in the water.
+10,138,wicked,has context of,slang,What does wicked mean?,Wicked means evil.
+6,186,ground,is the antonym of,sky,What is the opposite of ground?,Sky is the opposite of ground.
+8,156,spin,has subevent,get_dizzy,What happens when you spin around too much?,You get dizzy when you spin too much.
+5,99,pig,has property,rolling_in_mud,What do pigs like to roll in?,Pigs like to roll in mud.
+2,5,change,has subevent,difference,What does change mean?,Change means become different.
+4,9,sob,has subevent,cry,What does sob mean?,Sob means cry.
+11,35,bacon,is made of,pig,Where does bacon come from?,Bacon comes from pigs.
+7,19,son,is the antonym of,daughter,What's the opposite of son?,Daughter is the opposite of son.

@@ -1,0 +1,12 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+5,33,lucky,is the antonym of,unlucky,What is the opposite of lucky?,Unlucky.
+3,116,heart,is a,pump_for_blood,What pumps blood in your body?,My heart.
+9,150,star,is a,sun,What is the biggest star in the sky?,The sun.
+6,244,notice,is the antonym of,ignore,What is the opposite of ignore?,Notice.
+4,130,island,is used for,vacation,Why do people go to islands?,For vacation.
+1,96,ready,is the antonym of,unready,What is the opposite or ready?,Unready.
+8,267,blue,is a,color,What color represents sadness?,Blue.
+10,46,bank,is used for,storing_money,Where do you store your money?,In the bank.
+2,48,storm,is used for,raining,What happens during a storm?,It rains.
+7,150,bench,is at location of,bus_stop,Where can you sit at a bus stop?,On a bench.
+11,66,scream,has subevent,make_noise,What is a really loud noice called?,A scream.

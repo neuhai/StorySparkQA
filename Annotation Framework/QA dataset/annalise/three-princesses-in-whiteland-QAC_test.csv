@@ -1,0 +1,11 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+1,139,fishing,is used for,catching_fish,What do you do when you go fishing?,I catch fish.
+9,76,meet,has subevent,introduce_yourself,What do you do when you meet someone?,You introduce yourself.
+7,92,horn,is a,musical_instrument,What is a horn?,A musical instrument.
+10,145,wedding,is a,ceremony,What is a ceremony where people get married?,A wedding.
+3,7,princess,is a,royalty,What is a female royalty called?,A princess.
+2,74,white,is a,colour,What color is paper?,White.
+5,19,ankle,is part of,leg,What connects your leg and your foot?,My ankle.
+6,74,go,is the antonym of,stop,What is the opposite of stop?,Go.
+8,241,brother,is the antonym of,sister,What is the opposite of a brother?,A sister.
+4,111,beat,causes,play_game_of_chess,What is it called when the other person wins in chess?,They beat me.

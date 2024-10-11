@@ -1,0 +1,12 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+9,36,fresh,is the antonym of,old,What is the opposite of fresh?,Old is the opposite of fresh.
+2,86,plain,is the antonym of,fancy,What is the opposite of plain?,Fancy is the opposite of plain.
+1,131,morsel,is a,small_indefinite_quantity,Is a morsel big or small?,A morsel is small.
+4,140,wing,is used for,birds,What kind of animals have wings?,Birds have wings.
+10,23,bake,causes,follow_recipe,What tells you how to bake something?,A recipe tells you how to bake something.
+6,5,goose,is a,bird,What is a goose?,A goose is a bird.
+3,34,bottle,is used for,storing_liquids,What are bottles used for?,Bottles are used for holding liquids.
+8,30,thirst,causes,drink,What do you do when you are thirsty?,You drink when you are thirsty.
+7,53,march,has subevent,walk,What does march mean?,March means walk.
+11,47,ship,is capable of,travel_over_water,What is a ship used for?,A ship is used to travel over water.
+5,28,stuck,is a,configuration,What does it mean when something is stuck?,It means that it can't move.

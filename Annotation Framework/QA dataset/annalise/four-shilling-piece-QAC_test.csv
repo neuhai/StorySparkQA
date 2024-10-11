@@ -1,0 +1,9 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+5,47,cat,is capable of,hunt_mice,What animal hunts mice?,A cat.
+4,80,guest,is capable of,stay_overnight,What can a guest do at your house overnight?,They can stay and sleep overnight.
+3,25,go,is the antonym of,come,What is the opposite of stop?,Go.
+6,3,sail,is a,piece_of_cloth,What is a piece of cloth that helps a boat travel?,A sail.
+7,5,cat,is at location of,lap,What animal can sit on your lap?,A cat.
+8,195,mother,is the antonym of,daughter,What can a mother have?,A daughter.
+1,168,coin,is used for,flipping,What can you do with a coin?,Flip it.
+2,2,boy,is the antonym of,girl,What is the opposite of boy? ,A girl. 

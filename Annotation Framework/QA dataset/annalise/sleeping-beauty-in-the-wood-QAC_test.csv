@@ -1,0 +1,18 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+1,75,table,is at location of,resturant,Where do you sit at at a restaurant?,A table.
+9,66,tree,is part of,forest,Where can trees be found?,A forest. A park.
+10,21,family,causes,live,Who do you live with?,My family.
+16,76,curtain,is used for,cover_window,What do you use curtains for?,To cover a window.
+11,193,rare,is the antonym of,common,What us the opposite of rare?,Common.
+13,7,marble,causes,game,What can you do with marbles?,Play games.
+12,171,ruby,has property,red,What color is a ruby?,It is red.
+6,26,quarter,is a,worth_twenty_five_cents,What coin is worth 25 cents?,A quarter.
+17,38,trust,is made of,honesty,Where does trust come from?,Honesty.
+2,20,gift,is at location of,box,What do you put a gift in?,A box.
+15,34,lady,is the antonym of,gentleman,What is the opposite of a lady?,A gentleman.
+14,59,great,is the antonym of,mediocre,What is the opposite of mediocre?,Great.
+8,126,dog,desires,bone,What do dogs like to eat?,Bones.
+7,138,boot,is used for,walking,What can you do with boots on?,Walk.
+4,93,apartment,is a,place_to_live_in,What is an apartment?,A place to live in. 
+3,4,turn,causes,stand_in_queue,What do you stand in a queue for?,My turn.
+5,49,pretty,is the antonym of,ugly,What is the opposite of pretty?,Ugly.

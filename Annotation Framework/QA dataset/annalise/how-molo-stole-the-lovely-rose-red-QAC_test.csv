@@ -1,0 +1,8 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+1,28,story,is part of,book,What do you read a story in?,In a book.
+7,2,call,is used for,contact,How do you contact someone by phone?,I call them.
+3,54,mirror,is used for,see_yourself,What do you see when you look in the mirror?,I see myself.
+6,27,curtain,is at location of,window,Where can you find a curtain?,On a window.
+2,58,sad,has subevent,crying,What causes someone to cry?,They are sad.
+8,121,sword,has property,sharp,What is a sword?,Sharp.
+4,18,dark,causes,turn_on_light,What do you do when a room is dark?,Turn on the light.

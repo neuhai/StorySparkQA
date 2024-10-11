@@ -1,0 +1,25 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+23,78,horse,is used for,riding,What actions can you do witchy a horse.,Hide it.
+1,307,maid,is capable of,clean_house,What does a maid do?,Clean a house.
+16,98,close,is the antonym of,far,What is the opposite of far?,Close.
+11,200,ointment,has context of,medicine,What medicine do you put on a wound?,Ointment.
+18,43,kitchen,is used for,cooking_food,What room do you cook food in?,The kitchen. 
+24,53,shoe,is used for,wearing,What do you wear on your foot?,A shoe.
+3,18,bull,is at location of,bullring,What animal is in a bullring?,A bull.
+2,321,roof,is used for,keeping_rain_off,What keeps rain out of your house?,The roof.
+4,163,leaf,is part of,tree,What plant are leaves apart of?,Trees.
+17,135,glove,is used for,protecting_hand,What do you wear to protect your hand?,A glove.
+9,36,quick,is the antonym of,slow,What is the opposite of quick?,Slow.
+5,185,horn,is part of,bull,What animals have horns?,A bull.
+12,33,thick,is the antonym of,thin,What is the opposite of thick?,Thin.
+19,196,horse,is used for,riding,What activities can you do with a horse?,You can ride it.
+21,155,comb,is capable of,part_hair,What do you part your hair with?,A comb.
+15,33,prince,is at location of,fairy_tale,Where do princes exist?,In fairytales.
+6,80,hold,is the antonym of,release,What is the opposite of hold?,Release.
+14,35,castle,is a,large_building,What is a castle?,A large building.
+25,97,foot,is at location of,sock,What do you put on your foot before a shoe?,A sock.
+10,38,strong,is the antonym of,weak,What is the opposite of strong? ,Weak. 
+20,30,fell,causes,descend,What happens when you fall?,You descend.
+8,13,forest,is used for,many_things_producing_lumber,What produces lumber?,A forest.
+22,15,wall,is part of,hallway,What is apart of a hallway?,Walls.
+7,148,leaf,is part of,tree,Where can you find a leaf?,On a free.

@@ -1,0 +1,26 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+8,85,wool,is a,hair_of_sheep,Where does wool come from?,Wool comes from sheep.
+17,15,see,has subevent,open_eyes,What do you use to see?,You use your eyes to see.
+16,5,wool,is part of,sheep,What animal does wool come from?,Wool comes from sheep.
+23,47,grass,is a,plant,What is grass?,Grass is a plant.
+12,196,cloth,is used for,making_clothes,What can you use cloth for?,You can use cloth to make clothes.
+19,138,hurry,is a,urgency,What does hurry mean?,Hurry means go fast.
+10,96,dish,is used for,hold_food,What are dishes used for?,Dishes are used for holding food.
+7,97,pot,is used for,make_soup,What is a pot used for?,A pot is used for cooking.
+7,239,blanket,is capable of,cover_bed,Where do you keep your blankets?,You keep blankets on your bed.
+4,141,comb,is capable of,part_hair,What do people use combs for?,People use combs to comb their hair.
+11,231,cloth,is used for,making_clothes,What is cloth used to make?,Cloth is used to make clothes.
+13,51,depart,has subevent,leave,What does depart mean?,Depart means leave.
+21,91,downstairs,is the antonym of,upstairs,What is the opposite of downstairs?,Upstairs is the opposite of downstairs.
+5,52,violet,is a,purple,What color is violet?,Violet is purple.
+5,90,stool,is used for,resting,What are stools used for?,Stools are used for sitting.
+18,125,web,has subevent,weave,What kind of bug creates webs?,Spiders create webs.
+9,146,wool,is a,hair_of_sheep,Where does wool come from?,wool comes from sheep.
+22,122,night,has property,black,What can you see in the sky at night?,You can see the moon and stars.
+2,169,powerful,is the antonym of,powerless,What does powerful mean?,Powerful means having a lot of power.
+14,210,meal,is at location of,dinner,What is the final meal of the day?,Dinner is the final meal of the day.
+3,52,square,is a,shape,How many sides does a square have?,A square has 4 sides.
+1,86,clock,is used for,keeping_time,What is a clock used for?,A clock is used for telling time.
+15,86,air,has property,invisible,Why do people need air?,People need air to breathe.
+6,71,comfortable,is the antonym of,uncomfortable,What is the opposite of comfortable?,Uncomfortable is the opposite of comfortable.
+20,112,ill,causes,go_to_doctor,What does ill mean?,ill means sick.

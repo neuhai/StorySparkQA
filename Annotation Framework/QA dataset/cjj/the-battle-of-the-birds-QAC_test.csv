@@ -1,0 +1,2 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+14,93,welcome,has subevent,greet,123,123

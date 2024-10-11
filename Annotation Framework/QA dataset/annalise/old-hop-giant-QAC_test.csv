@@ -1,0 +1,10 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+8,3,neighbor,is at location of,house_next_door,Where does your neighbor live?,In the house next to mine. In my neighborhood.
+5,3,man,is the antonym of,female,What is the opposite of a man.,A woman.
+2,50,hay,is at location of,barn,Where can you find a lot of hay?,At a barn. 
+9,72,neighbor,is at location of,house_next_door,Who lives in the house next door to yours?,My neighbor.
+7,21,mow,has subevent,cut,What do you do when you need to cut your lawn?,You mow it.
+4,5,heart,is a,pump_for_blood,What organ pumps blood?,The heart.
+3,54,loss,is the antonym of,gain,What is the opposite of gain?,Loss.
+6,22,size,is a,how_big_or_small,What does size measure?,How big or small something is. 
+1,57,meadow,is a,field_of_grass_families,What is a meadow?,A field of grass.

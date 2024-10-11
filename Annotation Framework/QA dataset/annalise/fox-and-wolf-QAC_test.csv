@@ -1,0 +1,11 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+5,38,fox,is a,animal,What is a fox?,An animal.
+10,175,bucket,is used for,carrying_liquids,What do you carry liquids in?,A bucket.
+9,229,water,has property,liquid,What liquid do you drink when you are thirsty?,Water.
+2,43,egg,is at location of,grocery_store,Where do you buy eggs?,The grocery store.
+1,7,meal,is at location of,plate,What do you put your meal on?,A plate.
+3,40,paw,is a,animal_foot,What is an animals foot called?,A paw.
+11,65,cheese,is at location of,refrigerator,Where do you keep cheese?,In the refrigerator. 
+7,179,wall,is used for,holding_up_roof,What does a wall do?,Hold up the roof 
+8,121,wolf,is at location of,forest,Where does a wolf live?,In the forest.
+4,103,crow,is a,bird,What is a crow?,A bird.

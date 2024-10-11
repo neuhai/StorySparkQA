@@ -1,0 +1,19 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+9,88,egg,is created by,chicken,Where do eggs come from?,Eggs come from chickens
+1,71,lantern,is used for,illumination,What is a lantern used for?,A lantern is used to create light.
+16,68,bury,has subevent,cover,What does bury mean?,Bury means cover something.
+5,153,recover,has subevent,get,What does recover mean?,Recover means get better.
+5,119,tadpole,is capable of,become_frog,What are tadpoles?,Tadpoles are baby frogs.
+6,88,cave,is a,underground_area,Where do you have to go to get into a cave?,You have to go underground to get into a cave.
+6,116,egg,is at location of,grocery_store,Where can you buy eggs?,You can buy eggs at the store.
+15,136,law,is a,obligatory_rule_of_conduct,What is a law?,A law is a rule.
+2,39,tea,is a,drink,What is tea?,Tea is a drink.
+3,75,odor,is a,sensory_information,What is an odor?,An odor is a smell.
+11,105,umbrella,is used for,protection_from_rain,What is an umbrella used for?,An umbrella is used to protect you from rain.
+4,9,food,is at location of,plate,What do you put your food on when you eat?,You put your food on a plate when you eat.
+12,62,day,is part of,day,What color is the sky during the day?,The sky is blue during the day.
+13,31,rain,is at location of,weather,Where does rain fall from?,Rain falls from clouds.
+7,34,hen,is part of,chicken,What is a hen?,A hen is a female chicken.
+14,67,red,is a,color,What color comes after red in the rainbow?,Orange comes after red in the rainbow.
+10,31,lucky,is the antonym of,unlucky,What is the opposite of lucky?,Unlucky is the opposite of lucky.
+8,106,flame,is capable of,burn_skin,What happens when you touch flames?,Flames burn you.

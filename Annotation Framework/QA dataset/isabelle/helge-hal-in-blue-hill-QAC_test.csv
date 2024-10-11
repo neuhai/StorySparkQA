@@ -1,0 +1,24 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+21,91,cat,is capable of,hunt_mice,What animal do cats like to catch?,Cats like to catch mice.
+18,11,cake,is at location of,bakery,Where can you find a cake?,You can find cake at a bakery.
+13,40,milk,has property,white,What color is milk?,Milk is white.
+23,2,come,is the antonym of,leave,What is the opposite of come?,Leave is the opposite of come.
+11,184,wool,has property,knit_into_fabric,What can you do with wool?,You can make fabric with wool.
+14,14,cow,is at location of,barnyard,Where do cows live?,Cows live in barns.
+10,78,appreciation,causes,thank,What do you say to show your appreciation?,You say thank you to show your appreciation.
+5,75,herd,is a,group_of_animals,What is a herd?,A herd is a group of animals.
+16,19,king,is the antonym of,queen,Who is a king married to?,A king is married to the queen.
+9,113,guest,is a,visitor,What is a guest?,A guest is someone that comes to visit.
+7,21,bread,is created by,baker,What person makes bread?,A baker makes bread.
+12,61,teeth,has property,for_chewing,What do you use your teeth for?,You use your teeth for chewing.
+4,76,cat,desires,milk_to_drink,What do cats like to drink?,Cats like to drink milk.
+24,99,wedding,is a,party,What happens at a wedding?,A couple gets married at a wedding.
+22,89,mountain,is a,natural_elevation,Is a mountain tall or short?,A mountain is tall.
+19,17,shiver,has subevent,move_involuntarily,When do you shiver?,You shiver when you are cold or scared.
+6,103,end,is the antonym of,beginning,What is the opposite of end?,Beginning is the opposite of end.
+15,57,castle,is a,large_richly_decorated_building,Is a castle a big or small building?,A castle is a big building.
+20,24,spark,causes,fire,Where do sparks come from?,Sparks come from fire.
+8,91,bear,is a,carnivore,Where do bears live?,Bears live in the woods.
+1,26,bread,is at location of,oven,Where do you bake bread?,You bake bread in the oven.
+17,62,lonely,causes,have_friends_over,What should you do when you are lonely?,You should spend time with friends when you're lonely.
+3,105,reindeer,is a,deer,What do reindeer have on their heads?,Reindeer have antlers on their heads.

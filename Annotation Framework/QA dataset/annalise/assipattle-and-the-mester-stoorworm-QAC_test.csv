@@ -1,0 +1,33 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+28,20,yawn,is used for,expressing_boredom,What do you express when you yawn?,That I am bored.
+19,9,bed,is used for,lie_down,Where do you lie down and sleep?,My bed.
+29,32,boat,is at location of,water,Where can you find a boat?,On the water. In the ocean.
+16,72,prize,causes,compete_against,What do you get when you compete against someone and win?,A prize.
+15,134,news,is at location of,television,Where do you watch the news?,The television. 
+34,22,foot,is at location of,shoe,What do you wear on your feet?,Shoes. Socks.
+1,16,finger,is at location of,hand,Where are your fingers?,On my hand.
+14,86,week,is made of,seven_days,What is the same as 7 days?,A week.
+11,42,cry,has subevent,wipe_tears_from_face,What do you do after you cry?,Wipe the tears from my face.
+8,82,alive,is the antonym of,dead,What is the opposite of alive?,Dead.
+10,20,enter,is the antonym of,exit,What is the opposite of enter?,Exit.
+2,48,deny,is the antonym of,confirm,What is the opposite of deny?,Confirm.
+22,192,loud,is the antonym of,quiet,What is the opposite of loud?,Quiet.
+27,26,push,has subevent,move,What happens when you push something.,It moves.
+33,175,ordinary,is the antonym of,extraordinary,What is the opposite of extraordinary?,Ordinary.
+32,52,thunder,is the antonym of,lightening,Wheat accompanies thunder?,Lightening.
+30,4,creature,is a,animal,What is a creature?,An animal.
+21,45,secret,is a,information,What is someone hiding when they have a secret?,Information.
+23,4,ring,is at location of,finger,Where do you wear a ring?,On my finger.
+25,4,lock,is at location of,door,What can you lock?,A door.
+5,240,earth,is used for,live_on,What planet do we live on?,Earth.
+12,118,new,is the antonym of,old,What is the opposite of new?,Old.
+18,107,fire,is capable of,heat_house,What can heat a house?,Fire.
+6,218,white,is a,colour,What color is whipped cream?,White.
+4,133,open,is the antonym of,closed,What is the opposite of opened?,Closed.
+26,165,sand,is at location of,desert,Where do you find sand?,A deser.
+17,132,lid,is capable of,cover_pot,What do you cover a pot with?,A lid.
+3,98,snout,is a,nose,What is an animal’s nose called?,A snout.
+13,78,save,has subevent,spend,What is the opposite of saving money?,Spending money.
+31,173,sign,is at location of,bus_stop,What do you see at a bus stop?,A sign.
+24,134,hero,is the antonym of,villain,What is the opposite of hero?,Villain.
+7,146,hand,is the antonym of,foot,What is the opposite of a hand?,A foot.

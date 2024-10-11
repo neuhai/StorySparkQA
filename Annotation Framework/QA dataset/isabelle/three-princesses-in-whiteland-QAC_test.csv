@@ -1,0 +1,11 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+4,72,lion,is capable of,roar,What sound does a lion make?,A lion makes a roar sound.
+2,48,oar,is used for,rowing,What are oars used for?,Oars are used for rowing a boat.
+7,161,snowshoe,has subevent,travel,What are snowshoes used for?,Snowshoes are used for walking in the snow.
+7,302,eagle,is a,bird,What kind of animal is an eagle?,An eagle is a bird.
+8,14,pair,is a,small_group,How many are in a pair?,There are two in a pair.
+5,68,bottle,is used for,storing_liquids,What is a bottle used for?,A bottle is used for storing liquids.
+1,81,ear,is part of,auditory_system,What do you use your ears for?,You use your ears for listening.
+3,114,castle,is a,large_building,What is a castle?,A castle is a big building where royalty lives.
+10,131,glad,has property,same_as_happy,What does glad mean?,Glad means happy.
+6,219,hair,is used for,washing,What do you do to keep your hair clean?,You wash your hair to keep it clean.

@@ -1,0 +1,13 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+8,73,snow,is used for,build_snowman,What do you use when you build a snowman?,Snow.
+14,125,cottage,is at location of,village,Where are cottages located?,In a village.
+2,67,work,is at location of,desk,Where do you do work?,A desk.
+6,34,day,is the antonym of,night,What is the opposite of day?,Night.
+10,19,home,is a,where_live,Where do you live at?,My home.
+13,81,pull,is the antonym of,push,What is the opposite of pull?,Push.
+1,1,day,is part of,week,What is 7 days equal to?,A week.
+9,74,woman,is the antonym of,girl,What does a girl grow up to be?,A woman.
+4,19,child,is at location of,school,Where do children go to learn?,School.
+5,32,hear,has subevent,listen,What do you need to do to listen?,Hear. 
+3,30,clear,is the antonym of,cloudy,What is the opposite of a clear sky?,A cloudy sky.
+7,84,saw,is at location of,toolbox,Where do you keep a saw?,A tool box.

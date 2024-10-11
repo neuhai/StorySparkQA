@@ -1,0 +1,21 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+16,91,clothes,is at location of,store,Where can you buy clothes?,You buy clothes from the store.
+11,55,bird,is capable of,build_nest,What do birds build?,Birds build nests.
+3,29,roof,is a,protective_covering,What is a roof used for?,A roof is used to protect a building.
+8,23,dark,is the antonym of,light,What is the opposite of dark?,Light is the opposite of dark.
+1,70,property,is a,possession,What is property?,Property is something you own.
+13,96,street,is used for,driving_on,What do you do on the street?,You drive on the street.
+9,6,depart,has subevent,leave,What does depart mean?,Depart means leave.
+17,158,punishment,is part of,guilty_people_must,When does someone get punished?,Someone gets punished when they've done something bad.
+20,25,open,is the antonym of,closed,What is the opposite of open?,The opposite of open is closed.
+7,113,deep,is the antonym of,shallow,What is the opposite of deep?,Shallow is the opposite of deep.
+6,205,thin,is the antonym of,thick,What is the opposite of thin?,Thick is the opposite of thin.
+18,85,seat,causes,sit,What do you do with a seat?,You sit in a seat.
+12,220,lid,is a,top,What is a lid?,A lid is the top of a container.
+10,22,rest,has subevent,sleep,Where do you rest at night?,You rest in your bed at night.
+10,76,heal,has subevent,better,What does heal mean?,Heal means get better.
+4,59,bed,is at location of,house,Where is your bed?,You bed is in your bedroom.
+5,87,captain,is a,leader,What is a captain?,A captain is a leader.
+2,34,corn,is at location of,field,What color is corn?,Corn is yellow.
+14,96,prize,is a,gift,What is a prize?,A prize is something you win.
+15,95,glass,has property,very_fragile,Is glass easy or hard to break?,Glass is easy to break.

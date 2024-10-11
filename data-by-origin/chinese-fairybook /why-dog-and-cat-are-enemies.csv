@@ -1,0 +1,85 @@
+section_id,section_text,word_id,concept(sub),relation,obj,question,each_answer
+1,"Once upon a time there was a man and his wife and they had a ring of
+gold. It was a lucky ring, and whoever owned it always had enough to
+live on. But this they did not know, and hence sold the ring for a
+small sum. But no sooner was the ring gone than they began to grow
+poorer and poorer, and at last did not know when they would get their
+next meal. They had a dog and a cat, and these had to go hungry as
+well. Then the two animals took counsel together as to how they might
+restore to their owners their former good fortune. At length the dog
+hit upon an idea.",115,owner,is capable of,name_pet,Who can give a pet a name?,It's owner.
+1,"Once upon a time there was a man and his wife and they had a ring of
+gold. It was a lucky ring, and whoever owned it always had enough to
+live on. But this they did not know, and hence sold the ring for a
+small sum. But no sooner was the ring gone than they began to grow
+poorer and poorer, and at last did not know when they would get their
+next meal. They had a dog and a cat, and these had to go hungry as
+well. Then the two animals took counsel together as to how they might
+restore to their owners their former good fortune. At length the dog
+hit upon an idea.",86,dog,is capable of,bark,What noise does a dog make?,A dog barks. 
+2,"""They must have the ring back again,"" he said to the cat.
+
+The cat answered: ""The ring has been carefully locked up in the
+chest, where no one can get at it.""
+
+""You must catch a mouse,"" said the dog, ""and the mouse must gnaw a
+hole in the chest and fetch out the ring. And if she does not want to,
+say that you will bite her to death, and you will see that she will do
+it.""",5,ring,is at location of,finger,Where do you wear a ring?,On my finger.
+2,"""They must have the ring back again,"" he said to the cat.
+
+The cat answered: ""The ring has been carefully locked up in the
+chest, where no one can get at it.""
+
+""You must catch a mouse,"" said the dog, ""and the mouse must gnaw a
+hole in the chest and fetch out the ring. And if she does not want to,
+say that you will bite her to death, and you will see that she will do
+it.""",30,chest,is used for,storing_things_in,What is a chest used for?,A chest is used for storing things.
+3,"This advice pleased the cat, and she caught a mouse. Then she wanted
+to go to the house in which stood the chest, and the dog came after.
+They came to a broad river. And since the cat could not swim, the dog
+took her on his back and swam across with her. Then the cat carried
+the mouse to the house in which the chest stood. The mouse gnawed a
+hole in the chest, and fetched out the ring. The cat put the ring in
+her mouth and went back to the river, where the dog was waiting for
+her, and swam across with her. Then they started out together for
+home, in order to bring the lucky ring to their master and mistress.
+But the dog could only run along the ground; when there was a house in
+the way he always had to go around it. The cat, however, quickly
+climbed over the roof, and so she reached home long before the dog,
+and brought the ring to her master.",10,mouse,is at location of,hole_in_wall,Where do mice live inside a house?,Inside a hole in the wall.
+3,"This advice pleased the cat, and she caught a mouse. Then she wanted
+to go to the house in which stood the chest, and the dog came after.
+They came to a broad river. And since the cat could not swim, the dog
+took her on his back and swam across with her. Then the cat carried
+the mouse to the house in which the chest stood. The mouse gnawed a
+hole in the chest, and fetched out the ring. The cat put the ring in
+her mouth and went back to the river, where the dog was waiting for
+her, and swam across with her. Then they started out together for
+home, in order to bring the lucky ring to their master and mistress.
+But the dog could only run along the ground; when there was a house in
+the way he always had to go around it. The cat, however, quickly
+climbed over the roof, and so she reached home long before the dog,
+and brought the ring to her master.",175,roof,is a,top_of_building,Where is a roof found?,A roof is found on top of a building.
+4,"Then her master said to his wife: ""What a good creature the cat is! We
+will always give her enough to eat and care for her as though she were
+our own child!""
+
+But when the dog came home they beat him and scolded him, because he
+had not helped to bring home the ring again. And the cat sat by the
+fireplace, purred and said never a word. Then the dog grew angry at
+the cat, because she had robbed him of his reward, and when he saw her
+he chased her and tried to seize her.
+
+And ever since that day cat and dog are enemies.",6,wife,is the antonym of,husband,What is the opposite of a wife?,A husband.
+4,"Then her master said to his wife: ""What a good creature the cat is! We
+will always give her enough to eat and care for her as though she were
+our own child!""
+
+But when the dog came home they beat him and scolded him, because he
+had not helped to bring home the ring again. And the cat sat by the
+fireplace, purred and said never a word. Then the dog grew angry at
+the cat, because she had robbed him of his reward, and when he saw her
+he chased her and tried to seize her.
+
+And ever since that day cat and dog are enemies.",119,enemy,is the antonym of,friend,What is the opposite of enemy?,Friend is the opposite of enemy.

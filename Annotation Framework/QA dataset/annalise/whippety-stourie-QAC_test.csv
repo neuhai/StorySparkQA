@@ -1,0 +1,13 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+4,9,sob,has subevent,cry,What is it called when you cry really hard?,Sobbing.
+3,46,born,has subevent,cry,What does a baby do when it is born?,It cries.
+2,127,pig,has property,rolling_in_mud,What animal rolls in the mud?,A pig.
+9,82,sing,has subevent,join_choir,What do you do when you join a choir?,You sing.
+1,165,hum,has subevent,sing,What is it called when you sing without words?,Humming.
+8,20,spring,has subevent,grow,What season do plants grow in?,The spring.
+11,25,pig,has property,rolling_in_mud,What animals roll in mud?,Pigs.
+7,170,kitchen,is used for,cook_food,Where do you cook food?,The kitchen.
+6,41,green,is a,color,What color are plants?,Green.
+5,74,oil,is used for,cars,What powers cars?,Oil.
+12,142,book,is used for,learning,What do you use a book for?,Learning.
+10,135,knee,is part of,leg,What is your knee apart of?,My leg.

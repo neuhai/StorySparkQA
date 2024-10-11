@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="This is an empty template for any use.">
+    <meta name="referrer" content="no-referrer">
+
+    <title>Dataset labeling</title>
+
+    <!-- link to CSS -->
+    <!--link rel="stylesheet" href="../static/css/styles.css">-->
+    <link rel="stylesheet" href="../static/css/styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/themes/material.css"/>
+    <!-- jQuery CSS/Js -->
+    <script src="{{url_for('static', filename = 'jquery-3.6.4.min.js')}}"></script>
+    <!--<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>-->
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
+    <!-- Fontawesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!--font: Mulish-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,400;0,600;0,800;0,900;1,200;1,400;1,600;1,800;1,900&display=swap" rel="stylesheet">
+
+    <!--bootstrap css-->
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">-->
+
+    <!-- D3 -->
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+
+    <!-- Animation-->
+    <script src="https://unpkg.com/@popperjs/core@2"></script>
+    <script src="https://unpkg.com/tippy.js@6"></script>
+</head>
+
+<body> 
+    <div id="content">
+        <div id="LoginBox">
+            <div id="header">
+                <p1>Log In</p1>
+            </div>
+            <div class="login-item">
+                <input type="text" id="InputUsername" placeholder="Please enter your user name." />
+            </div>
+            <div class="login-item">
+                <a href="javascript:;" onclick="Login()">Login</a>
+            </div>
+        </div>
+        <div id="example_space">
+            <div id="title_space">
+                <p id="StoryTitle"></p>
+                <input id="finish_button" type="button" value="Next>>" onclick="get_paragraph()" />
+            </div>
+            <div id="text_space"></div>
+            <div id="SelectWordInst"></div>
+        </div>
+        <div id="AnnotationSpace">
+            <div id="NoKnowledge">
+
+            </div>
+            <div id="concept_space">
+                <div id="AboveMeaning"></div>
+                <div id="meaning_space">
+                    <p id="ShowMeaning"></p>
+                </div>
+                <div id="AboveTriples"></div>
+                <center><p id="ShowTriples"></p></center>
+            </div>
+            <div id="SelectTripleInst"></div>
+            <div id="CreateQAInst"></div>
+            <div id="QA">
+                <form id="pair">
+                    <!--<pre class="QAInput">Question:    <input id="question" class="qa"></pre>
+                    <pre class="QAInput">Answer:       <input id="answer" class="qa"></pre>-->
+                    <p class="QAInput">Question</p>
+                    <input id="question" class="qa">
+                    <p class="QAInput">Answer</p>
+                    <input id="answer" class="qa">
+                </form>
+                <center><input id="submit" type="button" value="Submit" onclick="sub()" style="display:none"/></center>
+            </div>
+        </div>      
+    </div>
+    <script src="../static/js/interactions.js"></script>
+
+</body></html>

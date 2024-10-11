@@ -1,0 +1,15 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+1,53,woman,is the antonym of,man,What is the opposite of a man?,A woman.
+8,48,eagle,is a,bird,What type of animal is an eagle?,A bird.
+7,51,lead,causes,in_charge_of_project,What is a leaders job in a project?,They are in charge of the project.
+14,26,straight,is the antonym of,curved,What is the opposite of curved?,Straight.
+11,63,safe,is used for,keeping_things_safe,What do you keep special things safe in?,A safe.
+15,78,bride,is at location of,wedding,Where can you find a bride?,At a wedding.
+2,30,dragon,is a,giant_flying_lizard,What mythical creature is a giant flying lizard?,A dragon.
+9,29,cloud,is used for,rain,What creates rain?,Clouds.
+10,127,hill,is used for,climb,What can you climb?,A hill.
+4,69,end,is the antonym of,begin,What is the opposite of to end?,To begin.
+12,30,bell,is at location of,church,What does a bell do?,Ring.
+6,103,sun,is capable of,shine_bright,What shines bright in the sky?,The sun.
+13,27,brave,is the antonym of,cowardly,What is the opposite if brave?,Coward.
+5,104,mountain,is used for,climbing,What can you climb?,A mountain.

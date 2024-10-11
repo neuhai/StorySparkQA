@@ -1,0 +1,6 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+5,101,book,is made of,paper,What are books made of?,Paper.
+4,9,hat,is at location of,head,Where on your body do you wear a hat?,My head.
+6,49,ant,is at location of,anthill,Where do ants live?,In an anthill.
+1,64,kettle,is used for,boil_water,What do you boil water for tea in?,A kettle.
+2,44,purple,is a,color,What color is an eggplant?,Purple.

@@ -1,0 +1,222 @@
+section_id,section_text,word_id,concept(sub),relation,obj,question,each_answer
+1,"In the old days there lived on a headland that juts out into the
+northwestern corner of Lake Rasval, in the neighborhood of the Linde
+mining-district, a charcoal-burner named Nils, generally known as
+Charcoal Nils. He let a farm-hand attend to his little plot of land,
+and he himself made his home in the forest, where he chopped wood in
+the summer and burned it to charcoal in the winter. Yet no matter how
+hard he struggled, his work was unblessed with reward, and no one ever
+spoke of him save as poor Charcoal Nils.",22,neighborhood,is capable of,consist_of_several_blocks,What is a several blocks of housing called?,A neighborhood.
+1,"In the old days there lived on a headland that juts out into the
+northwestern corner of Lake Rasval, in the neighborhood of the Linde
+mining-district, a charcoal-burner named Nils, generally known as
+Charcoal Nils. He let a farm-hand attend to his little plot of land,
+and he himself made his home in the forest, where he chopped wood in
+the summer and burned it to charcoal in the winter. Yet no matter how
+hard he struggled, his work was unblessed with reward, and no one ever
+spoke of him save as poor Charcoal Nils.",90,reward,is a,offer,What is a reward?,A reward is something good you get for doing something.
+2,"One day, when he was on the opposite shore of the lake, near the
+gloomy Harsberg, a strange woman came up to him, and asked whether he
+needed some one to help him with his charcoal burning.",1,day,is part of,week,What is 7 days equal to?,A week.
+2,"One day, when he was on the opposite shore of the lake, near the
+gloomy Harsberg, a strange woman came up to him, and asked whether he
+needed some one to help him with his charcoal burning.",1,day,is part of,week,How many days are in a week?,There are 7 days in a week.
+3,"""Yes, indeed,"" said he, ""help would be welcome."" So she began to
+gather blocks of wood and tree-trunks, more than Charcoal Nils could
+have dragged together with his horse, and by noon there was enough
+wood for a new kiln. When evening came, she asked the charcoal-burner
+whether he were satisfied with the day's work she had done, and if
+she were to come back the next day.",67,work,is at location of,desk,Where do you do work?,A desk.
+3,"""Yes, indeed,"" said he, ""help would be welcome."" So she began to
+gather blocks of wood and tree-trunks, more than Charcoal Nils could
+have dragged together with his horse, and by noon there was enough
+wood for a new kiln. When evening came, she asked the charcoal-burner
+whether he were satisfied with the day's work she had done, and if
+she were to come back the next day.",81,day,has property,light,Is it light or dark during the day?,It is light during the day.
+4,"That suited the charcoal-burner perfectly, and she came back the next
+day and all the following ones. And when the kiln had been burned out
+she helped Nils clear it, and never before had he had such a quantity
+of charcoal, nor charcoal of so fine a quality.",30,clear,is the antonym of,cloudy,What is the opposite of a clear sky?,A cloudy sky.
+4,"That suited the charcoal-burner perfectly, and she came back the next
+day and all the following ones. And when the kiln had been burned out
+she helped Nils clear it, and never before had he had such a quantity
+of charcoal, nor charcoal of so fine a quality.",25,burn,is a,injury,What happens if you get burned?,You get hurt if you get burned.
+5,"So she became his wife and lived with him in the wood for three years.
+They had three children, yet this worried Nils but little, seeing that
+she looked after them, and they gave him no trouble.",19,child,is at location of,school,Where do children go to learn?,School.
+5,"So she became his wife and lived with him in the wood for three years.
+They had three children, yet this worried Nils but little, seeing that
+she looked after them, and they gave him no trouble.",19,child,is at location of,school,Where do children go to learn?,Children go to school to learn.
+6,"But when the fourth year came, she grew more exacting, and insisted on
+going back to his home with him, and living with him there. Nils
+wished to hear nothing about this; yet since she was so useful to him
+in his charcoal-burning, he did not betray his feelings, and said he
+would think it over.",32,hear,has subevent,listen,What do you need to do to listen?,Hear. 
+6,"But when the fourth year came, she grew more exacting, and insisted on
+going back to his home with him, and living with him there. Nils
+wished to hear nothing about this; yet since she was so useful to him
+in his charcoal-burning, he did not betray his feelings, and said he
+would think it over.",42,useful,is the antonym of,useless,What is the opposite of useful?,Useless is the opposite of useful.
+7,"It happened one Sunday that he went to church--where he had not been
+for many years, and what he heard there brought up thoughts he had not
+known since the innocent days of his childhood. He began to wonder
+whether there were not some hocus-pocus about the charcoal-burning,
+and whether it were not due to the forest woman, who aided him so
+willingly.",34,day,is the antonym of,night,What is the opposite of day?,Night.
+7,"It happened one Sunday that he went to church--where he had not been
+for many years, and what he heard there brought up thoughts he had not
+known since the innocent days of his childhood. He began to wonder
+whether there were not some hocus-pocus about the charcoal-burning,
+and whether it were not due to the forest woman, who aided him so
+willingly.",61,forest,is a,natural_growth_area,What grows in a forest?,Trees grow in a forest.
+8,"Preoccupied with this and other thoughts, he forgot while returning to
+his kiln, that he had promised the strange woman at the very
+beginning, when she had first helped him, that, whenever he had been
+home and was returning to the kiln, he would rap three times with his
+ax against an old pine-tree not far from it. On this occasion, as we
+have said, he forgot the sign, and as a result he saw something that
+nearly robbed him of his wits.",84,saw,is at location of,toolbox,Where do you keep a saw?,A tool box.
+8,"Preoccupied with this and other thoughts, he forgot while returning to
+his kiln, that he had promised the strange woman at the very
+beginning, when she had first helped him, that, whenever he had been
+home and was returning to the kiln, he would rap three times with his
+ax against an old pine-tree not far from it. On this occasion, as we
+have said, he forgot the sign, and as a result he saw something that
+nearly robbed him of his wits.",61,far,is the antonym of,close,What is the opposite of far?,The opposite of far is close.
+8,"Preoccupied with this and other thoughts, he forgot while returning to
+his kiln, that he had promised the strange woman at the very
+beginning, when she had first helped him, that, whenever he had been
+home and was returning to the kiln, he would rap three times with his
+ax against an old pine-tree not far from it. On this occasion, as we
+have said, he forgot the sign, and as a result he saw something that
+nearly robbed him of his wits.",18,promise,is a,speech_act,What is a promise?,A promise is something you say you're going to do.
+9,"As he drew near the kiln, he saw it all aflame, and around it stood
+the three children and their mother, and they were clearing out the
+kiln. They were pulling down and putting out so that flames, smoke and
+ashes whirled sky-high, but instead of the spruce-branches that were
+generally used to put out the fire, they had bushy tails which they
+dipped in the snow!",73,snow,is used for,build_snowman,What do you use when you build a snowman?,Snow.
+9,"As he drew near the kiln, he saw it all aflame, and around it stood
+the three children and their mother, and they were clearing out the
+kiln. They were pulling down and putting out so that flames, smoke and
+ashes whirled sky-high, but instead of the spruce-branches that were
+generally used to put out the fire, they had bushy tails which they
+dipped in the snow!",41,flame,has subevent,burn,What happens if you get too close to a flame?,You get burned.
+9,"As he drew near the kiln, he saw it all aflame, and around it stood
+the three children and their mother, and they were clearing out the
+kiln. They were pulling down and putting out so that flames, smoke and
+ashes whirled sky-high, but instead of the spruce-branches that were
+generally used to put out the fire, they had bushy tails which they
+dipped in the snow!",73,snow,is a,frozen_water,What is snow made of?,Snow is made of water.
+10,"When Charcoal Nils had looked on for a while, he slunk back to the old
+pine-tree, and made its trunk echo to the sound of his three
+ax-strokes till one could hear them on the Harsberg. Then he went to
+the kiln, as though he had seen nothing, and all went on as before.
+The kiln was glowing with a handsome, even glow, and the tall woman
+was about and working as usual.",74,woman,is the antonym of,girl,What does a girl grow up to be?,A woman.
+10,"When Charcoal Nils had looked on for a while, he slunk back to the old
+pine-tree, and made its trunk echo to the sound of his three
+ax-strokes till one could hear them on the Harsberg. Then he went to
+the kiln, as though he had seen nothing, and all went on as before.
+The kiln was glowing with a handsome, even glow, and the tall woman
+was about and working as usual.",73,tall,is the antonym of,short,What is the opposite of tall?,Short is the opposite of tall.
+11,"As soon as she saw Charcoal Nils, she came back with her pressing
+demand that he take her home to his little house, and that they live
+there.
+
+""Yes, that shall come about,"" said Nils to console her, and turned
+back home to fetch a horse. But instead he went out on the headline
+of Kallernas, on the eastern shore of Lake Rasval, where a wise man
+lived, and asked the latter what he should do.",19,home,is a,where_live,Where do you live at?,My home.
+11,"As soon as she saw Charcoal Nils, she came back with her pressing
+demand that he take her home to his little house, and that they live
+there.
+
+""Yes, that shall come about,"" said Nils to console her, and turned
+back home to fetch a horse. But instead he went out on the headline
+of Kallernas, on the eastern shore of Lake Rasval, where a wise man
+lived, and asked the latter what he should do.",23,house,is used for,shelter,Where do you stay for shelter?,A house.
+11,"As soon as she saw Charcoal Nils, she came back with her pressing
+demand that he take her home to his little house, and that they live
+there.
+
+""Yes, that shall come about,"" said Nils to console her, and turned
+back home to fetch a horse. But instead he went out on the headline
+of Kallernas, on the eastern shore of Lake Rasval, where a wise man
+lived, and asked the latter what he should do.",68,eastern,is the antonym of,western,What is the opposite of east?,West is the opposite of east.
+12,"The old man advised him to go home and hitch his horse to his
+charcoal-wagon, but to hitch the horse in such wise that there would
+be not a single loop either in the harness or traces. Then he was to
+mount the horse and ride back to the kiln without stopping, have the
+troll-woman and her children get into the wagon, and at once drive out
+on the ice with them.",69,drive,has subevent,get_in_car,What can you do when you get in a car?,Drive.
+12,"The old man advised him to go home and hitch his horse to his
+charcoal-wagon, but to hitch the horse in such wise that there would
+be not a single loop either in the harness or traces. Then he was to
+mount the horse and ride back to the kiln without stopping, have the
+troll-woman and her children get into the wagon, and at once drive out
+on the ice with them.",73,ice,is made of,water,What is ice made of?,Ice is made of water.
+13,"The charcoal-burner did as the old man told him, saddled his horse,
+paying strict attention that there were no loops in saddle or bridle,
+rode across the ice through the wood to his kiln, and told the
+troll-woman and her children to get in. Then he quickly turned back
+through the wood, out on the ice, and there let his horse run as fast
+as he could. When he reached the middle of the lake, he saw a pack of
+wolves running along in the direction of Aboda-land, at the northern
+end of the lake, and heading for the ice. Then he tore the
+saddle-harness from the traces, so that the wagon with the troll-folk
+was left standing on the bare ice, and rode as fast as his horse could
+carry him for the opposite shore. When the trolls saw the wolves they
+began to scream.",89,wolf,is capable of,give_howl,What animals howls?,A wolf.
+13,"The charcoal-burner did as the old man told him, saddled his horse,
+paying strict attention that there were no loops in saddle or bridle,
+rode across the ice through the wood to his kiln, and told the
+troll-woman and her children to get in. Then he quickly turned back
+through the wood, out on the ice, and there let his horse run as fast
+as he could. When he reached the middle of the lake, he saw a pack of
+wolves running along in the direction of Aboda-land, at the northern
+end of the lake, and heading for the ice. Then he tore the
+saddle-harness from the traces, so that the wagon with the troll-folk
+was left standing on the bare ice, and rode as fast as his horse could
+carry him for the opposite shore. When the trolls saw the wolves they
+began to scream.",156,wolf,is capable of,give_howl,What noise do wolves make?,Wolves howl.
+14,"""Turn back, turn back!"" cried the mother. ""And if you will not for my
+sake, then at least do so for the sake of Vipa (Peewee), your youngest
+daughter!"" But Charcoal Nils rode for the shore without looking back.
+Then he heard the troll-woman calling on others for aid.
+
+    ""Brother in the Harsberg,
+    Sister in Stripa,
+    Cousin in Ringfels;
+    Take the loop and pull!""",81,pull,is the antonym of,push,What is the opposite of pull?,Push.
+14,"""Turn back, turn back!"" cried the mother. ""And if you will not for my
+sake, then at least do so for the sake of Vipa (Peewee), your youngest
+daughter!"" But Charcoal Nils rode for the shore without looking back.
+Then he heard the troll-woman calling on others for aid.
+
+    ""Brother in the Harsberg,
+    Sister in Stripa,
+    Cousin in Ringfels;
+    Take the loop and pull!""",61,aid,is a,resource,What does aid mean?,Aid means help.
+15,"""There is no loop to pull!"" came the answer from deep within the
+Harsberg. ""Then catch him at Harkallarn."" ""He is not riding in that
+direction."" The reply came from Ringfels.
+
+And indeed Charcoal Nils did not ride in that direction; but over
+stick and stone straight to his own home. Yet when he reached his own
+courtyard, the horse fell, and a shot from the trolls tore away a
+corner of the stable. Nils shortly after fell sick, and had to lie
+a-bed for a number of weeks. When he was well again he sold his forest
+land, and worked the little farm by the cottage until his death. So
+that was one occasion when the troll-folk came off second best.",125,cottage,is at location of,village,Where are cottages located?,In a village.
+15,"""There is no loop to pull!"" came the answer from deep within the
+Harsberg. ""Then catch him at Harkallarn."" ""He is not riding in that
+direction."" The reply came from Ringfels.
+
+And indeed Charcoal Nils did not ride in that direction; but over
+stick and stone straight to his own home. Yet when he reached his own
+courtyard, the horse fell, and a shot from the trolls tore away a
+corner of the stable. Nils shortly after fell sick, and had to lie
+a-bed for a number of weeks. When he was well again he sold his forest
+land, and worked the little farm by the cottage until his death. So
+that was one occasion when the troll-folk came off second best.",125,cottage,is a,house,What is a cottage?,A cottage is a house.

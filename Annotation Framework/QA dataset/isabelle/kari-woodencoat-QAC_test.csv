@@ -1,0 +1,26 @@
+section_id,word_id,concept(sub),relation,obj,question,answer
+22,41,beautiful,is the antonym of,ugly,What is the opposite of beautiful?,The opposite of beautiful is ugly.
+12,33,thick,is the antonym of,thin,What is the opposite of thick?,The opposite of thick is thin.
+19,163,prince,is a,son_of_king,What is a prince?,A prince is the son of a king.
+7,98,hand,is part of,arm,What body part is your hand connected to?,Your hand is connected to your arm.
+23,19,tar,has property,black,What color is tar?,Tar is black.
+13,20,coat,is used for,keeping_warm_in_winter,What do you use a coat for?,You use a coat to stay warm.
+6,45,leaf,has subevent,turn,What do leaves do in the fall?,Leaves turn different colors in the fall.
+10,197,apple,is at location of,apple_tree,Where do apples come from?,Apples come from apple trees.
+2,44,ill,causes,go_to_doctor,Who do you go see when you're ill?,You go see the doctor when you're ill.
+24,155,bird,desires,fly,How do birds travel?,Birds fly to travel.
+3,21,stable,is a,home_for_horses,What kind of animals live in a stable?,Horses live in a stable.
+14,19,sad,is a,opposite_of_happy,What is the opposite of sad?,Happy is the opposite of sad.
+14,98,doubt,has subevent,disbelieve,What does doubt mean?,Doubt means you don't believe something.
+1,149,bread,is at location of,oven,Where do you bake bread?,You bake bread in the oven.
+20,63,prince,is a,son_of_king,Who is the father of a prince?,The king is the father of a prince.
+9,36,quick,is the antonym of,slow,What is the opposite of quick?,Slow is the opposite of quick.
+17,70,glove,is a,handwear,Where do you wear gloves?,You wear gloves on your hands.
+21,75,beg,is a,ask,What does beg mean?,Beg means ask.
+5,141,gain,has subevent,increase,What does gain mean?,Gain means get.
+8,82,strong,is the antonym of,weak,What is the opposite of strong?,Weak is the opposite of strong.
+16,39,wash,has subevent,cleanse,Why do you wash something?,You wash something to make it clean.
+11,121,strong,is the antonym of,weak,What is the opposite of strong?,Weak is the opposite of strong.
+18,17,towel,is capable of,dry_body,What is a towel used for?,A towel is used for drying things.
+4,71,leaf,is part of,tree,What happens to the leaves on trees in the winter?,"In the winter, leaves fall off the trees."
+25,201,foot,is at location of,sock,What do you wear to keep your feet warm?,You wear socks to keep your feet warm.
