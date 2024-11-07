@@ -1,5 +1,5 @@
 # StorySparkQA: A Dataset with External Commonsense Knowledge for Question and Answer Generation
-This repository contains the StorySparkQA dataset for our paper: StorySparkQA: A Dataset for Narrative Comprehension with External Commonsense Knowledge for Children Education.
+This repository contains the StorySparkQA dataset for our paper: [StorySparkQA: A Dataset for Narrative Comprehension with External Commonsense Knowledge for Children Education](https://arxiv.org/abs/2311.09756). This work is accepted at EMNLP 2024.
 
 The StorySparkQA dataset is constructed based on FairytaleQA, which contains CSV file of 278 fairytale stories from Project Gutenberg and a set of questions and answer pairs (QA-pairs) developed by educational experts based on an evidence-based theoretical framework. 
 StorySparkQA focuses on expanding external common-sense knowledge associated with source story texts to expand young children's knowledge about real-life.
@@ -74,3 +74,14 @@ Each story is presented in the form of a CSV file, which consists of the followi
 ## Future Work
 
 One of our future exploration involves using our StorySparkQA and models fine-tuned on our dataset to develop a human-AI education system that aids parents and early educators in formulating questions during story readings, addressing their constraints in language, knowledge, time, or motivation.
+
+## Citation
+
+```
+@article{chen2023fairytalecqa,
+  title={FairytaleCQA: Integrating a Commonsense Knowledge Graph into Children's Storybook Narratives},
+  author={Chen, Jiaju and Lu, Yuxuan and Zhang, Shao and Yao, Bingsheng and Dong, Yuanzhe and Xu, Ying and Li, Yunyao and Wang, Qianwen and Wang, Dakuo and Sun, Yuling},
+  journal={arXiv preprint arXiv:2311.09756},
+  year={2023}
+}
+```
