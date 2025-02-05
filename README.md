@@ -78,10 +78,11 @@ One of our future exploration involves using our StorySparkQA and models fine-tu
 ## Citation
 
 ```
-@article{chen2023fairytalecqa,
-  title={FairytaleCQA: Integrating a Commonsense Knowledge Graph into Children's Storybook Narratives},
+@inproceedings{chen2024storysparkqa,
+  title={StorySparkQA: Expert-Annotated QA Pairs with Real-World Knowledge for Children’s Story-Based Learning},
   author={Chen, Jiaju and Lu, Yuxuan and Zhang, Shao and Yao, Bingsheng and Dong, Yuanzhe and Xu, Ying and Li, Yunyao and Wang, Qianwen and Wang, Dakuo and Sun, Yuling},
-  journal={arXiv preprint arXiv:2311.09756},
-  year={2023}
+  booktitle={Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing},
+  pages={17351--17370},
+  year={2024}
 }
 ```
