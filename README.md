@@ -1,4 +1,18 @@
 # StorySparkQA: A Dataset with External Commonsense Knowledge for Question and Answer Generation
+
+<p align="center">
+    <a href="https://arxiv.org/abs/2311.09756">
+        <img src="https://img.shields.io/badge/arXiv-2311.09756-B31B1B.svg?style=plastic&logo=arxiv" alt="arXiv">
+    </a>
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=plastic" alt="License: MIT">
+    </a>
+</p>
+
+<p align="center">
+Jiaju Chen, Yuxuan Lu, Shao Zhang, Bingsheng Yao, Yuanzhe Dong, Ying Xu, Yunyao Li, Qianwen Wang, Dakuo Wang, Yuling Sun
+</p>
+
 This repository contains the StorySparkQA dataset for our paper: [StorySparkQA: A Dataset for Narrative Comprehension with External Commonsense Knowledge for Children Education](https://arxiv.org/abs/2311.09756). This work is accepted at EMNLP 2024.
 
 The StorySparkQA dataset is constructed based on FairytaleQA, which contains CSV file of 278 fairytale stories from Project Gutenberg and a set of questions and answer pairs (QA-pairs) developed by educational experts based on an evidence-based theoretical framework. 
@@ -74,6 +88,9 @@ Each story is presented in the form of a CSV file, which consists of the followi
 ## Future Work
 
 One of our future exploration involves using our StorySparkQA and models fine-tuned on our dataset to develop a human-AI education system that aids parents and early educators in formulating questions during story readings, addressing their constraints in language, knowledge, time, or motivation.
+
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Citation
 
