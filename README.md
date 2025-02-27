@@ -4,6 +4,9 @@
     <a href="https://arxiv.org/abs/2311.09756">
         <img src="https://img.shields.io/badge/arXiv-2311.09756-B31B1B.svg?style=plastic&logo=arxiv" alt="arXiv">
     </a>
+    <a href="https://huggingface.co/datasets/NEU-HAI/StorySparkQA">
+        <img src="https://img.shields.io/badge/HuggingFace-StorySparkQA-green?style=plastic&logo=huggingface&logoColor=%23FFD21E" alt="huggingface">
+    </a>
     <a href="https://opensource.org/licenses/MIT">
         <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=plastic" alt="License: MIT">
     </a>
